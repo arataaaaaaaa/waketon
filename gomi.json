@@ -1,0 +1,7014 @@
+{
+  "gomi": [
+    {
+      "comment": "紙にくるんで、外から分かるように指定袋に「キケン」と貼る",
+      "dictionaryID": "1",
+      "index": "アイスピック（センマイドオシ）",
+      "name": "アイスピック【千枚通し】",
+      "name_reduced": "アイスピック【千枚通シ】",
+      "typeID": "5",
+      "options": [],
+      "examples": [
+        "千枚通し"
+      ],
+      "simple": "アイスピック",
+      "simple_index": "アイスピック"
+    },
+    {
+      "comment": "",
+      "dictionaryID": "2",
+      "index": "アイロン",
+      "name": "アイロン",
+      "name_reduced": "アイロン",
+      "typeID": "5",
+      "options": [],
+      "examples": [],
+      "simple": "アイロン",
+      "simple_index": "アイロン"
+    },
+    {
+      "comment": "指定袋に入り、5kg以下のものは燃えないごみ",
+      "dictionaryID": "3",
+      "index": "アイロンダイ",
+      "name": "アイロン台",
+      "name_reduced": "アイロン台",
+      "typeID": "4",
+      "options": [],
+      "examples": [],
+      "simple": "アイロン台",
+      "simple_index": "アイロンダイ"
+    },
+    {
+      "comment": "中身を使い切って、水洗いする　ガソリンなどのオイル缶・ペンキ缶は燃えないごみ\nカセットコンロ用ボンベ・スプレー缶はカセットボンベ・スプレー缶の日に",
+      "dictionaryID": "4",
+      "index": "アキカン（インショクヨウ、チョウミリョウ）（カンヅメ、ビールカン、ミルクカン）",
+      "name": "空き缶（飲食用、調味料）【缶詰、ビール缶、ミルク缶】",
+      "name_reduced": "空キ缶（飲食用、調味料）【缶詰、ビール缶、ミルク缶】",
+      "typeID": "2",
+      "options": [
+        "飲食用",
+        "調味料"
+      ],
+      "examples": [
+        "缶詰",
+        "ビール缶",
+        "ミルク缶"
+      ],
+      "simple": "空き缶",
+      "simple_index": "アキカン"
+    },
+    {
+      "comment": "中身を使い切って、水洗いする　割れたびん・耐熱ガラス・ガラスコップ・化粧品のびんは燃えないごみ\nビールびん・一升瓶など繰り返し使われるものはできるだけ販売店へ",
+      "dictionaryID": "5",
+      "index": "アキビン（インショクヨウ、チョウミリョウ）（ワインノビン、サケノビン、アブラノビン、ビールビン、クスリノビン）",
+      "name": "空きびん（飲食用、調味料）【ワインのびん、酒のびん、油のびん、ビール瓶、薬の瓶】",
+      "name_reduced": "空キビン（飲食用、調味料）【ワインノビン、酒ノビン、油ノビン、ビール瓶、薬ノ瓶】",
+      "typeID": "2",
+      "options": [
+        "飲食用",
+        "調味料"
+      ],
+      "examples": [
+        "ワインのびん",
+        "酒のびん",
+        "油のびん",
+        "ビール瓶",
+        "薬の瓶"
+      ],
+      "simple": "空きびん",
+      "simple_index": "アキビン"
+    },
+    {
+      "comment": "",
+      "dictionaryID": "6",
+      "index": "アクセサリー（ウデワ・ユビワ・ネックレスナド）（ブレスレット）",
+      "name": "アクセサリー（腕輪・指輪・ネックレスなど）【ブレスレット】",
+      "name_reduced": "アクセサリー（腕輪・指輪・ネックレスナド）【ブレスレット】",
+      "typeID": "5",
+      "options": [
+        "腕輪・指輪・ネックレスなど"
+      ],
+      "examples": [
+        "ブレスレット"
+      ],
+      "simple": "アクセサリー",
+      "simple_index": "アクセサリー"
+    },
+    {
+      "comment": "",
+      "dictionaryID": "7",
+      "index": "アコーディオンカーテン",
+      "name": "アコーディオンカーテン",
+      "name_reduced": "アコーディオンカーテン",
+      "typeID": "4",
+      "options": [],
+      "examples": [],
+      "simple": "アコーディオンカーテン",
+      "simple_index": "アコーディオンカーテン"
+    },
+    {
+      "comment": "",
+      "dictionaryID": "8",
+      "index": "アダプター（デンゲンヨウ）（ＡＣアダプター）",
+      "name": "アダプター（電源用）【ACアダプター】",
+      "name_reduced": "アダプター（電源用）【ＡＣアダプター】",
+      "typeID": "5",
+      "options": [
+        "電源用"
+      ],
+      "examples": [
+        "ACアダプター"
+      ],
+      "simple": "アダプター",
+      "simple_index": "アダプター"
+    },
+    {
+      "comment": "",
+      "dictionaryID": "9",
+      "index": "アツリョクナベ",
+      "name": "圧力鍋",
+      "name_reduced": "圧力鍋",
+      "typeID": "5",
+      "options": [],
+      "examples": [],
+      "simple": "圧力鍋",
+      "simple_index": "アツリョクナベ"
+    },
+    {
+      "comment": "",
+      "dictionaryID": "10",
+      "index": "アミキ",
+      "name": "編み機",
+      "name_reduced": "編ミ機",
+      "typeID": "4",
+      "options": [],
+      "examples": [],
+      "simple": "編み機",
+      "simple_index": "アミキ"
+    },
+    {
+      "comment": "",
+      "dictionaryID": "14",
+      "index": "アルバム",
+      "name": "アルバム",
+      "name_reduced": "アルバム",
+      "typeID": "7",
+      "options": [],
+      "examples": [],
+      "simple": "アルバム",
+      "simple_index": "アルバム"
+    },
+    {
+      "comment": "中身を使い切って、水洗いする",
+      "dictionaryID": "11",
+      "index": "アルミカン（インショクヨウ）（カンビール、カンジュース）",
+      "name": "アルミ缶（飲食用）【缶ビール、缶ジュース】",
+      "name_reduced": "アルミ缶（飲食用）【缶ビール、缶ジュース】",
+      "typeID": "2",
+      "options": [
+        "飲食用"
+      ],
+      "examples": [
+        "缶ビール",
+        "缶ジュース"
+      ],
+      "simple": "アルミ缶",
+      "simple_index": "アルミカン"
+    },
+    {
+      "comment": "",
+      "dictionaryID": "12",
+      "index": "アルミハクナベ",
+      "name": "アルミ箔鍋",
+      "name_reduced": "アルミ箔鍋",
+      "typeID": "5",
+      "options": [],
+      "examples": [],
+      "simple": "アルミ箔鍋",
+      "simple_index": "アルミハクナベ"
+    },
+    {
+      "comment": "",
+      "dictionaryID": "13",
+      "index": "アルミホイル",
+      "name": "アルミホイル",
+      "name_reduced": "アルミホイル",
+      "typeID": "5",
+      "options": [],
+      "examples": [],
+      "simple": "アルミホイル",
+      "simple_index": "アルミホイル"
+    },
+    {
+      "comment": "指定袋に入り、5kg以下のものは燃えないごみ",
+      "dictionaryID": "15",
+      "index": "アンテナ（ＢＳアンテナ、パラボラアンテナ、スカパーアンテナ）、ビーエス",
+      "name": "アンテナ【BSアンテナ、パラボラアンテナ、スカパーアンテナ】",
+      "name_reduced": "アンテナ【ＢＳアンテナ、パラボラアンテナ、スカパーアンテナ】",
+      "typeID": "4",
+      "options": [],
+      "examples": [
+        "BSアンテナ",
+        "パラボラアンテナ",
+        "スカパーアンテナ"
+      ],
+      "simple": "アンテナ",
+      "simple_index": "アンテナ"
+    },
+    {
+      "comment": "指定袋に入り、5kg以下のものは燃えるごみ",
+      "dictionaryID": "16",
+      "index": "イショウケース（プラセイ）（イルイケース、イショウバコ）",
+      "name": "衣装ケース（プラ製）【衣類ケース、衣装箱】",
+      "name_reduced": "衣装ケース（プラ製）【衣類ケース、衣装箱】",
+      "typeID": "4",
+      "options": [
+        "プラ製"
+      ],
+      "examples": [
+        "衣類ケース",
+        "衣装箱"
+      ],
+      "simple": "衣装ケース",
+      "simple_index": "イショウケース"
+    },
+    {
+      "comment": "指定袋に入り、5kg以下のものは燃えないごみ",
+      "dictionaryID": "17",
+      "index": "イス（キンゾクセイ）（チェアー、スツール、イス、チェア、パイプイス）",
+      "name": "いす（金属製）【チェアー、スツール、椅子、チェア、パイプいす】",
+      "name_reduced": "イス（金属製）【チェアー、スツール、椅子、チェア、パイプイス】",
+      "typeID": "4",
+      "options": [
+        "金属製"
+      ],
+      "examples": [
+        "チェアー",
+        "スツール",
+        "椅子",
+        "チェア",
+        "パイプいす"
+      ],
+      "simple": "いす",
+      "simple_index": "イス"
+    },
+    {
+      "comment": "指定袋に入り、5kg以下のものは燃えるごみ",
+      "dictionaryID": "18",
+      "index": "イス（モクセイ・プラセイ）（チェアー、スツール、イス、チェア）",
+      "name": "いす（木製・プラ製）【チェアー、スツール、椅子、チェア】",
+      "name_reduced": "イス（木製・プラ製）【チェアー、スツール、椅子、チェア】",
+      "typeID": "4",
+      "options": [
+        "木製・プラ製"
+      ],
+      "examples": [
+        "チェアー",
+        "スツール",
+        "椅子",
+        "チェア"
+      ],
+      "simple": "いす",
+      "simple_index": "イス"
+    },
+    {
+      "comment": "指定袋に入り、5kg以下のものは燃えないごみ",
+      "dictionaryID": "19",
+      "index": "イチリンシャ",
+      "name": "一輪車",
+      "name_reduced": "一輪車",
+      "typeID": "4",
+      "options": [],
+      "examples": [],
+      "simple": "一輪車",
+      "simple_index": "イチリンシャ"
+    },
+    {
+      "comment": "できるだけ販売店へ中身を使い切って、水洗いする",
+      "dictionaryID": "20",
+      "index": "イッショウビン",
+      "name": "一升瓶",
+      "name_reduced": "一升瓶",
+      "typeID": "2",
+      "options": [],
+      "examples": [],
+      "simple": "一升瓶",
+      "simple_index": "イッショウビン"
+    },
+    {
+      "comment": "中身を使い切る",
+      "dictionaryID": "21",
+      "index": "イットカン（トウユカン）",
+      "name": "一斗缶【灯油缶】",
+      "name_reduced": "一斗缶【灯油缶】",
+      "typeID": "5",
+      "options": [],
+      "examples": [
+        "灯油缶"
+      ],
+      "simple": "一斗缶",
+      "simple_index": "イットカン"
+    },
+    {
+      "comment": "地域の資源（古紙など）集団回収で集めている場合はできるだけ資源集団回収へ",
+      "dictionaryID": "22",
+      "index": "イフク（ウワギ、ズボン、ジャケット、フク、スカート、ジーンズ、ヨウフク、イリョウ、カワ、スキーウェア）",
+      "name": "衣服【上着、ズボン、ジャケット、服、スカート、ジーンズ、洋服、衣料、革、スキーウェア】",
+      "name_reduced": "衣服【上着、ズボン、ジャケット、服、スカート、ジーンズ、洋服、衣料、革、スキーウェア】",
+      "typeID": "7",
+      "options": [],
+      "examples": [
+        "上着",
+        "ズボン",
+        "ジャケット",
+        "服",
+        "スカート",
+        "ジーンズ",
+        "洋服",
+        "衣料",
+        "革",
+        "スキーウェア"
+      ],
+      "simple": "衣服",
+      "simple_index": "イフク"
+    },
+    {
+      "comment": "販売店などへ（家電リサイクル対象品）",
+      "dictionaryID": "23",
+      "index": "イルイカンソウキ",
+      "name": "衣類乾燥機",
+      "name_reduced": "衣類乾燥機",
+      "typeID": "9",
+      "options": [],
+      "examples": [],
+      "simple": "衣類乾燥機",
+      "simple_index": "イルイカンソウキ"
+    },
+    {
+      "comment": "金属が含まれている場合は燃えないごみ",
+      "dictionaryID": "24",
+      "index": "イレバ（キンバ、ギンバ）",
+      "name": "入れ歯【金歯、銀歯】",
+      "name_reduced": "入レ歯【金歯、銀歯】",
+      "typeID": "7",
+      "options": [],
+      "examples": [
+        "金歯",
+        "銀歯"
+      ],
+      "simple": "入れ歯",
+      "simple_index": "イレバ"
+    },
+    {
+      "comment": "販売店へ（資源化ルートあり）",
+      "dictionaryID": "25",
+      "index": "インクカートリッジ（トナー、インクジェット、プリンターインク）",
+      "name": "インクカートリッジ【トナー、インクジェット、プリンターインク】",
+      "name_reduced": "インクカートリッジ【トナー、インクジェット、プリンターインク】",
+      "typeID": "7",
+      "options": [],
+      "examples": [
+        "トナー",
+        "インクジェット",
+        "プリンターインク"
+      ],
+      "simple": "インクカートリッジ",
+      "simple_index": "インクカートリッジ"
+    },
+    {
+      "comment": "",
+      "dictionaryID": "26",
+      "index": "インターホン",
+      "name": "インターホン",
+      "name_reduced": "インターホン",
+      "typeID": "5",
+      "options": [],
+      "examples": [],
+      "simple": "インターホン",
+      "simple_index": "インターホン"
+    },
+    {
+      "comment": "長いものは50cm以下に切って、束ねて指定袋に入れる\n太い枝、幹は大型ごみ",
+      "dictionaryID": "27",
+      "index": "ウエキノエダ（センテイシ、ラクヨウ、カレハ）",
+      "name": "植木の枝【剪定枝、落葉、枯葉】",
+      "name_reduced": "植木ノ枝【剪定枝、落葉、枯葉】",
+      "typeID": "7",
+      "options": [],
+      "examples": [
+        "剪定枝",
+        "落葉",
+        "枯葉"
+      ],
+      "simple": "植木の枝",
+      "simple_index": "ウエキノエダ"
+    },
+    {
+      "comment": "",
+      "dictionaryID": "28",
+      "index": "ウエキバチ（トウキセイ）（プランター）",
+      "name": "植木鉢（陶器製）【プランター】",
+      "name_reduced": "植木鉢（陶器製）【プランター】",
+      "typeID": "5",
+      "options": [
+        "陶器製"
+      ],
+      "examples": [
+        "プランター"
+      ],
+      "simple": "植木鉢",
+      "simple_index": "ウエキバチ"
+    },
+    {
+      "comment": "",
+      "dictionaryID": "29",
+      "index": "ウエキバチ（プラセイ・モクセイ）（プランター）",
+      "name": "植木鉢（プラ製・木製）【プランター】",
+      "name_reduced": "植木鉢（プラ製・木製）【プランター】",
+      "typeID": "7",
+      "options": [
+        "プラ製・木製"
+      ],
+      "examples": [
+        "プランター"
+      ],
+      "simple": "植木鉢",
+      "simple_index": "ウエキバチ"
+    },
+    {
+      "comment": "",
+      "dictionaryID": "30",
+      "index": "ウキワ",
+      "name": "浮輪",
+      "name_reduced": "浮輪",
+      "typeID": "7",
+      "options": [],
+      "examples": [],
+      "simple": "浮輪",
+      "simple_index": "ウキワ"
+    },
+    {
+      "comment": "",
+      "dictionaryID": "31",
+      "index": "ウデドケイ（ウォッチ、タイマー）",
+      "name": "腕時計【ウォッチ、タイマー】",
+      "name_reduced": "腕時計【ウォッチ、タイマー】",
+      "typeID": "5",
+      "options": [],
+      "examples": [
+        "ウォッチ",
+        "タイマー"
+      ],
+      "simple": "腕時計",
+      "simple_index": "ウデドケイ"
+    },
+    {
+      "comment": "",
+      "dictionaryID": "33",
+      "index": "エアキャップ（カンショウザイ）（プチプチ、エアーキャップ）",
+      "name": "エアキャップ（緩衝材）【プチプチ、エアーキャップ】",
+      "name_reduced": "エアキャップ（緩衝材）【プチプチ、エアーキャップ】",
+      "typeID": "3",
+      "options": [
+        "緩衝材"
+      ],
+      "examples": [
+        "プチプチ",
+        "エアーキャップ"
+      ],
+      "simple": "エアキャップ",
+      "simple_index": "エアキャップ"
+    },
+    {
+      "comment": "販売店などへ（家電リサイクル対象品）",
+      "dictionaryID": "34",
+      "index": "エアコン（クーラー）",
+      "name": "エアコン【クーラー】",
+      "name_reduced": "エアコン【クーラー】",
+      "typeID": "9",
+      "options": [],
+      "examples": [
+        "クーラー"
+      ],
+      "simple": "エアコン",
+      "simple_index": "エアコン"
+    },
+    {
+      "comment": "",
+      "dictionaryID": "32",
+      "index": "エアゾールカンノキャップ（プラセイ）（スプレーカンノキャップ）",
+      "name": "エアゾール缶のキャップ（プラ製）【スプレー缶のキャップ】",
+      "name_reduced": "エアゾール缶ノキャップ（プラ製）【スプレー缶ノキャップ】",
+      "typeID": "3",
+      "options": [
+        "プラ製"
+      ],
+      "examples": [
+        "スプレー缶のキャップ"
+      ],
+      "simple": "エアゾール缶のキャップ",
+      "simple_index": "エアゾールカンノキャップ"
+    },
+    {
+      "comment": "中身は全部使い切る。穴あけ不要。燃えないゴミと分けて中身の見える袋で出す。クリーンステーションに燃えないゴミと場所をわけて出す",
+      "dictionaryID": "35",
+      "index": "エアゾールカン（スプレーカン）",
+      "name": "エアゾール缶【スプレー缶】",
+      "name_reduced": "エアゾール缶【スプレー缶】",
+      "typeID": "6",
+      "options": [],
+      "examples": [
+        "スプレー缶"
+      ],
+      "simple": "エアゾール缶",
+      "simple_index": "エアゾールカン"
+    },
+    {
+      "comment": "中身を使い切って、水洗いする",
+      "dictionaryID": "36",
+      "index": "エイヨウドリンクノビン",
+      "name": "栄養ドリンクのびん",
+      "name_reduced": "栄養ドリンクノビン",
+      "typeID": "2",
+      "options": [],
+      "examples": [],
+      "simple": "栄養ドリンクのびん",
+      "simple_index": "エイヨウドリンクノビン"
+    },
+    {
+      "comment": "",
+      "dictionaryID": "37",
+      "index": "エムディ、ＭＤ",
+      "name": "MD",
+      "name_reduced": "ＭＤ",
+      "typeID": "5",
+      "options": [],
+      "examples": [],
+      "simple": "MD",
+      "simple_index": "エムディ、ＭＤ"
+    },
+    {
+      "comment": "",
+      "dictionaryID": "38",
+      "index": "エムディ、ＭＤノケース",
+      "name": "MDのケース",
+      "name_reduced": "ＭＤノケース",
+      "typeID": "7",
+      "options": [],
+      "examples": [],
+      "simple": "MDのケース",
+      "simple_index": "エムディ、ＭＤノケース"
+    },
+    {
+      "comment": "",
+      "dictionaryID": "39",
+      "index": "エムディ、ＭＤプレーヤー（ＭＤコンポ、ＭＤプレイヤー）",
+      "name": "MDプレーヤー【MDコンポ、MDプレイヤー】",
+      "name_reduced": "ＭＤプレーヤー【ＭＤコンポ、ＭＤプレイヤー】",
+      "typeID": "5",
+      "options": [],
+      "examples": [
+        "MDコンポ",
+        "MDプレイヤー"
+      ],
+      "simple": "MDプレーヤー",
+      "simple_index": "エムディ、ＭＤプレーヤー"
+    },
+    {
+      "comment": "販売店などに相談",
+      "dictionaryID": "40",
+      "index": "エンジンオイル（キカイアブラ）",
+      "name": "エンジンオイル【機械油】",
+      "name_reduced": "エンジンオイル【機械油】",
+      "typeID": "9",
+      "options": [],
+      "examples": [
+        "機械油"
+      ],
+      "simple": "エンジンオイル",
+      "simple_index": "エンジンオイル"
+    },
+    {
+      "comment": "",
+      "dictionaryID": "41",
+      "index": "エンチョウコード（デンキコード、テーブルタップ）",
+      "name": "延長コード【電気コード、テーブルタップ】",
+      "name_reduced": "延長コード【電気コード、テーブルタップ】",
+      "typeID": "5",
+      "options": [],
+      "examples": [
+        "電気コード",
+        "テーブルタップ"
+      ],
+      "simple": "延長コード",
+      "simple_index": "エンチョウコード"
+    },
+    {
+      "comment": "",
+      "dictionaryID": "42",
+      "index": "エンピツ（イロエンピツ、イロエンピツ）",
+      "name": "鉛筆【色えんぴつ、色鉛筆】",
+      "name_reduced": "鉛筆【色エンピツ、色鉛筆】",
+      "typeID": "7",
+      "options": [],
+      "examples": [
+        "色えんぴつ",
+        "色鉛筆"
+      ],
+      "simple": "鉛筆",
+      "simple_index": "エンピツ"
+    },
+    {
+      "comment": "",
+      "dictionaryID": "43",
+      "index": "オイルヒーター（ヒーター）",
+      "name": "オイルヒーター【ヒーター】",
+      "name_reduced": "オイルヒーター【ヒーター】",
+      "typeID": "4",
+      "options": [],
+      "examples": [
+        "ヒーター"
+      ],
+      "simple": "オイルヒーター",
+      "simple_index": "オイルヒーター"
+    },
+    {
+      "comment": "",
+      "dictionaryID": "44",
+      "index": "オウセツヨウイス（ソファー、イス）",
+      "name": "応接用いす【ソファー、椅子】",
+      "name_reduced": "応接用イス【ソファー、椅子】",
+      "typeID": "4",
+      "options": [],
+      "examples": [
+        "ソファー",
+        "椅子"
+      ],
+      "simple": "応接用いす",
+      "simple_index": "オウセツヨウイス"
+    },
+    {
+      "comment": "",
+      "dictionaryID": "49",
+      "index": "オチバ（ハッパ、カレハ）",
+      "name": "落ち葉【葉っぱ、枯葉】",
+      "name_reduced": "落チ葉【葉ッパ、枯葉】",
+      "typeID": "7",
+      "options": [],
+      "examples": [
+        "葉っぱ",
+        "枯葉"
+      ],
+      "simple": "落ち葉",
+      "simple_index": "オチバ"
+    },
+    {
+      "comment": "刃は紙にくるんで、外からわかるように指定袋に「キケン」と貼る",
+      "dictionaryID": "50",
+      "index": "オノ（ナタ）",
+      "name": "斧【なた】",
+      "name_reduced": "斧【ナタ】",
+      "typeID": "5",
+      "options": [],
+      "examples": [
+        "なた"
+      ],
+      "simple": "斧",
+      "simple_index": "オノ"
+    },
+    {
+      "comment": "指定袋に入らないもの、または5kgを超えるものは大型ごみ",
+      "dictionaryID": "51",
+      "index": "オモチャ（キンゾクガフクマレルモノ）",
+      "name": "おもちゃ（金属が含まれるもの）",
+      "name_reduced": "オモチャ（金属ガ含マレルモノ）",
+      "typeID": "5",
+      "options": [
+        "金属が含まれるもの"
+      ],
+      "examples": [],
+      "simple": "おもちゃ",
+      "simple_index": "オモチャ"
+    },
+    {
+      "comment": "指定袋に入らないもの、または5kgを超えるものは大型ごみ",
+      "dictionaryID": "52",
+      "index": "オモチャ（モクセイ・プラセイ）（ツミキ）",
+      "name": "おもちゃ（木製・プラ製）【積み木】",
+      "name_reduced": "オモチャ（木製・プラ製）【積ミ木】",
+      "typeID": "7",
+      "options": [
+        "木製・プラ製"
+      ],
+      "examples": [
+        "積み木"
+      ],
+      "simple": "おもちゃ",
+      "simple_index": "オモチャ"
+    },
+    {
+      "comment": "大型のものは販売店等に相談",
+      "dictionaryID": "53",
+      "index": "オルガン（デンシオルガン）",
+      "name": "オルガン【電子オルガン】",
+      "name_reduced": "オルガン【電子オルガン】",
+      "typeID": "4",
+      "options": [],
+      "examples": [
+        "電子オルガン"
+      ],
+      "simple": "オルガン",
+      "simple_index": "オルガン"
+    },
+    {
+      "comment": "指定袋に入らないもの、または5kgを超えるものは大型ごみ",
+      "dictionaryID": "54",
+      "index": "オンスイセンジョウキツキベンザ（ウォシュレット、ダンボウベンザ、センジョウベンザ、オンスイセンジョウベンザ、オンスイベンザ、シャワートイレ）",
+      "name": "温水洗浄機付便座【ウォシュレット、暖房便座、洗浄便座、温水洗浄便座、温水便座、シャワートイレ】",
+      "name_reduced": "温水洗浄機付便座【ウォシュレット、暖房便座、洗浄便座、温水洗浄便座、温水便座、シャワートイレ】",
+      "typeID": "5",
+      "options": [],
+      "examples": [
+        "ウォシュレット",
+        "暖房便座",
+        "洗浄便座",
+        "温水洗浄便座",
+        "温水便座",
+        "シャワートイレ"
+      ],
+      "simple": "温水洗浄機付便座",
+      "simple_index": "オンスイセンジョウキツキベンザ"
+    },
+    {
+      "comment": "",
+      "dictionaryID": "55",
+      "index": "オンドケイ（スイギンタイオンケイ）",
+      "name": "温度計【水銀体温計】",
+      "name_reduced": "温度計【水銀体温計】",
+      "typeID": "5",
+      "options": [],
+      "examples": [
+        "水銀体温計"
+      ],
+      "simple": "温度計",
+      "simple_index": "オンドケイ"
+    },
+    {
+      "comment": "",
+      "dictionaryID": "45",
+      "index": "オーディオラック（オーディオボード）",
+      "name": "オーディオラック（オーディオボード）",
+      "name_reduced": "オーディオラック（オーディオボード）",
+      "typeID": "4",
+      "options": [
+        "オーディオボード"
+      ],
+      "examples": [],
+      "simple": "オーディオラック",
+      "simple_index": "オーディオラック"
+    },
+    {
+      "comment": "販売店または二輪車リサイクルコールセンター（050-3000-0727）に相談",
+      "dictionaryID": "46",
+      "index": "オートバイ（ゲンツキバイク、タンシャ、ジドウニリン）",
+      "name": "オートバイ【原付バイク、単車、自動二輪】",
+      "name_reduced": "オートバイ【原付バイク、単車、自動二輪】",
+      "typeID": "9",
+      "options": [],
+      "examples": [
+        "原付バイク",
+        "単車",
+        "自動二輪"
+      ],
+      "simple": "オートバイ",
+      "simple_index": "オートバイ"
+    },
+    {
+      "comment": "",
+      "dictionaryID": "47",
+      "index": "オーブントースター",
+      "name": "オーブントースター",
+      "name_reduced": "オーブントースター",
+      "typeID": "5",
+      "options": [],
+      "examples": [],
+      "simple": "オーブントースター",
+      "simple_index": "オーブントースター"
+    },
+    {
+      "comment": "",
+      "dictionaryID": "48",
+      "index": "オーブンレンジ（ガスレンジ）",
+      "name": "オーブンレンジ【ガスレンジ】",
+      "name_reduced": "オーブンレンジ【ガスレンジ】",
+      "typeID": "4",
+      "options": [],
+      "examples": [
+        "ガスレンジ"
+      ],
+      "simple": "オーブンレンジ",
+      "simple_index": "オーブンレンジ"
+    },
+    {
+      "comment": "",
+      "dictionaryID": "60",
+      "index": "カイチュウデントウ（ライト）",
+      "name": "懐中電灯【ライト】",
+      "name_reduced": "懐中電灯【ライト】",
+      "typeID": "5",
+      "options": [],
+      "examples": [
+        "ライト"
+      ],
+      "simple": "懐中電灯",
+      "simple_index": "カイチュウデントウ"
+    },
+    {
+      "comment": "",
+      "dictionaryID": "61",
+      "index": "カイノカラ（カキ・アサリナド）",
+      "name": "貝の殻（牡蠣・あさりなど）",
+      "name_reduced": "貝ノ殻（牡蠣・アサリナド）",
+      "typeID": "7",
+      "options": [
+        "牡蠣・あさりなど"
+      ],
+      "examples": [],
+      "simple": "貝の殻",
+      "simple_index": "カイノカラ"
+    },
+    {
+      "comment": "",
+      "dictionaryID": "62",
+      "index": "カイロ（ツカイステヲフクム）",
+      "name": "カイロ（使い捨てを含む）",
+      "name_reduced": "カイロ（使イ捨テヲ含ム）",
+      "typeID": "5",
+      "options": [
+        "使い捨てを含む"
+      ],
+      "examples": [],
+      "simple": "カイロ",
+      "simple_index": "カイロ"
+    },
+    {
+      "comment": "紙にくるんで、外からわかるように指定袋に「キケン」と貼る\n指定袋に入らないもの、または5kgを超えるものは大型ごみ",
+      "dictionaryID": "63",
+      "index": "カガミ（テカガミ）",
+      "name": "鏡【手鏡】",
+      "name_reduced": "鏡【手鏡】",
+      "typeID": "5",
+      "options": [],
+      "examples": [
+        "手鏡"
+      ],
+      "simple": "鏡",
+      "simple_index": "カガミ"
+    },
+    {
+      "comment": "",
+      "dictionaryID": "64",
+      "index": "カギ（キー）",
+      "name": "鍵【キー】",
+      "name_reduced": "鍵【キー】",
+      "typeID": "5",
+      "options": [],
+      "examples": [
+        "キー"
+      ],
+      "simple": "鍵",
+      "simple_index": "カギ"
+    },
+    {
+      "comment": "",
+      "dictionaryID": "65",
+      "index": "カサ",
+      "name": "傘",
+      "name_reduced": "傘",
+      "typeID": "5",
+      "options": [],
+      "examples": [],
+      "simple": "傘",
+      "simple_index": "カサ"
+    },
+    {
+      "comment": "",
+      "dictionaryID": "66",
+      "index": "カシカン（イットカンハノゾク）",
+      "name": "菓子缶（一斗缶は除く）",
+      "name_reduced": "菓子缶（一斗缶ハ除ク）",
+      "typeID": "2",
+      "options": [
+        "一斗缶は除く"
+      ],
+      "examples": [],
+      "simple": "菓子缶",
+      "simple_index": "カシカン"
+    },
+    {
+      "comment": "できるだけ地域の資源集団回収へ",
+      "dictionaryID": "67",
+      "index": "カシバコ（カミセイ）",
+      "name": "菓子箱（紙製）",
+      "name_reduced": "菓子箱（紙製）",
+      "typeID": "7",
+      "options": [
+        "紙製"
+      ],
+      "examples": [],
+      "simple": "菓子箱",
+      "simple_index": "カシバコ"
+    },
+    {
+      "comment": "中身は全部使い切る。穴あけ不要。燃えないゴミと分けて中身の見える袋で出す。クリーンステーションに燃えないゴミと場所をわけて出す",
+      "dictionaryID": "70",
+      "index": "カセットコンロヨウボンベ（カセットボンベ）",
+      "name": "カセットコンロ用ボンベ【カセットボンベ】",
+      "name_reduced": "カセットコンロ用ボンベ【カセットボンベ】",
+      "typeID": "6",
+      "options": [],
+      "examples": [
+        "カセットボンベ"
+      ],
+      "simple": "カセットコンロ用ボンベ",
+      "simple_index": "カセットコンロヨウボンベ"
+    },
+    {
+      "comment": "電池は抜いて燃えないごみ\nカセットコンロ用ボンベははずす",
+      "dictionaryID": "69",
+      "index": "カセットコンロ（テーブルコンロ）",
+      "name": "カセットコンロ【テーブルコンロ】",
+      "name_reduced": "カセットコンロ【テーブルコンロ】",
+      "typeID": "5",
+      "options": [],
+      "examples": [
+        "テーブルコンロ"
+      ],
+      "simple": "カセットコンロ",
+      "simple_index": "カセットコンロ"
+    },
+    {
+      "comment": "",
+      "dictionaryID": "71",
+      "index": "カセットテープ（ケースヲフクム）（カセットテープケース）",
+      "name": "カセットテープ（ケースを含む）【カセットテープケース】",
+      "name_reduced": "カセットテープ（ケースヲ含ム）【カセットテープケース】",
+      "typeID": "7",
+      "options": [
+        "ケースを含む"
+      ],
+      "examples": [
+        "カセットテープケース"
+      ],
+      "simple": "カセットテープ",
+      "simple_index": "カセットテープ"
+    },
+    {
+      "comment": "刃は紙にくるんで、外からわかるように指定袋に「キケン」と貼る",
+      "dictionaryID": "73",
+      "index": "カッター（カッターナイフ）",
+      "name": "カッター【カッターナイフ】",
+      "name_reduced": "カッター【カッターナイフ】",
+      "typeID": "5",
+      "options": [],
+      "examples": [
+        "カッターナイフ"
+      ],
+      "simple": "カッター",
+      "simple_index": "カッター"
+    },
+    {
+      "comment": "",
+      "dictionaryID": "75",
+      "index": "カップメンノヨウキ（カミセイ）",
+      "name": "カップめんの容器（紙製）",
+      "name_reduced": "カップメンノ容器（紙製）",
+      "typeID": "7",
+      "options": [
+        "紙製"
+      ],
+      "examples": [],
+      "simple": "カップめんの容器",
+      "simple_index": "カップメンノヨウキ"
+    },
+    {
+      "comment": "汚れを取る\n汚れが簡単に取れない場合は燃えるごみ",
+      "dictionaryID": "74",
+      "index": "カップメンノヨウキ（プラセイ）",
+      "name": "カップめんの容器（プラ製）",
+      "name_reduced": "カップメンノ容器（プラ製）",
+      "typeID": "3",
+      "options": [
+        "プラ製"
+      ],
+      "examples": [],
+      "simple": "カップめんの容器",
+      "simple_index": "カップメンノヨウキ"
+    },
+    {
+      "comment": "金属部分は、はずせるものははずして燃えないごみ",
+      "dictionaryID": "77",
+      "index": "カバン（キンゾクセイイガイ）（バッグ、カバン、アタッシュケース）",
+      "name": "かばん（金属製以外）【バッグ、鞄、アタッシュケース】",
+      "name_reduced": "カバン（金属製以外）【バッグ、鞄、アタッシュケース】",
+      "typeID": "7",
+      "options": [
+        "金属製以外"
+      ],
+      "examples": [
+        "バッグ",
+        "鞄",
+        "アタッシュケース"
+      ],
+      "simple": "かばん",
+      "simple_index": "カバン"
+    },
+    {
+      "comment": "",
+      "dictionaryID": "76",
+      "index": "カバン（キンゾクセイ）（バッグ、カバン、アタッシュケース）",
+      "name": "かばん（金属製）【バッグ、鞄、アタッシュケース】",
+      "name_reduced": "カバン（金属製）【バッグ、鞄、アタッシュケース】",
+      "typeID": "5",
+      "options": [
+        "金属製"
+      ],
+      "examples": [
+        "バッグ",
+        "鞄",
+        "アタッシュケース"
+      ],
+      "simple": "かばん",
+      "simple_index": "カバン"
+    },
+    {
+      "comment": "刃は紙にくるんで、外からわかるように指定袋に「キケン」と貼る",
+      "dictionaryID": "79",
+      "index": "カマ",
+      "name": "鎌",
+      "name_reduced": "鎌",
+      "typeID": "5",
+      "options": [],
+      "examples": [],
+      "simple": "鎌",
+      "simple_index": "カマ"
+    },
+    {
+      "comment": "汚物を除いて小さなポリ袋などに入れてから、指定袋に入れる。汚物はトイレに流す",
+      "dictionaryID": "80",
+      "index": "カミオムツ",
+      "name": "紙おむつ",
+      "name_reduced": "紙オムツ",
+      "typeID": "7",
+      "options": [],
+      "examples": [],
+      "simple": "紙おむつ",
+      "simple_index": "カミオムツ"
+    },
+    {
+      "comment": "紙にくるんで、外からわかるように指定袋に「キケン」と貼る",
+      "dictionaryID": "81",
+      "index": "カミソリ（ヒゲソリ、カミソリ）",
+      "name": "かみそり【ひげそり、剃刀】",
+      "name_reduced": "カミソリ【ヒゲソリ、剃刀】",
+      "typeID": "5",
+      "options": [],
+      "examples": [
+        "ひげそり",
+        "剃刀"
+      ],
+      "simple": "かみそり",
+      "simple_index": "カミソリ"
+    },
+    {
+      "comment": "500ml以上で内側が白いものは、できるだけ店頭回収へ\nまたは地域の資源集団回収へ（洗って、開いて、乾かして）",
+      "dictionaryID": "82",
+      "index": "カミパック",
+      "name": "紙パック",
+      "name_reduced": "紙パック",
+      "typeID": "7",
+      "options": [],
+      "examples": [],
+      "simple": "紙パック",
+      "simple_index": "カミパック"
+    },
+    {
+      "comment": "",
+      "dictionaryID": "84",
+      "index": "カメラ（デジカメ）",
+      "name": "カメラ【デジカメ】",
+      "name_reduced": "カメラ【デジカメ】",
+      "typeID": "5",
+      "options": [],
+      "examples": [
+        "デジカメ"
+      ],
+      "simple": "カメラ",
+      "simple_index": "カメラ"
+    },
+    {
+      "comment": "",
+      "dictionaryID": "85",
+      "index": "カラーボックス",
+      "name": "カラーボックス",
+      "name_reduced": "カラーボックス",
+      "typeID": "4",
+      "options": [],
+      "examples": [],
+      "simple": "カラーボックス",
+      "simple_index": "カラーボックス"
+    },
+    {
+      "comment": "",
+      "dictionaryID": "87",
+      "index": "カレハ",
+      "name": "枯葉",
+      "name_reduced": "枯葉",
+      "typeID": "7",
+      "options": [],
+      "examples": [],
+      "simple": "枯葉",
+      "simple_index": "カレハ"
+    },
+    {
+      "comment": "",
+      "dictionaryID": "88",
+      "index": "カンキセン",
+      "name": "換気扇",
+      "name_reduced": "換気扇",
+      "typeID": "5",
+      "options": [],
+      "examples": [],
+      "simple": "換気扇",
+      "simple_index": "カンキセン"
+    },
+    {
+      "comment": "紙にくるんで、外からわかるように指定袋に「キケン」と貼る",
+      "dictionaryID": "89",
+      "index": "カンキリ",
+      "name": "缶切り",
+      "name_reduced": "缶切リ",
+      "typeID": "5",
+      "options": [],
+      "examples": [],
+      "simple": "缶切り",
+      "simple_index": "カンキリ"
+    },
+    {
+      "comment": "",
+      "dictionaryID": "90",
+      "index": "カンソウザイ（シリカゲル）",
+      "name": "乾燥剤【シリカゲル】",
+      "name_reduced": "乾燥剤【シリカゲル】",
+      "typeID": "7",
+      "options": [],
+      "examples": [
+        "シリカゲル"
+      ],
+      "simple": "乾燥剤",
+      "simple_index": "カンソウザイ"
+    },
+    {
+      "comment": "",
+      "dictionaryID": "56",
+      "index": "カーコンポ（カーオーディオ）",
+      "name": "カーコンポ【カーオーディオ】",
+      "name_reduced": "カーコンポ【カーオーディオ】",
+      "typeID": "5",
+      "options": [],
+      "examples": [
+        "カーオーディオ"
+      ],
+      "simple": "カーコンポ",
+      "simple_index": "カーコンポ"
+    },
+    {
+      "comment": "地域の資源集団回収で集めている場合はできるだけ資源集団回収へ",
+      "dictionaryID": "57",
+      "index": "カーテン",
+      "name": "カーテン",
+      "name_reduced": "カーテン",
+      "typeID": "7",
+      "options": [],
+      "examples": [],
+      "simple": "カーテン",
+      "simple_index": "カーテン"
+    },
+    {
+      "comment": "",
+      "dictionaryID": "58",
+      "index": "カーナビ",
+      "name": "カーナビ",
+      "name_reduced": "カーナビ",
+      "typeID": "5",
+      "options": [],
+      "examples": [],
+      "simple": "カーナビ",
+      "simple_index": "カーナビ"
+    },
+    {
+      "comment": "丸めてひもでしばる\n指定袋に入り、5kg以下のものは燃えるごみ",
+      "dictionaryID": "59",
+      "index": "カーペット（ラグ、マット）",
+      "name": "カーペット【ラグ、マット】",
+      "name_reduced": "カーペット【ラグ、マット】",
+      "typeID": "4",
+      "options": [],
+      "examples": [
+        "ラグ",
+        "マット"
+      ],
+      "simple": "カーペット",
+      "simple_index": "カーペット"
+    },
+    {
+      "comment": "1口のものは燃えないごみ\n電池は抜いて燃えないごみ",
+      "dictionaryID": "68",
+      "index": "ガスコンロ（ガステーブル）２クチイジョウ",
+      "name": "ガスコンロ（ガステーブル）2口以上",
+      "name_reduced": "ガスコンロ（ガステーブル）２口以上",
+      "typeID": "4",
+      "options": [
+        "ガステーブル"
+      ],
+      "examples": [],
+      "simple": "ガスコンロ",
+      "simple_index": "ガスコンロ"
+    },
+    {
+      "comment": "販売店などに相談",
+      "dictionaryID": "72",
+      "index": "ガソリン（セキユ）",
+      "name": "ガソリン【石油】",
+      "name_reduced": "ガソリン【石油】",
+      "typeID": "9",
+      "options": [],
+      "examples": [
+        "石油"
+      ],
+      "simple": "ガソリン",
+      "simple_index": "ガソリン"
+    },
+    {
+      "comment": "",
+      "dictionaryID": "83",
+      "index": "ガムテープ（ネンチャクテープ）",
+      "name": "ガムテープ【粘着テープ】",
+      "name_reduced": "ガムテープ【粘着テープ】",
+      "typeID": "7",
+      "options": [],
+      "examples": [
+        "粘着テープ"
+      ],
+      "simple": "ガムテープ",
+      "simple_index": "ガムテープ"
+    },
+    {
+      "comment": "紙にくるんで、外からわかるように指定袋に「キケン」と貼る\n指定袋に入らないもの、または5kgを超えるものは大型ごみ",
+      "dictionaryID": "86",
+      "index": "ガラス",
+      "name": "ガラス",
+      "name_reduced": "ガラス",
+      "typeID": "5",
+      "options": [],
+      "examples": [],
+      "simple": "ガラス",
+      "simple_index": "ガラス"
+    },
+    {
+      "comment": "長いものは50センチ以下に切って、指定袋に入れる\n太い枝、幹は大型ごみ",
+      "dictionaryID": "94",
+      "index": "キノエダ・ミキ",
+      "name": "木の枝・幹",
+      "name_reduced": "木ノ枝・幹",
+      "typeID": "7",
+      "options": [],
+      "examples": [],
+      "simple": "木の枝・幹",
+      "simple_index": "キノエダ・ミキ"
+    },
+    {
+      "comment": "",
+      "dictionaryID": "95",
+      "index": "キャタツ",
+      "name": "脚立",
+      "name_reduced": "脚立",
+      "typeID": "4",
+      "options": [],
+      "examples": [],
+      "simple": "脚立",
+      "simple_index": "キャタツ"
+    },
+    {
+      "comment": "",
+      "dictionaryID": "96",
+      "index": "キャップ（キンゾクセイ）",
+      "name": "キャップ（金属製）",
+      "name_reduced": "キャップ（金属製）",
+      "typeID": "5",
+      "options": [
+        "金属製"
+      ],
+      "examples": [],
+      "simple": "キャップ",
+      "simple_index": "キャップ"
+    },
+    {
+      "comment": "",
+      "dictionaryID": "97",
+      "index": "キャップ（プラセイ）",
+      "name": "キャップ（プラ製）",
+      "name_reduced": "キャップ（プラ製）",
+      "typeID": "3",
+      "options": [
+        "プラ製"
+      ],
+      "examples": [],
+      "simple": "キャップ",
+      "simple_index": "キャップ"
+    },
+    {
+      "comment": "",
+      "dictionaryID": "98",
+      "index": "キャリーバッグ（キンゾク・プラセイ）（キャスターバッグ）",
+      "name": "キャリーバッグ（金属・プラ製）【キャスターバッグ】",
+      "name_reduced": "キャリーバッグ（金属・プラ製）【キャスターバッグ】",
+      "typeID": "5",
+      "options": [
+        "金属・プラ製"
+      ],
+      "examples": [
+        "キャスターバッグ"
+      ],
+      "simple": "キャリーバッグ",
+      "simple_index": "キャリーバッグ"
+    },
+    {
+      "comment": "",
+      "dictionaryID": "99",
+      "index": "キャリーバッグ（ヌノ・カワセイ）（キャスターバッグ）",
+      "name": "キャリーバッグ（布・皮製）【キャスターバッグ】",
+      "name_reduced": "キャリーバッグ（布・皮製）【キャスターバッグ】",
+      "typeID": "7",
+      "options": [
+        "布・皮製"
+      ],
+      "examples": [
+        "キャスターバッグ"
+      ],
+      "simple": "キャリーバッグ",
+      "simple_index": "キャリーバッグ"
+    },
+    {
+      "comment": "",
+      "dictionaryID": "100",
+      "index": "キュウトウキ",
+      "name": "給湯器",
+      "name_reduced": "給湯器",
+      "typeID": "4",
+      "options": [],
+      "examples": [],
+      "simple": "給湯器",
+      "simple_index": "キュウトウキ"
+    },
+    {
+      "comment": "できるだけ地域の資源集団回収へ",
+      "dictionaryID": "103",
+      "index": "キョウカショ",
+      "name": "教科書",
+      "name_reduced": "教科書",
+      "typeID": "7",
+      "options": [],
+      "examples": [],
+      "simple": "教科書",
+      "simple_index": "キョウカショ"
+    },
+    {
+      "comment": "",
+      "dictionaryID": "104",
+      "index": "キョウダイ（ケショウダイ、ドレッサー）",
+      "name": "鏡台【化粧台、ドレッサー】",
+      "name_reduced": "鏡台【化粧台、ドレッサー】",
+      "typeID": "4",
+      "options": [],
+      "examples": [
+        "化粧台",
+        "ドレッサー"
+      ],
+      "simple": "鏡台",
+      "simple_index": "キョウダイ"
+    },
+    {
+      "comment": "販売店などへ相談\n手提げ金庫は燃えないごみ",
+      "dictionaryID": "105",
+      "index": "キンコ（タイカ）（タイカキンコ）",
+      "name": "金庫（耐火）【耐火金庫】",
+      "name_reduced": "金庫（耐火）【耐火金庫】",
+      "typeID": "9",
+      "options": [
+        "耐火"
+      ],
+      "examples": [
+        "耐火金庫"
+      ],
+      "simple": "金庫",
+      "simple_index": "キンコ"
+    },
+    {
+      "comment": "",
+      "dictionaryID": "92",
+      "index": "キーボード（ガッキ）",
+      "name": "キーボード（楽器）",
+      "name_reduced": "キーボード（楽器）",
+      "typeID": "4",
+      "options": [
+        "楽器"
+      ],
+      "examples": [],
+      "simple": "キーボード",
+      "simple_index": "キーボード"
+    },
+    {
+      "comment": "パソコンと同時にメーカーに回収を申込むこともできます",
+      "dictionaryID": "91",
+      "index": "キーボード（パソコン）",
+      "name": "キーボード（パソコン）",
+      "name_reduced": "キーボード（パソコン）",
+      "typeID": "5",
+      "options": [
+        "パソコン"
+      ],
+      "examples": [],
+      "simple": "キーボード",
+      "simple_index": "キーボード"
+    },
+    {
+      "comment": "",
+      "dictionaryID": "93",
+      "index": "ギター",
+      "name": "ギター",
+      "name_reduced": "ギター",
+      "typeID": "4",
+      "options": [],
+      "examples": [],
+      "simple": "ギター",
+      "simple_index": "ギター"
+    },
+    {
+      "comment": "",
+      "dictionaryID": "101",
+      "index": "ギュウニュウパック",
+      "name": "牛乳パック",
+      "name_reduced": "牛乳パック",
+      "typeID": "7",
+      "options": [],
+      "examples": [],
+      "simple": "牛乳パック",
+      "simple_index": "ギュウニュウパック"
+    },
+    {
+      "comment": "できるだけ販売店へ\n中身を使い切って、水洗いする",
+      "dictionaryID": "102",
+      "index": "ギュウニュウビン",
+      "name": "牛乳びん",
+      "name_reduced": "牛乳ビン",
+      "typeID": "2",
+      "options": [],
+      "examples": [],
+      "simple": "牛乳びん",
+      "simple_index": "ギュウニュウビン"
+    },
+    {
+      "comment": "",
+      "dictionaryID": "106",
+      "index": "クウキセイジョウキ（エアクリーナー）",
+      "name": "空気清浄機【エアクリーナー】",
+      "name_reduced": "空気清浄機【エアクリーナー】",
+      "typeID": "4",
+      "options": [],
+      "examples": [
+        "エアクリーナー"
+      ],
+      "simple": "空気清浄機",
+      "simple_index": "クウキセイジョウキ"
+    },
+    {
+      "comment": "紙にくるんで、外からわかるように指定袋に「キケン」と貼る",
+      "dictionaryID": "108",
+      "index": "クギ",
+      "name": "くぎ",
+      "name_reduced": "クギ",
+      "typeID": "5",
+      "options": [],
+      "examples": [],
+      "simple": "くぎ",
+      "simple_index": "クギ"
+    },
+    {
+      "comment": "",
+      "dictionaryID": "109",
+      "index": "クサ・ハナ（ザッソウ）",
+      "name": "草・花【雑草】",
+      "name_reduced": "草・花【雑草】",
+      "typeID": "7",
+      "options": [],
+      "examples": [
+        "雑草"
+      ],
+      "simple": "草・花",
+      "simple_index": "クサ・ハナ"
+    },
+    {
+      "comment": "2つに折って紙にくるむ",
+      "dictionaryID": "110",
+      "index": "クシ（ヤキトリ・ダンゴノタケグシナド）",
+      "name": "串（焼き鳥・だんごの竹串など）",
+      "name_reduced": "串（焼キ鳥・ダンゴノ竹串ナド）",
+      "typeID": "7",
+      "options": [
+        "焼き鳥・だんごの竹串など"
+      ],
+      "examples": [],
+      "simple": "串",
+      "simple_index": "クシ"
+    },
+    {
+      "comment": "中を水洗いする",
+      "dictionaryID": "112",
+      "index": "クスリノビン",
+      "name": "薬のびん",
+      "name_reduced": "薬ノビン",
+      "typeID": "2",
+      "options": [],
+      "examples": [],
+      "simple": "薬のびん",
+      "simple_index": "クスリノビン"
+    },
+    {
+      "comment": "在宅医療用プラスチックバッグ類は燃えるごみ",
+      "dictionaryID": "113",
+      "index": "クスリノヨウキ（プラセイ）",
+      "name": "薬の容器（プラ製）",
+      "name_reduced": "薬ノ容器（プラ製）",
+      "typeID": "3",
+      "options": [
+        "プラ製"
+      ],
+      "examples": [],
+      "simple": "薬の容器",
+      "simple_index": "クスリノヨウキ"
+    },
+    {
+      "comment": "",
+      "dictionaryID": "111",
+      "index": "クスリ（ジョウザイ・カプセルナドカテイヨウ）",
+      "name": "薬（錠剤・カプセルなど家庭用）",
+      "name_reduced": "薬（錠剤・カプセルナド家庭用）",
+      "typeID": "7",
+      "options": [
+        "錠剤・カプセルなど家庭用"
+      ],
+      "examples": [],
+      "simple": "薬",
+      "simple_index": "クスリ"
+    },
+    {
+      "comment": "指定袋に入らないもの、または5kgを超えるものは大型ごみ",
+      "dictionaryID": "116",
+      "index": "クッション（マクラ、ザブトン）",
+      "name": "クッション【まくら、座布団】",
+      "name_reduced": "クッション【マクラ、座布団】",
+      "typeID": "7",
+      "options": [],
+      "examples": [
+        "まくら",
+        "座布団"
+      ],
+      "simple": "クッション",
+      "simple_index": "クッション"
+    },
+    {
+      "comment": "地域の資源（古紙など）集団回収で集めている場合はできるだけ資源集団回収へ",
+      "dictionaryID": "115",
+      "index": "クツシタ（ソックス）",
+      "name": "靴下【ソックス】",
+      "name_reduced": "靴下【ソックス】",
+      "typeID": "7",
+      "options": [],
+      "examples": [
+        "ソックス"
+      ],
+      "simple": "靴下",
+      "simple_index": "クツシタ"
+    },
+    {
+      "comment": "",
+      "dictionaryID": "114",
+      "index": "クツ（カワグツ、シューズ、サンダル、スニーカー、ウンドウグツ、ブーツ）",
+      "name": "靴【革靴、シューズ、サンダル、スニーカー、運動靴、ブーツ】",
+      "name_reduced": "靴【革靴、シューズ、サンダル、スニーカー、運動靴、ブーツ】",
+      "typeID": "7",
+      "options": [],
+      "examples": [
+        "革靴",
+        "シューズ",
+        "サンダル",
+        "スニーカー",
+        "運動靴",
+        "ブーツ"
+      ],
+      "simple": "靴",
+      "simple_index": "クツ"
+    },
+    {
+      "comment": "",
+      "dictionaryID": "117",
+      "index": "クリーニングノフクロ",
+      "name": "クリーニングの袋",
+      "name_reduced": "クリーニングノ袋",
+      "typeID": "7",
+      "options": [],
+      "examples": [],
+      "simple": "クリーニングの袋",
+      "simple_index": "クリーニングノフクロ"
+    },
+    {
+      "comment": "",
+      "dictionaryID": "118",
+      "index": "クルマイス（デンドウノモノハ「デンドウクルマイス」サンショウ）",
+      "name": "車いす（電動のものは「電動車いす」参照）",
+      "name_reduced": "車イス（電動ノモノハ「電動車イス」参照）",
+      "typeID": "4",
+      "options": [
+        "電動のものは「電動車いす」参照"
+      ],
+      "examples": [],
+      "simple": "車いす",
+      "simple_index": "クルマイス"
+    },
+    {
+      "comment": "指定袋に入り、5kg以下のものは燃えるごみ",
+      "dictionaryID": "107",
+      "index": "クーラーボックス",
+      "name": "クーラーボックス",
+      "name_reduced": "クーラーボックス",
+      "typeID": "4",
+      "options": [],
+      "examples": [],
+      "simple": "クーラーボックス",
+      "simple_index": "クーラーボックス"
+    },
+    {
+      "comment": "",
+      "dictionaryID": "119",
+      "index": "グローブ（ヤキュウヨウナド）",
+      "name": "グローブ（野球用など）",
+      "name_reduced": "グローブ（野球用ナド）",
+      "typeID": "7",
+      "options": [
+        "野球用など"
+      ],
+      "examples": [],
+      "simple": "グローブ",
+      "simple_index": "グローブ"
+    },
+    {
+      "comment": "紙にくるんで、外からわかるように指定袋に「キケン」と貼る",
+      "dictionaryID": "120",
+      "index": "ケイコウトウ（デンキュウ、サークライン）",
+      "name": "蛍光灯【電球、サークライン】",
+      "name_reduced": "蛍光灯【電球、サークライン】",
+      "typeID": "5",
+      "options": [],
+      "examples": [
+        "電球",
+        "サークライン"
+      ],
+      "simple": "蛍光灯",
+      "simple_index": "ケイコウトウ"
+    },
+    {
+      "comment": "販売店へ（資源化ルートがある）",
+      "dictionaryID": "121",
+      "index": "ケイタイデンワ",
+      "name": "携帯電話",
+      "name_reduced": "携帯電話",
+      "typeID": "5",
+      "options": [],
+      "examples": [],
+      "simple": "携帯電話",
+      "simple_index": "ケイタイデンワ"
+    },
+    {
+      "comment": "紙にくるんで、外からわかるように指定袋に「キケン」と貼る",
+      "dictionaryID": "124",
+      "index": "ケショウヒンノビン",
+      "name": "化粧品のびん",
+      "name_reduced": "化粧品ノビン",
+      "typeID": "5",
+      "options": [],
+      "examples": [],
+      "simple": "化粧品のびん",
+      "simple_index": "ケショウヒンノビン"
+    },
+    {
+      "comment": "中身を使い切って、汚れを取る\n中身が簡単に取れない場合は燃えるごみ",
+      "dictionaryID": "126",
+      "index": "ケチャップノヨウキ（プラセイ）",
+      "name": "ケチャップの容器（プラ製）",
+      "name_reduced": "ケチャップノ容器（プラ製）",
+      "typeID": "3",
+      "options": [
+        "プラ製"
+      ],
+      "examples": [],
+      "simple": "ケチャップの容器",
+      "simple_index": "ケチャップノヨウキ"
+    },
+    {
+      "comment": "",
+      "dictionaryID": "127",
+      "index": "ケツアツケイ",
+      "name": "血圧計",
+      "name_reduced": "血圧計",
+      "typeID": "5",
+      "options": [],
+      "examples": [],
+      "simple": "血圧計",
+      "simple_index": "ケツアツケイ"
+    },
+    {
+      "comment": "",
+      "dictionaryID": "125",
+      "index": "ゲタバコ",
+      "name": "げた箱",
+      "name_reduced": "ゲタ箱",
+      "typeID": "4",
+      "options": [],
+      "examples": [],
+      "simple": "げた箱",
+      "simple_index": "ゲタバコ"
+    },
+    {
+      "comment": "販売店または二輪車リサイクルコールセンター（03-3598-8075）に相談",
+      "dictionaryID": "129",
+      "index": "ゲンドウキツキジテンシャ（ゲンツキバイク、ゲンツキ、バイク）",
+      "name": "原動機付自転車【原付バイク、原付、バイク】",
+      "name_reduced": "原動機付自転車【原付バイク、原付、バイク】",
+      "typeID": "9",
+      "options": [],
+      "examples": [
+        "原付バイク",
+        "原付",
+        "バイク"
+      ],
+      "simple": "原動機付自転車",
+      "simple_index": "ゲンドウキツキジテンシャ"
+    },
+    {
+      "comment": "",
+      "dictionaryID": "122",
+      "index": "ゲームキ",
+      "name": "ゲーム機",
+      "name_reduced": "ゲーム機",
+      "typeID": "5",
+      "options": [],
+      "examples": [],
+      "simple": "ゲーム機",
+      "simple_index": "ゲームキ"
+    },
+    {
+      "comment": "CD、DVDは燃えるごみ",
+      "dictionaryID": "123",
+      "index": "ゲームソフト",
+      "name": "ゲームソフト",
+      "name_reduced": "ゲームソフト",
+      "typeID": "5",
+      "options": [],
+      "examples": [],
+      "simple": "ゲームソフト",
+      "simple_index": "ゲームソフト"
+    },
+    {
+      "comment": "丸めてひもでしばる　指定袋に入り、5kg以下のものは燃えるごみ（ひもでしばらない）",
+      "dictionaryID": "135",
+      "index": "コタツフトン",
+      "name": "こたつ布団",
+      "name_reduced": "コタツ布団",
+      "typeID": "4",
+      "options": [],
+      "examples": [],
+      "simple": "こたつ布団",
+      "simple_index": "コタツフトン"
+    },
+    {
+      "comment": "",
+      "dictionaryID": "134",
+      "index": "コタツ・コタツテンバン",
+      "name": "こたつ・こたつ天板",
+      "name_reduced": "コタツ・コタツ天板",
+      "typeID": "4",
+      "options": [],
+      "examples": [],
+      "simple": "こたつ・こたつ天板",
+      "simple_index": "コタツ・コタツテンバン"
+    },
+    {
+      "comment": "割れものは紙にくるんで、外からわかるように指定袋に「キケン」と貼る",
+      "dictionaryID": "136",
+      "index": "コップ（ガラスセイ・トウキセイ・キンゾクセイ）（グラス、ショッキ）",
+      "name": "コップ（ガラス製・陶器製・金属製）【グラス、食器】",
+      "name_reduced": "コップ（ガラス製・陶器製・金属製）【グラス、食器】",
+      "typeID": "5",
+      "options": [
+        "ガラス製・陶器製・金属製"
+      ],
+      "examples": [
+        "グラス",
+        "食器"
+      ],
+      "simple": "コップ",
+      "simple_index": "コップ"
+    },
+    {
+      "comment": "",
+      "dictionaryID": "137",
+      "index": "コップ（プラセイ・カミセイ・モクセイ）（グラス、ショッキ）",
+      "name": "コップ（プラ製・紙製・木製）【グラス、食器】",
+      "name_reduced": "コップ（プラ製・紙製・木製）【グラス、食器】",
+      "typeID": "7",
+      "options": [
+        "プラ製・紙製・木製"
+      ],
+      "examples": [
+        "グラス",
+        "食器"
+      ],
+      "simple": "コップ",
+      "simple_index": "コップ"
+    },
+    {
+      "comment": "中身を使い切って、水洗いする",
+      "dictionaryID": "138",
+      "index": "コナミルクノカン",
+      "name": "粉ミルクの缶",
+      "name_reduced": "粉ミルクノ缶",
+      "typeID": "2",
+      "options": [],
+      "examples": [],
+      "simple": "粉ミルクの缶",
+      "simple_index": "コナミルクノカン"
+    },
+    {
+      "comment": "",
+      "dictionaryID": "139",
+      "index": "コピーキ",
+      "name": "コピー機",
+      "name_reduced": "コピー機",
+      "typeID": "4",
+      "options": [],
+      "examples": [],
+      "simple": "コピー機",
+      "simple_index": "コピーキ"
+    },
+    {
+      "comment": "紙にくるんで、外からわかるように指定袋に「キケン」と貼る",
+      "dictionaryID": "142",
+      "index": "コルクヌキ（センヌキ、ワインオープナー）",
+      "name": "コルク抜き【栓抜き、ワインオープナー】",
+      "name_reduced": "コルク抜キ【栓抜キ、ワインオープナー】",
+      "typeID": "5",
+      "options": [],
+      "examples": [
+        "栓抜き",
+        "ワインオープナー"
+      ],
+      "simple": "コルク抜き",
+      "simple_index": "コルクヌキ"
+    },
+    {
+      "comment": "紙にくるんで、外からわかるように指定袋に「キケン」と貼る",
+      "dictionaryID": "145",
+      "index": "コンパス（ブンボウグ）",
+      "name": "コンパス（文房具）",
+      "name_reduced": "コンパス（文房具）",
+      "typeID": "5",
+      "options": [
+        "文房具"
+      ],
+      "examples": [],
+      "simple": "コンパス",
+      "simple_index": "コンパス"
+    },
+    {
+      "comment": "",
+      "dictionaryID": "131",
+      "index": "コード（デンキコード）",
+      "name": "コード（電気コード）",
+      "name_reduced": "コード（電気コード）",
+      "typeID": "5",
+      "options": [
+        "電気コード"
+      ],
+      "examples": [],
+      "simple": "コード",
+      "simple_index": "コード"
+    },
+    {
+      "comment": "",
+      "dictionaryID": "132",
+      "index": "コーヒーメーカー",
+      "name": "コーヒーメーカー",
+      "name_reduced": "コーヒーメーカー",
+      "typeID": "5",
+      "options": [],
+      "examples": [],
+      "simple": "コーヒーメーカー",
+      "simple_index": "コーヒーメーカー"
+    },
+    {
+      "comment": "指定袋に入らないもの、または5kgを超えるものは大型ごみ",
+      "dictionaryID": "133",
+      "index": "ゴザ",
+      "name": "ござ",
+      "name_reduced": "ゴザ",
+      "typeID": "7",
+      "options": [],
+      "examples": [],
+      "simple": "ござ",
+      "simple_index": "ゴザ"
+    },
+    {
+      "comment": "",
+      "dictionaryID": "140",
+      "index": "ゴムテブクロ・ゴムナガグツ",
+      "name": "ゴム手袋・ゴム長靴",
+      "name_reduced": "ゴム手袋・ゴム長靴",
+      "typeID": "7",
+      "options": [],
+      "examples": [],
+      "simple": "ゴム手袋・ゴム長靴",
+      "simple_index": "ゴムテブクロ・ゴムナガグツ"
+    },
+    {
+      "comment": "指定袋に入らないもの、または5kgを超えるものは大型ごみ",
+      "dictionaryID": "141",
+      "index": "ゴムボート",
+      "name": "ゴムボート",
+      "name_reduced": "ゴムボート",
+      "typeID": "7",
+      "options": [],
+      "examples": [],
+      "simple": "ゴムボート",
+      "simple_index": "ゴムボート"
+    },
+    {
+      "comment": "",
+      "dictionaryID": "143",
+      "index": "ゴルフクラブ・ゴルフバッグ（パター）",
+      "name": "ゴルフクラブ・ゴルフバッグ【パター】",
+      "name_reduced": "ゴルフクラブ・ゴルフバッグ【パター】",
+      "typeID": "4",
+      "options": [],
+      "examples": [
+        "パター"
+      ],
+      "simple": "ゴルフクラブ・ゴルフバッグ",
+      "simple_index": "ゴルフクラブ・ゴルフバッグ"
+    },
+    {
+      "comment": "",
+      "dictionaryID": "144",
+      "index": "ゴルフボール",
+      "name": "ゴルフボール",
+      "name_reduced": "ゴルフボール",
+      "typeID": "7",
+      "options": [],
+      "examples": [],
+      "simple": "ゴルフボール",
+      "simple_index": "ゴルフボール"
+    },
+    {
+      "comment": "",
+      "dictionaryID": "130",
+      "index": "ゴーグル",
+      "name": "ゴーグル",
+      "name_reduced": "ゴーグル",
+      "typeID": "7",
+      "options": [],
+      "examples": [],
+      "simple": "ゴーグル",
+      "simple_index": "ゴーグル"
+    },
+    {
+      "comment": "",
+      "dictionaryID": "147",
+      "index": "サイクリングマシーン（エアロバイク）（ケンコウキグ）",
+      "name": "サイクリングマシーン（エアロバイク）【健康器具】",
+      "name_reduced": "サイクリングマシーン（エアロバイク）【健康器具】",
+      "typeID": "4",
+      "options": [
+        "エアロバイク"
+      ],
+      "examples": [
+        "健康器具"
+      ],
+      "simple": "サイクリングマシーン",
+      "simple_index": "サイクリングマシーン"
+    },
+    {
+      "comment": "",
+      "dictionaryID": "149",
+      "index": "サインペン（マジック、フェルトペン、カラーペン、ケイコウペン）",
+      "name": "サインペン【マジック、フェルトペン、カラーペン、蛍光ペン】",
+      "name_reduced": "サインペン【マジック、フェルトペン、カラーペン、蛍光ペン】",
+      "typeID": "7",
+      "options": [],
+      "examples": [
+        "マジック",
+        "フェルトペン",
+        "カラーペン",
+        "蛍光ペン"
+      ],
+      "simple": "サインペン",
+      "simple_index": "サインペン"
+    },
+    {
+      "comment": "中身を使い切って、水洗いする",
+      "dictionaryID": "150",
+      "index": "サケノカップ（ニホンシュ、ワンカップ）",
+      "name": "酒のカップ【日本酒、ワンカップ】",
+      "name_reduced": "酒ノカップ【日本酒、ワンカップ】",
+      "typeID": "2",
+      "options": [],
+      "examples": [
+        "日本酒",
+        "ワンカップ"
+      ],
+      "simple": "酒のカップ",
+      "simple_index": "サケノカップ"
+    },
+    {
+      "comment": "中身は全部使い切る。穴あけ不要。燃えないゴミと分けて中身の見える袋で出す。クリーンステーションに燃えないゴミと場所をわけて出す",
+      "dictionaryID": "153",
+      "index": "サッチュウザイ（スプレーカン）",
+      "name": "殺虫剤（スプレー缶）",
+      "name_reduced": "殺虫剤（スプレー缶）",
+      "typeID": "6",
+      "options": [
+        "スプレー缶"
+      ],
+      "examples": [],
+      "simple": "殺虫剤",
+      "simple_index": "サッチュウザイ"
+    },
+    {
+      "comment": "紙や布に染み込ませるか凝固剤で固めて",
+      "dictionaryID": "157",
+      "index": "サラダユ",
+      "name": "サラダ油",
+      "name_reduced": "サラダ油",
+      "typeID": "7",
+      "options": [],
+      "examples": [],
+      "simple": "サラダ油",
+      "simple_index": "サラダユ"
+    },
+    {
+      "comment": "中身を使い切って、水洗いする",
+      "dictionaryID": "158",
+      "index": "サラダユノカン（イットカンハノゾク）",
+      "name": "サラダ油の缶（一斗缶は除く）",
+      "name_reduced": "サラダ油ノ缶（一斗缶ハ除ク）",
+      "typeID": "2",
+      "options": [
+        "一斗缶は除く"
+      ],
+      "examples": [],
+      "simple": "サラダ油の缶",
+      "simple_index": "サラダユノカン"
+    },
+    {
+      "comment": "中身を使い切って、汚れを取る\n汚れが簡単に取れない場合は燃えるごみ",
+      "dictionaryID": "159",
+      "index": "サラダユノプラスチックセイボトル（サラダユノボトル、アブラノボトル）",
+      "name": "サラダ油のプラスチック製ボトル【サラダ油のボトル、油のボトル】",
+      "name_reduced": "サラダ油ノプラスチック製ボトル【サラダ油ノボトル、油ノボトル】",
+      "typeID": "3",
+      "options": [],
+      "examples": [
+        "サラダ油のボトル",
+        "油のボトル"
+      ],
+      "simple": "サラダ油のプラスチック製ボトル",
+      "simple_index": "サラダユノプラスチックセイボトル"
+    },
+    {
+      "comment": "割れものは紙にくるんで、外からわかるように指定袋に「キケン」と貼る",
+      "dictionaryID": "155",
+      "index": "サラ（ガラスセイ・トウキセイ・キンゾクセイ）（トウキ、セトモノ、オサラ、ショッキ）",
+      "name": "皿（ガラス製・陶器製・金属製）【陶器、瀬戸物、お皿、食器】",
+      "name_reduced": "皿（ガラス製・陶器製・金属製）【陶器、瀬戸物、オ皿、食器】",
+      "typeID": "5",
+      "options": [
+        "ガラス製・陶器製・金属製"
+      ],
+      "examples": [
+        "陶器",
+        "瀬戸物",
+        "お皿",
+        "食器"
+      ],
+      "simple": "皿",
+      "simple_index": "サラ"
+    },
+    {
+      "comment": "",
+      "dictionaryID": "156",
+      "index": "サラ（プラセイ・カミセイ・モクセイ）（トウキ、セトモノ、オサラ、ショッキ）",
+      "name": "皿（プラ製・紙製・木製）【陶器、瀬戸物、お皿、食器】",
+      "name_reduced": "皿（プラ製・紙製・木製）【陶器、瀬戸物、オ皿、食器】",
+      "typeID": "7",
+      "options": [
+        "プラ製・紙製・木製"
+      ],
+      "examples": [
+        "陶器",
+        "瀬戸物",
+        "お皿",
+        "食器"
+      ],
+      "simple": "皿",
+      "simple_index": "サラ"
+    },
+    {
+      "comment": "指定袋に入らないもの、または5kgを超えるものは大型ごみ",
+      "dictionaryID": "160",
+      "index": "サンキャク",
+      "name": "三脚",
+      "name_reduced": "三脚",
+      "typeID": "5",
+      "options": [],
+      "examples": [],
+      "simple": "三脚",
+      "simple_index": "サンキャク"
+    },
+    {
+      "comment": "",
+      "dictionaryID": "162",
+      "index": "サングラス（プラセイイガイ）",
+      "name": "サングラス（プラ製以外）",
+      "name_reduced": "サングラス（プラ製以外）",
+      "typeID": "5",
+      "options": [
+        "プラ製以外"
+      ],
+      "examples": [],
+      "simple": "サングラス",
+      "simple_index": "サングラス"
+    },
+    {
+      "comment": "",
+      "dictionaryID": "161",
+      "index": "サングラス（プラセイ）",
+      "name": "サングラス（プラ製）",
+      "name_reduced": "サングラス（プラ製）",
+      "typeID": "7",
+      "options": [
+        "プラ製"
+      ],
+      "examples": [],
+      "simple": "サングラス",
+      "simple_index": "サングラス"
+    },
+    {
+      "comment": "指定袋に入り、5kg以下のものは燃えないごみ",
+      "dictionaryID": "163",
+      "index": "サンリンシャ",
+      "name": "三輪車",
+      "name_reduced": "三輪車",
+      "typeID": "4",
+      "options": [],
+      "examples": [],
+      "simple": "三輪車",
+      "simple_index": "サンリンシャ"
+    },
+    {
+      "comment": "",
+      "dictionaryID": "146",
+      "index": "サーフボード（サーフィン）",
+      "name": "サーフボード【サーフィン】",
+      "name_reduced": "サーフボード【サーフィン】",
+      "typeID": "4",
+      "options": [],
+      "examples": [
+        "サーフィン"
+      ],
+      "simple": "サーフボード",
+      "simple_index": "サーフボード"
+    },
+    {
+      "comment": "",
+      "dictionaryID": "148",
+      "index": "ザイス（ザイス）",
+      "name": "座椅子【座いす】",
+      "name_reduced": "座椅子【座イス】",
+      "typeID": "4",
+      "options": [],
+      "examples": [
+        "座いす"
+      ],
+      "simple": "座椅子",
+      "simple_index": "ザイス"
+    },
+    {
+      "comment": "できるだけ地域の資源（古紙など）集団回収へ",
+      "dictionaryID": "152",
+      "index": "ザッシ（シュウカンシ、ゲッカンシ、カタログ、ブック、マンガ）",
+      "name": "雑誌【週刊誌、月刊誌、カタログ、ブック、マンガ】",
+      "name_reduced": "雑誌【週刊誌、月刊誌、カタログ、ブック、マンガ】",
+      "typeID": "7",
+      "options": [],
+      "examples": [
+        "週刊誌",
+        "月刊誌",
+        "カタログ",
+        "ブック",
+        "マンガ"
+      ],
+      "simple": "雑誌",
+      "simple_index": "ザッシ"
+    },
+    {
+      "comment": "",
+      "dictionaryID": "154",
+      "index": "ザブトン（クッション）",
+      "name": "座布団【クッション】",
+      "name_reduced": "座布団【クッション】",
+      "typeID": "7",
+      "options": [],
+      "examples": [
+        "クッション"
+      ],
+      "simple": "座布団",
+      "simple_index": "ザブトン"
+    },
+    {
+      "comment": "地域の資源（古紙など）集団回収で集めている場合はできるだけ資源集団回収へ",
+      "dictionaryID": "167",
+      "index": "シタギ（ハダギ）",
+      "name": "下着【肌着】",
+      "name_reduced": "下着【肌着】",
+      "typeID": "7",
+      "options": [],
+      "examples": [
+        "肌着"
+      ],
+      "simple": "下着",
+      "simple_index": "シタギ"
+    },
+    {
+      "comment": "",
+      "dictionaryID": "168",
+      "index": "シタジキ（プラセイ）",
+      "name": "下敷（プラ製）",
+      "name_reduced": "下敷（プラ製）",
+      "typeID": "7",
+      "options": [
+        "プラ製"
+      ],
+      "examples": [],
+      "simple": "下敷",
+      "simple_index": "シタジキ"
+    },
+    {
+      "comment": "水を捨て、かすを紙で拭き取る",
+      "dictionaryID": "169",
+      "index": "シッケトリヨウキ（キュウシツザイ）",
+      "name": "湿気取り容器【吸湿剤】",
+      "name_reduced": "湿気取リ容器【吸湿剤】",
+      "typeID": "3",
+      "options": [],
+      "examples": [
+        "吸湿剤"
+      ],
+      "simple": "湿気取り容器",
+      "simple_index": "シッケトリヨウキ"
+    },
+    {
+      "comment": "中身を使い切って、汚れを取る",
+      "dictionaryID": "173",
+      "index": "シャンプーノプラスチックセイボトル",
+      "name": "シャンプーのプラスチック製ボトル",
+      "name_reduced": "シャンプーノプラスチック製ボトル",
+      "typeID": "3",
+      "options": [],
+      "examples": [],
+      "simple": "シャンプーのプラスチック製ボトル",
+      "simple_index": "シャンプーノプラスチックセイボトル"
+    },
+    {
+      "comment": "",
+      "dictionaryID": "172",
+      "index": "シャープペンシル（シャーペン）",
+      "name": "シャープペンシル【シャーペン】",
+      "name_reduced": "シャープペンシル【シャーペン】",
+      "typeID": "7",
+      "options": [],
+      "examples": [
+        "シャーペン"
+      ],
+      "simple": "シャープペンシル",
+      "simple_index": "シャープペンシル"
+    },
+    {
+      "comment": "",
+      "dictionaryID": "151",
+      "index": "シュルイノカミパック（ニホンシュ）",
+      "name": "酒類の紙パック【日本酒】",
+      "name_reduced": "酒類ノ紙パック【日本酒】",
+      "typeID": "7",
+      "options": [],
+      "examples": [
+        "日本酒"
+      ],
+      "simple": "酒類の紙パック",
+      "simple_index": "シュルイノカミパック"
+    },
+    {
+      "comment": "製造元または販売店または（社）兵庫県消防設備保守協会（333-8012）に相談",
+      "dictionaryID": "176",
+      "index": "ショウカキ",
+      "name": "消火器",
+      "name_reduced": "消火器",
+      "typeID": "9",
+      "options": [],
+      "examples": [],
+      "simple": "消火器",
+      "simple_index": "ショウカキ"
+    },
+    {
+      "comment": "電球・蛍光灯は外して燃えないごみ\n指定袋に入り、5kg以下のものは燃えないごみ",
+      "dictionaryID": "181",
+      "index": "ショウメイキグ（ショウメイノカサ、デンキカサ、シャンデリア）",
+      "name": "照明器具【照明の傘、電気傘、シャンデリア】",
+      "name_reduced": "照明器具【照明ノ傘、電気傘、シャンデリア】",
+      "typeID": "4",
+      "options": [],
+      "examples": [
+        "照明の傘",
+        "電気傘",
+        "シャンデリア"
+      ],
+      "simple": "照明器具",
+      "simple_index": "ショウメイキグ"
+    },
+    {
+      "comment": "中身を使い切って、中を軽くすすいでつぶして出す　キャップ・ラベルは外す",
+      "dictionaryID": "182",
+      "index": "ショウユノヨウキ（ペットボトル）（ショウユ）",
+      "name": "しょうゆの容器（ペットボトル）【醤油】",
+      "name_reduced": "ショウユノ容器（ペットボトル）【醤油】",
+      "typeID": "2",
+      "options": [
+        "ペットボトル"
+      ],
+      "examples": [
+        "醤油"
+      ],
+      "simple": "しょうゆの容器",
+      "simple_index": "ショウユノヨウキ"
+    },
+    {
+      "comment": "できるだけ店頭回収へ　汚れを取る　汚れが簡単に取れない場合は燃えるごみ",
+      "dictionaryID": "183",
+      "index": "ショクヒンヨウトレイ（オベントウノトレイ、ソウザイノトレイ、トレー、プラスチックトレイ、トレイ）",
+      "name": "食品用トレイ【お弁当のトレイ、惣菜のトレイ、トレー、プラスチックトレイ、トレイ】",
+      "name_reduced": "食品用トレイ【オ弁当ノトレイ、惣菜ノトレイ、トレー、プラスチックトレイ、トレイ】",
+      "typeID": "3",
+      "options": [],
+      "examples": [
+        "お弁当のトレイ",
+        "惣菜のトレイ",
+        "トレー",
+        "プラスチックトレイ",
+        "トレイ"
+      ],
+      "simple": "食品用トレイ",
+      "simple_index": "ショクヒンヨウトレイ"
+    },
+    {
+      "comment": "中身を使い切って、水洗いする",
+      "dictionaryID": "185",
+      "index": "ショクヨウアブラノカン（イットカンハノゾク）（アブラノカン）",
+      "name": "食用油の缶（一斗缶は除く）【あぶらのかん】",
+      "name_reduced": "食用油ノ缶（一斗缶ハ除ク）【アブラノカン】",
+      "typeID": "2",
+      "options": [
+        "一斗缶は除く"
+      ],
+      "examples": [
+        "あぶらのかん"
+      ],
+      "simple": "食用油の缶",
+      "simple_index": "ショクヨウアブラノカン"
+    },
+    {
+      "comment": "中身を使い切って、水洗いする",
+      "dictionaryID": "186",
+      "index": "ショクヨウアブラノビン（アブラノビン、ゴマアブラノビン、オリーブオイルノビン）",
+      "name": "食用油のびん【あぶらのびん、ごま油のびん、オリーブオイルのびん】",
+      "name_reduced": "食用油ノビン【アブラノビン、ゴマ油ノビン、オリーブオイルノビン】",
+      "typeID": "2",
+      "options": [],
+      "examples": [
+        "あぶらのびん",
+        "ごま油のびん",
+        "オリーブオイルのびん"
+      ],
+      "simple": "食用油のびん",
+      "simple_index": "ショクヨウアブラノビン"
+    },
+    {
+      "comment": "中身を使い切って、汚れを取る　中身が簡単に取れない場合は燃えるごみ",
+      "dictionaryID": "187",
+      "index": "ショクヨウアブラノプラスチックセイボトル（アブラノヨウキ、アブラノボトル）",
+      "name": "食用油のプラスチック製ボトル【あぶらのようき、油のボトル】",
+      "name_reduced": "食用油ノプラスチック製ボトル【アブラノヨウキ、油ノボトル】",
+      "typeID": "3",
+      "options": [],
+      "examples": [
+        "あぶらのようき",
+        "油のボトル"
+      ],
+      "simple": "食用油のプラスチック製ボトル",
+      "simple_index": "ショクヨウアブラノプラスチックセイボトル"
+    },
+    {
+      "comment": "",
+      "dictionaryID": "189",
+      "index": "ショクヨウアブラノヨウキノキャップ（キンゾクセイ）",
+      "name": "食用油の容器のキャップ（金属製）",
+      "name_reduced": "食用油ノ容器ノキャップ（金属製）",
+      "typeID": "5",
+      "options": [
+        "金属製"
+      ],
+      "examples": [],
+      "simple": "食用油の容器のキャップ",
+      "simple_index": "ショクヨウアブラノヨウキノキャップ"
+    },
+    {
+      "comment": "",
+      "dictionaryID": "188",
+      "index": "ショクヨウアブラノヨウキノキャップ（プラセイ）",
+      "name": "食用油の容器のキャップ（プラ製）",
+      "name_reduced": "食用油ノ容器ノキャップ（プラ製）",
+      "typeID": "3",
+      "options": [
+        "プラ製"
+      ],
+      "examples": [],
+      "simple": "食用油の容器のキャップ",
+      "simple_index": "ショクヨウアブラノヨウキノキャップ"
+    },
+    {
+      "comment": "紙や布に染み込ませるか凝固剤で固めて",
+      "dictionaryID": "184",
+      "index": "ショクヨウアブラ（アブラ、ゴマアブラ、オリーブオイル）",
+      "name": "食用油【あぶら、ごま油、オリーブオイル】",
+      "name_reduced": "食用油【アブラ、ゴマ油、オリーブオイル】",
+      "typeID": "7",
+      "options": [],
+      "examples": [
+        "あぶら",
+        "ごま油",
+        "オリーブオイル"
+      ],
+      "simple": "食用油",
+      "simple_index": "ショクヨウアブラ"
+    },
+    {
+      "comment": "",
+      "dictionaryID": "191",
+      "index": "ショッキアライカンソウキ・ショッキカンソウキ（ショクセンキ、ショッキアライキ）",
+      "name": "食器洗い乾燥機・食器乾燥機【食洗機、食器洗い機】",
+      "name_reduced": "食器洗イ乾燥機・食器乾燥機【食洗機、食器洗イ機】",
+      "typeID": "4",
+      "options": [],
+      "examples": [
+        "食洗機",
+        "食器洗い機"
+      ],
+      "simple": "食器洗い乾燥機・食器乾燥機",
+      "simple_index": "ショッキアライカンソウキ・ショッキカンソウキ"
+    },
+    {
+      "comment": "",
+      "dictionaryID": "192",
+      "index": "ショッキダナ",
+      "name": "食器棚",
+      "name_reduced": "食器棚",
+      "typeID": "4",
+      "options": [],
+      "examples": [],
+      "simple": "食器棚",
+      "simple_index": "ショッキダナ"
+    },
+    {
+      "comment": "",
+      "dictionaryID": "193",
+      "index": "シリカゲル（カンソウザイ）",
+      "name": "シリカゲル【乾燥剤】",
+      "name_reduced": "シリカゲル【乾燥剤】",
+      "typeID": "7",
+      "options": [],
+      "examples": [
+        "乾燥剤"
+      ],
+      "simple": "シリカゲル",
+      "simple_index": "シリカゲル"
+    },
+    {
+      "comment": "販売店などに相談",
+      "dictionaryID": "195",
+      "index": "シンナールイ（ヨウザイ、ウスメエキ）",
+      "name": "シンナー類【溶剤、薄め液】",
+      "name_reduced": "シンナー類【溶剤、薄メ液】",
+      "typeID": "9",
+      "options": [],
+      "examples": [
+        "溶剤",
+        "薄め液"
+      ],
+      "simple": "シンナー類",
+      "simple_index": "シンナールイ"
+    },
+    {
+      "comment": "できるだけ地域の資源（古紙など）集団回収へ",
+      "dictionaryID": "196",
+      "index": "シンブン（シンブンシ、フルシンブン）",
+      "name": "新聞【新聞紙、古新聞】",
+      "name_reduced": "新聞【新聞紙、古新聞】",
+      "typeID": "7",
+      "options": [],
+      "examples": [
+        "新聞紙",
+        "古新聞"
+      ],
+      "simple": "新聞",
+      "simple_index": "シンブン"
+    },
+    {
+      "comment": "地域の資源（古紙など）集団回収で集めている場合はできるだけ資源集団回収へ",
+      "dictionaryID": "164",
+      "index": "シーツ",
+      "name": "シーツ",
+      "name_reduced": "シーツ",
+      "typeID": "7",
+      "options": [],
+      "examples": [],
+      "simple": "シーツ",
+      "simple_index": "シーツ"
+    },
+    {
+      "comment": "",
+      "dictionaryID": "166",
+      "index": "シーディー、ＣＤラジカセ・ＣＤプレーヤー（ＣＤプレイヤー、ＣＤデッキ、カセットデッキ）",
+      "name": "CDラジカセ・CDプレーヤー【CDプレイヤー、CDデッキ、カセットデッキ】",
+      "name_reduced": "ＣＤラジカセ・ＣＤプレーヤー【ＣＤプレイヤー、ＣＤデッキ、カセットデッキ】",
+      "typeID": "5",
+      "options": [],
+      "examples": [
+        "CDプレイヤー",
+        "CDデッキ",
+        "カセットデッキ"
+      ],
+      "simple": "CDラジカセ・CDプレーヤー",
+      "simple_index": "シーディー、ＣＤラジカセ・ＣＤプレーヤー"
+    },
+    {
+      "comment": "",
+      "dictionaryID": "165",
+      "index": "シーディー、ＣＤ（ケースヲフクム）（ＤＶＤ、ＣＤケース、ＣＤ－Ｒ、ＢＲ、ブルーレイディスク）",
+      "name": "CD（ケースを含む）【DVD、CDケース、CD-R、BR、ブルーレイディスク】",
+      "name_reduced": "ＣＤ（ケースヲ含ム）【ＤＶＤ、ＣＤケース、ＣＤ－Ｒ、ＢＲ、ブルーレイディスク】",
+      "typeID": "7",
+      "options": [
+        "ケースを含む"
+      ],
+      "examples": [
+        "DVD",
+        "CDケース",
+        "CD-R",
+        "BR",
+        "ブルーレイディスク"
+      ],
+      "simple": "CD",
+      "simple_index": "シーディー、ＣＤ"
+    },
+    {
+      "comment": "",
+      "dictionaryID": "171",
+      "index": "ジテンシャ",
+      "name": "自転車",
+      "name_reduced": "自転車",
+      "typeID": "4",
+      "options": [],
+      "examples": [],
+      "simple": "自転車",
+      "simple_index": "ジテンシャ"
+    },
+    {
+      "comment": "できるだけ地域の資源（古紙など）集団回収へ　回収に出す場合は固い表紙ははずす",
+      "dictionaryID": "170",
+      "index": "ジテン（ヒャッカジテン、ジショ、ズカン）",
+      "name": "辞典【百科辞典、辞書、図鑑】",
+      "name_reduced": "辞典【百科辞典、辞書、図鑑】",
+      "typeID": "7",
+      "options": [],
+      "examples": [
+        "百科辞典",
+        "辞書",
+        "図鑑"
+      ],
+      "simple": "辞典",
+      "simple_index": "ジテン"
+    },
+    {
+      "comment": "丸めてひもでしばる",
+      "dictionaryID": "175",
+      "index": "ジュウタン（カーペット、ラグ、シキモノ、ジュウタン）",
+      "name": "じゅうたん【カーペット、ラグ、敷物、絨毯】",
+      "name_reduced": "ジュウタン【カーペット、ラグ、敷物、絨毯】",
+      "typeID": "4",
+      "options": [],
+      "examples": [
+        "カーペット",
+        "ラグ",
+        "敷物",
+        "絨毯"
+      ],
+      "simple": "じゅうたん",
+      "simple_index": "ジュウタン"
+    },
+    {
+      "comment": "",
+      "dictionaryID": "174",
+      "index": "ジューサー（ミキサー）",
+      "name": "ジューサー【ミキサー】",
+      "name_reduced": "ジューサー【ミキサー】",
+      "typeID": "5",
+      "options": [],
+      "examples": [
+        "ミキサー"
+      ],
+      "simple": "ジューサー",
+      "simple_index": "ジューサー"
+    },
+    {
+      "comment": "",
+      "dictionaryID": "178",
+      "index": "ジョウギ（キンゾクセイイガイ）",
+      "name": "定規（金属製以外）",
+      "name_reduced": "定規（金属製以外）",
+      "typeID": "7",
+      "options": [
+        "金属製以外"
+      ],
+      "examples": [],
+      "simple": "定規",
+      "simple_index": "ジョウギ"
+    },
+    {
+      "comment": "",
+      "dictionaryID": "177",
+      "index": "ジョウギ（キンゾクセイ）",
+      "name": "定規（金属製）",
+      "name_reduced": "定規（金属製）",
+      "typeID": "5",
+      "options": [
+        "金属製"
+      ],
+      "examples": [],
+      "simple": "定規",
+      "simple_index": "ジョウギ"
+    },
+    {
+      "comment": "",
+      "dictionaryID": "179",
+      "index": "ジョウスイキ（カートリッジ）",
+      "name": "浄水器（カートリッジ）",
+      "name_reduced": "浄水器（カートリッジ）",
+      "typeID": "7",
+      "options": [
+        "カートリッジ"
+      ],
+      "examples": [],
+      "simple": "浄水器",
+      "simple_index": "ジョウスイキ"
+    },
+    {
+      "comment": "プラ製のものは燃えるごみ",
+      "dictionaryID": "180",
+      "index": "ジョウスイキ（ホンタイ）",
+      "name": "浄水器（本体）",
+      "name_reduced": "浄水器（本体）",
+      "typeID": "5",
+      "options": [
+        "本体"
+      ],
+      "examples": [],
+      "simple": "浄水器",
+      "simple_index": "ジョウスイキ"
+    },
+    {
+      "comment": "",
+      "dictionaryID": "190",
+      "index": "ジョシツキ（ジョシツキ）",
+      "name": "除湿機【除湿器】",
+      "name_reduced": "除湿機【除湿器】",
+      "typeID": "4",
+      "options": [],
+      "examples": [
+        "除湿器"
+      ],
+      "simple": "除湿機",
+      "simple_index": "ジョシツキ"
+    },
+    {
+      "comment": "",
+      "dictionaryID": "194",
+      "index": "ジンコウシバ",
+      "name": "人工芝",
+      "name_reduced": "人工芝",
+      "typeID": "7",
+      "options": [],
+      "examples": [],
+      "simple": "人工芝",
+      "simple_index": "ジンコウシバ"
+    },
+    {
+      "comment": "紙にくるんで、外からわかるように指定袋に「キケン」と貼る　指定袋に入らないものは、大型ごみ",
+      "dictionaryID": "197",
+      "index": "スイソウ（ガラスセイ）（キンギョハチ）",
+      "name": "水槽（ガラス製）【金魚鉢】",
+      "name_reduced": "水槽（ガラス製）【金魚鉢】",
+      "typeID": "5",
+      "options": [
+        "ガラス製"
+      ],
+      "examples": [
+        "金魚鉢"
+      ],
+      "simple": "水槽",
+      "simple_index": "スイソウ"
+    },
+    {
+      "comment": "",
+      "dictionaryID": "198",
+      "index": "スイソウ（プラセイ）（キンギョハチ）",
+      "name": "水槽（プラ製）【金魚鉢】",
+      "name_reduced": "水槽（プラ製）【金魚鉢】",
+      "typeID": "7",
+      "options": [
+        "プラ製"
+      ],
+      "examples": [
+        "金魚鉢"
+      ],
+      "simple": "水槽",
+      "simple_index": "スイソウ"
+    },
+    {
+      "comment": "",
+      "dictionaryID": "199",
+      "index": "スイチュウメガネ（ガラスセイ）（ゴーグル）",
+      "name": "水中メガネ（ガラス製）【ゴーグル】",
+      "name_reduced": "水中メガネ（ガラス製）【ゴーグル】",
+      "typeID": "5",
+      "options": [
+        "ガラス製"
+      ],
+      "examples": [
+        "ゴーグル"
+      ],
+      "simple": "水中メガネ",
+      "simple_index": "スイチュウメガネ"
+    },
+    {
+      "comment": "",
+      "dictionaryID": "200",
+      "index": "スイチュウメガネ（プラセイ）（ゴーグル）",
+      "name": "水中メガネ（プラ製）【ゴーグル】",
+      "name_reduced": "水中メガネ（プラ製）【ゴーグル】",
+      "typeID": "7",
+      "options": [
+        "プラ製"
+      ],
+      "examples": [
+        "ゴーグル"
+      ],
+      "simple": "水中メガネ",
+      "simple_index": "スイチュウメガネ"
+    },
+    {
+      "comment": "",
+      "dictionaryID": "202",
+      "index": "スイトウ（キンゾクセイ）",
+      "name": "水筒（金属製）",
+      "name_reduced": "水筒（金属製）",
+      "typeID": "5",
+      "options": [
+        "金属製"
+      ],
+      "examples": [],
+      "simple": "水筒",
+      "simple_index": "スイトウ"
+    },
+    {
+      "comment": "",
+      "dictionaryID": "201",
+      "index": "スイトウ（プラセイ）",
+      "name": "水筒（プラ製）",
+      "name_reduced": "水筒（プラ製）",
+      "typeID": "7",
+      "options": [
+        "プラ製"
+      ],
+      "examples": [],
+      "simple": "水筒",
+      "simple_index": "スイトウ"
+    },
+    {
+      "comment": "指定袋に入らないもの、または5kgを超えるものは大型ごみ",
+      "dictionaryID": "203",
+      "index": "スイハンキ（ジャー、スイハンジャー、デンシジャー）",
+      "name": "炊飯器【ジャー、炊飯ジャー、電子ジャー】",
+      "name_reduced": "炊飯器【ジャー、炊飯ジャー、電子ジャー】",
+      "typeID": "5",
+      "options": [],
+      "examples": [
+        "ジャー",
+        "炊飯ジャー",
+        "電子ジャー"
+      ],
+      "simple": "炊飯器",
+      "simple_index": "スイハンキ"
+    },
+    {
+      "comment": "",
+      "dictionaryID": "205",
+      "index": "スガタミ",
+      "name": "姿見",
+      "name_reduced": "姿見",
+      "typeID": "4",
+      "options": [],
+      "examples": [],
+      "simple": "姿見",
+      "simple_index": "スガタミ"
+    },
+    {
+      "comment": "指定袋に入らないもの、または5kgを超えるものは大型ごみ",
+      "dictionaryID": "207",
+      "index": "スキャナー",
+      "name": "スキャナー",
+      "name_reduced": "スキャナー",
+      "typeID": "5",
+      "options": [],
+      "examples": [],
+      "simple": "スキャナー",
+      "simple_index": "スキャナー"
+    },
+    {
+      "comment": "",
+      "dictionaryID": "206",
+      "index": "スキーイタ",
+      "name": "スキー板",
+      "name_reduced": "スキー板",
+      "typeID": "4",
+      "options": [],
+      "examples": [],
+      "simple": "スキー板",
+      "simple_index": "スキーイタ"
+    },
+    {
+      "comment": "",
+      "dictionaryID": "208",
+      "index": "スケートグツ",
+      "name": "スケート靴",
+      "name_reduced": "スケート靴",
+      "typeID": "5",
+      "options": [],
+      "examples": [],
+      "simple": "スケート靴",
+      "simple_index": "スケートグツ"
+    },
+    {
+      "comment": "",
+      "dictionaryID": "209",
+      "index": "スケートボード（スケボー）",
+      "name": "スケートボード【スケボー】",
+      "name_reduced": "スケートボード【スケボー】",
+      "typeID": "5",
+      "options": [],
+      "examples": [
+        "スケボー"
+      ],
+      "simple": "スケートボード",
+      "simple_index": "スケートボード"
+    },
+    {
+      "comment": "",
+      "dictionaryID": "210",
+      "index": "スズリ（ショドウ、スズリ）",
+      "name": "すずり【書道、硯】",
+      "name_reduced": "スズリ【書道、硯】",
+      "typeID": "5",
+      "options": [],
+      "examples": [
+        "書道",
+        "硯"
+      ],
+      "simple": "すずり",
+      "simple_index": "スズリ"
+    },
+    {
+      "comment": "指定袋に入り、5kg以下のものは燃えるごみ",
+      "dictionaryID": "211",
+      "index": "スダレ（ヒヨケ、スダレ）",
+      "name": "すだれ【日よけ、簾】",
+      "name_reduced": "スダレ【日ヨケ、簾】",
+      "typeID": "4",
+      "options": [],
+      "examples": [
+        "日よけ",
+        "簾"
+      ],
+      "simple": "すだれ",
+      "simple_index": "スダレ"
+    },
+    {
+      "comment": "中身を使い切って、水洗いする",
+      "dictionaryID": "212",
+      "index": "スチールカン（インリョウ・ショクヒンヨウ）",
+      "name": "スチール缶（飲料・食品用）",
+      "name_reduced": "スチール缶（飲料・食品用）",
+      "typeID": "2",
+      "options": [
+        "飲料・食品用"
+      ],
+      "examples": [],
+      "simple": "スチール缶",
+      "simple_index": "スチールカン"
+    },
+    {
+      "comment": "",
+      "dictionaryID": "213",
+      "index": "スチールダナ",
+      "name": "スチール棚",
+      "name_reduced": "スチール棚",
+      "typeID": "4",
+      "options": [],
+      "examples": [],
+      "simple": "スチール棚",
+      "simple_index": "スチールダナ"
+    },
+    {
+      "comment": "",
+      "dictionaryID": "215",
+      "index": "ステレオセット（アンプ）",
+      "name": "ステレオセット【アンプ】",
+      "name_reduced": "ステレオセット【アンプ】",
+      "typeID": "4",
+      "options": [],
+      "examples": [
+        "アンプ"
+      ],
+      "simple": "ステレオセット",
+      "simple_index": "ステレオセット"
+    },
+    {
+      "comment": "",
+      "dictionaryID": "214",
+      "index": "ステープラ（ホッチキスナド）",
+      "name": "ステープラ（ホッチキスなど）",
+      "name_reduced": "ステープラ（ホッチキスナド）",
+      "typeID": "5",
+      "options": [
+        "ホッチキスなど"
+      ],
+      "examples": [],
+      "simple": "ステープラ",
+      "simple_index": "ステープラ"
+    },
+    {
+      "comment": "",
+      "dictionaryID": "217",
+      "index": "ストッキング",
+      "name": "ストッキング",
+      "name_reduced": "ストッキング",
+      "typeID": "7",
+      "options": [],
+      "examples": [],
+      "simple": "ストッキング",
+      "simple_index": "ストッキング"
+    },
+    {
+      "comment": "",
+      "dictionaryID": "218",
+      "index": "ストロー",
+      "name": "ストロー",
+      "name_reduced": "ストロー",
+      "typeID": "7",
+      "options": [],
+      "examples": [],
+      "simple": "ストロー",
+      "simple_index": "ストロー"
+    },
+    {
+      "comment": "電池は抜いて燃えないごみ　灯油は抜いて販売店などに相談",
+      "dictionaryID": "216",
+      "index": "ストーブ（ガスストーブ、セキユストーブ、デンキストーブ）",
+      "name": "ストーブ【ガスストーブ、石油ストーブ、電気ストーブ】",
+      "name_reduced": "ストーブ【ガスストーブ、石油ストーブ、電気ストーブ】",
+      "typeID": "4",
+      "options": [],
+      "examples": [
+        "ガスストーブ",
+        "石油ストーブ",
+        "電気ストーブ"
+      ],
+      "simple": "ストーブ",
+      "simple_index": "ストーブ"
+    },
+    {
+      "comment": "指定袋に入り、5kg以下のものは燃えるごみ",
+      "dictionaryID": "220",
+      "index": "スノコ",
+      "name": "すのこ",
+      "name_reduced": "スノコ",
+      "typeID": "4",
+      "options": [],
+      "examples": [],
+      "simple": "すのこ",
+      "simple_index": "スノコ"
+    },
+    {
+      "comment": "",
+      "dictionaryID": "219",
+      "index": "スノーボード（スノボー）",
+      "name": "スノーボード【スノボー】",
+      "name_reduced": "スノーボード【スノボー】",
+      "typeID": "4",
+      "options": [],
+      "examples": [
+        "スノボー"
+      ],
+      "simple": "スノーボード",
+      "simple_index": "スノーボード"
+    },
+    {
+      "comment": "",
+      "dictionaryID": "221",
+      "index": "スパナ（コウグルイ）（レンチ）",
+      "name": "スパナ（工具類）【レンチ】",
+      "name_reduced": "スパナ（工具類）【レンチ】",
+      "typeID": "5",
+      "options": [
+        "工具類"
+      ],
+      "examples": [
+        "レンチ"
+      ],
+      "simple": "スパナ",
+      "simple_index": "スパナ"
+    },
+    {
+      "comment": "指定袋に入らないもの、または5kgを超えるものは大型ごみ",
+      "dictionaryID": "222",
+      "index": "スピーカー（カクセイキ、デンキメガホン）",
+      "name": "スピーカー【拡声器、電気メガホン】",
+      "name_reduced": "スピーカー【拡声器、電気メガホン】",
+      "typeID": "5",
+      "options": [],
+      "examples": [
+        "拡声器",
+        "電気メガホン"
+      ],
+      "simple": "スピーカー",
+      "simple_index": "スピーカー"
+    },
+    {
+      "comment": "",
+      "dictionaryID": "225",
+      "index": "スプリングマットレス（ベッド）",
+      "name": "スプリングマットレス【ベッド】",
+      "name_reduced": "スプリングマットレス【ベッド】",
+      "typeID": "4",
+      "options": [],
+      "examples": [
+        "ベッド"
+      ],
+      "simple": "スプリングマットレス",
+      "simple_index": "スプリングマットレス"
+    },
+    {
+      "comment": "中身は全部使い切る。穴あけ不要。燃えないゴミと分けて中身の見える袋で出す。クリーンステーションに燃えないゴミと場所をわけて出す",
+      "dictionaryID": "226",
+      "index": "スプレーカン",
+      "name": "スプレー缶",
+      "name_reduced": "スプレー缶",
+      "typeID": "6",
+      "options": [],
+      "examples": [],
+      "simple": "スプレー缶",
+      "simple_index": "スプレーカン"
+    },
+    {
+      "comment": "",
+      "dictionaryID": "227",
+      "index": "スプレーカンノキャップ（プラセイ）",
+      "name": "スプレー缶のキャップ（プラ製）",
+      "name_reduced": "スプレー缶ノキャップ（プラ製）",
+      "typeID": "3",
+      "options": [
+        "プラ製"
+      ],
+      "examples": [],
+      "simple": "スプレー缶のキャップ",
+      "simple_index": "スプレーカンノキャップ"
+    },
+    {
+      "comment": "",
+      "dictionaryID": "223",
+      "index": "スプーン（キンゾクセイ・トウキセイ）",
+      "name": "スプーン（金属製・陶器製）",
+      "name_reduced": "スプーン（金属製・陶器製）",
+      "typeID": "5",
+      "options": [
+        "金属製・陶器製"
+      ],
+      "examples": [],
+      "simple": "スプーン",
+      "simple_index": "スプーン"
+    },
+    {
+      "comment": "",
+      "dictionaryID": "224",
+      "index": "スプーン（プラセイ・モクセイ）",
+      "name": "スプーン（プラ製・木製）",
+      "name_reduced": "スプーン（プラ製・木製）",
+      "typeID": "7",
+      "options": [
+        "プラ製・木製"
+      ],
+      "examples": [],
+      "simple": "スプーン",
+      "simple_index": "スプーン"
+    },
+    {
+      "comment": "",
+      "dictionaryID": "228",
+      "index": "スベリダイ（コドモヨウユウグ）（スベリダイ）",
+      "name": "すべり台（子供用遊具）【滑り台】",
+      "name_reduced": "スベリ台（子供用遊具）【滑リ台】",
+      "typeID": "4",
+      "options": [
+        "子供用遊具"
+      ],
+      "examples": [
+        "滑り台"
+      ],
+      "simple": "すべり台",
+      "simple_index": "スベリダイ"
+    },
+    {
+      "comment": "",
+      "dictionaryID": "229",
+      "index": "スポンジ",
+      "name": "スポンジ",
+      "name_reduced": "スポンジ",
+      "typeID": "7",
+      "options": [],
+      "examples": [],
+      "simple": "スポンジ",
+      "simple_index": "スポンジ"
+    },
+    {
+      "comment": "",
+      "dictionaryID": "231",
+      "index": "スミ（ネンリョウ、モクタン）",
+      "name": "炭【燃料、木炭】",
+      "name_reduced": "炭【燃料、木炭】",
+      "typeID": "7",
+      "options": [],
+      "examples": [
+        "燃料",
+        "木炭"
+      ],
+      "simple": "炭",
+      "simple_index": "スミ"
+    },
+    {
+      "comment": "",
+      "dictionaryID": "232",
+      "index": "スリッパ",
+      "name": "スリッパ",
+      "name_reduced": "スリッパ",
+      "typeID": "7",
+      "options": [],
+      "examples": [],
+      "simple": "スリッパ",
+      "simple_index": "スリッパ"
+    },
+    {
+      "comment": "",
+      "dictionaryID": "204",
+      "index": "スーツケース（キャリーバッグ、トランク）",
+      "name": "スーツケース【キャリーバッグ、トランク】",
+      "name_reduced": "スーツケース【キャリーバッグ、トランク】",
+      "typeID": "4",
+      "options": [],
+      "examples": [
+        "キャリーバッグ",
+        "トランク"
+      ],
+      "simple": "スーツケース",
+      "simple_index": "スーツケース"
+    },
+    {
+      "comment": "",
+      "dictionaryID": "230",
+      "index": "ズボンプレッサー",
+      "name": "ズボンプレッサー",
+      "name_reduced": "ズボンプレッサー",
+      "typeID": "4",
+      "options": [],
+      "examples": [],
+      "simple": "ズボンプレッサー",
+      "simple_index": "ズボンプレッサー"
+    },
+    {
+      "comment": "中身は全部使い切る。穴あけ不要。燃えないゴミと分けて中身の見える袋で出す。クリーンステーションに燃えないゴミと場所をわけて出す",
+      "dictionaryID": "233",
+      "index": "セイハツリョウ（スプレーカン）（ムース、ヘアカラー）",
+      "name": "整髪料（スプレー缶）【ムース、ヘアカラー】",
+      "name_reduced": "整髪料（スプレー缶）【ムース、ヘアカラー】",
+      "typeID": "6",
+      "options": [
+        "スプレー缶"
+      ],
+      "examples": [
+        "ムース",
+        "ヘアカラー"
+      ],
+      "simple": "整髪料",
+      "simple_index": "セイハツリョウ"
+    },
+    {
+      "comment": "紙にくるんで、外からわかるように指定袋に「キケン」と貼る",
+      "dictionaryID": "235",
+      "index": "セトモノ（トウキ、セトモノ、ショッキ）",
+      "name": "せともの【陶器、瀬戸物、食器】",
+      "name_reduced": "セトモノ【陶器、瀬戸物、食器】",
+      "typeID": "5",
+      "options": [],
+      "examples": [
+        "陶器",
+        "瀬戸物",
+        "食器"
+      ],
+      "simple": "せともの",
+      "simple_index": "セトモノ"
+    },
+    {
+      "comment": "",
+      "dictionaryID": "236",
+      "index": "セロハンテープ（セロテープ、ネンチャクテープ）",
+      "name": "セロハンテープ【セロテープ、粘着テープ】",
+      "name_reduced": "セロハンテープ【セロテープ、粘着テープ】",
+      "typeID": "7",
+      "options": [],
+      "examples": [
+        "セロテープ",
+        "粘着テープ"
+      ],
+      "simple": "セロハンテープ",
+      "simple_index": "セロハンテープ"
+    },
+    {
+      "comment": "",
+      "dictionaryID": "237",
+      "index": "センザイノケイリョウスプーン",
+      "name": "洗剤の計量スプーン",
+      "name_reduced": "洗剤ノ計量スプーン",
+      "typeID": "7",
+      "options": [],
+      "examples": [],
+      "simple": "洗剤の計量スプーン",
+      "simple_index": "センザイノケイリョウスプーン"
+    },
+    {
+      "comment": "",
+      "dictionaryID": "239",
+      "index": "センザイノヨウキ（カミセイ）",
+      "name": "洗剤の容器（紙製）",
+      "name_reduced": "洗剤ノ容器（紙製）",
+      "typeID": "7",
+      "options": [
+        "紙製"
+      ],
+      "examples": [],
+      "simple": "洗剤の容器",
+      "simple_index": "センザイノヨウキ"
+    },
+    {
+      "comment": "中身を使い切って、汚れを取る",
+      "dictionaryID": "238",
+      "index": "センザイノヨウキ（プラセイ）",
+      "name": "洗剤の容器（プラ製）",
+      "name_reduced": "洗剤ノ容器（プラ製）",
+      "typeID": "3",
+      "options": [
+        "プラ製"
+      ],
+      "examples": [],
+      "simple": "洗剤の容器",
+      "simple_index": "センザイノヨウキ"
+    },
+    {
+      "comment": "販売店などへ（家電リサイクル品）",
+      "dictionaryID": "240",
+      "index": "センタクキ",
+      "name": "洗濯機",
+      "name_reduced": "洗濯機",
+      "typeID": "9",
+      "options": [],
+      "examples": [],
+      "simple": "洗濯機",
+      "simple_index": "センタクキ"
+    },
+    {
+      "comment": "",
+      "dictionaryID": "242",
+      "index": "センタクハンガー（プラセイ）（ピンチハンガー、センタクホスヤツ）",
+      "name": "洗濯ハンガー（プラ製）【ピンチハンガー、洗濯干すやつ】",
+      "name_reduced": "洗濯ハンガー（プラ製）【ピンチハンガー、洗濯干スヤツ】",
+      "typeID": "5",
+      "options": [
+        "プラ製"
+      ],
+      "examples": [
+        "ピンチハンガー",
+        "洗濯干すやつ"
+      ],
+      "simple": "洗濯ハンガー",
+      "simple_index": "センタクハンガー"
+    },
+    {
+      "comment": "",
+      "dictionaryID": "241",
+      "index": "センタクバサミ",
+      "name": "洗濯バサミ",
+      "name_reduced": "洗濯バサミ",
+      "typeID": "5",
+      "options": [],
+      "examples": [],
+      "simple": "洗濯バサミ",
+      "simple_index": "センタクバサミ"
+    },
+    {
+      "comment": "長いものは50以下に切って、束ねて指定袋に入れる　太い枝、幹は大型ごみ",
+      "dictionaryID": "243",
+      "index": "センテイエダ（ニワキ、カレキ）",
+      "name": "剪定枝【庭木、枯木】",
+      "name_reduced": "剪定枝【庭木、枯木】",
+      "typeID": "7",
+      "options": [],
+      "examples": [
+        "庭木",
+        "枯木"
+      ],
+      "simple": "剪定枝",
+      "simple_index": "センテイエダ"
+    },
+    {
+      "comment": "紙にくるんで、外からわかるように指定袋に「キケン」と貼る",
+      "dictionaryID": "244",
+      "index": "センテイバサミ（コウエダキリ）",
+      "name": "剪定バサミ【高枝切り】",
+      "name_reduced": "剪定バサミ【高枝切リ】",
+      "typeID": "5",
+      "options": [],
+      "examples": [
+        "高枝切り"
+      ],
+      "simple": "剪定バサミ",
+      "simple_index": "センテイバサミ"
+    },
+    {
+      "comment": "",
+      "dictionaryID": "245",
+      "index": "センヌキ（オープナー、カンキリ）",
+      "name": "栓抜き【オープナー、缶きり】",
+      "name_reduced": "栓抜キ【オープナー、缶キリ】",
+      "typeID": "5",
+      "options": [],
+      "examples": [
+        "オープナー",
+        "缶きり"
+      ],
+      "simple": "栓抜き",
+      "simple_index": "センヌキ"
+    },
+    {
+      "comment": "指定袋に入り、5kg以下のものは燃えないごみ",
+      "dictionaryID": "246",
+      "index": "センプウキ",
+      "name": "扇風機",
+      "name_reduced": "扇風機",
+      "typeID": "4",
+      "options": [],
+      "examples": [],
+      "simple": "扇風機",
+      "simple_index": "センプウキ"
+    },
+    {
+      "comment": "",
+      "dictionaryID": "247",
+      "index": "センメンキ（プラセイ）（タライ、オケ、オケ、フロオケ）",
+      "name": "洗面器（プラ製）【たらい、おけ、桶、風呂おけ】",
+      "name_reduced": "洗面器（プラ製）【タライ、オケ、桶、風呂オケ】",
+      "typeID": "7",
+      "options": [
+        "プラ製"
+      ],
+      "examples": [
+        "たらい",
+        "おけ",
+        "桶",
+        "風呂おけ"
+      ],
+      "simple": "洗面器",
+      "simple_index": "センメンキ"
+    },
+    {
+      "comment": "地域の資源（古紙など）集団回収で集めている場合はできるだけ資源集団回収へ",
+      "dictionaryID": "234",
+      "index": "セーター",
+      "name": "セーター",
+      "name_reduced": "セーター",
+      "typeID": "7",
+      "options": [],
+      "examples": [],
+      "simple": "セーター",
+      "simple_index": "セーター"
+    },
+    {
+      "comment": "",
+      "dictionaryID": "248",
+      "index": "ソウガンキョウ（オペラグラス）",
+      "name": "双眼鏡【オペラグラス】",
+      "name_reduced": "双眼鏡【オペラグラス】",
+      "typeID": "5",
+      "options": [],
+      "examples": [
+        "オペラグラス"
+      ],
+      "simple": "双眼鏡",
+      "simple_index": "ソウガンキョウ"
+    },
+    {
+      "comment": "指定袋に入り、5kg以下のものは燃えないごみ",
+      "dictionaryID": "249",
+      "index": "ソウジキ（クリーナー）",
+      "name": "掃除機【クリーナー】",
+      "name_reduced": "掃除機【クリーナー】",
+      "typeID": "4",
+      "options": [],
+      "examples": [
+        "クリーナー"
+      ],
+      "simple": "掃除機",
+      "simple_index": "ソウジキ"
+    },
+    {
+      "comment": "",
+      "dictionaryID": "252",
+      "index": "ソファー・ソファーベッド",
+      "name": "ソファー・ソファーベッド",
+      "name_reduced": "ソファー・ソファーベッド",
+      "typeID": "4",
+      "options": [],
+      "examples": [],
+      "simple": "ソファー・ソファーベッド",
+      "simple_index": "ソファー・ソファーベッド"
+    },
+    {
+      "comment": "中身を使い切って、水洗いする",
+      "dictionaryID": "250",
+      "index": "ソースノビン",
+      "name": "ソースのびん",
+      "name_reduced": "ソースノビン",
+      "typeID": "2",
+      "options": [],
+      "examples": [],
+      "simple": "ソースのびん",
+      "simple_index": "ソースノビン"
+    },
+    {
+      "comment": "中身jを使い切って、汚れを取る",
+      "dictionaryID": "251",
+      "index": "ソースノプラスチックセイボトル",
+      "name": "ソースのプラスチック製ボトル",
+      "name_reduced": "ソースノプラスチック製ボトル",
+      "typeID": "3",
+      "options": [],
+      "examples": [],
+      "simple": "ソースのプラスチック製ボトル",
+      "simple_index": "ソースノプラスチックセイボトル"
+    },
+    {
+      "comment": "",
+      "dictionaryID": "253",
+      "index": "タイオンケイ（スイギンタイオンケイ）",
+      "name": "体温計【水銀体温計】",
+      "name_reduced": "体温計【水銀体温計】",
+      "typeID": "5",
+      "options": [],
+      "examples": [
+        "水銀体温計"
+      ],
+      "simple": "体温計",
+      "simple_index": "タイオンケイ"
+    },
+    {
+      "comment": "",
+      "dictionaryID": "254",
+      "index": "タイジュウケイ（ヘルスメーター）（ハカリ）",
+      "name": "体重計（ヘルスメーター）【はかり】",
+      "name_reduced": "体重計（ヘルスメーター）【ハカリ】",
+      "typeID": "5",
+      "options": [
+        "ヘルスメーター"
+      ],
+      "examples": [
+        "はかり"
+      ],
+      "simple": "体重計",
+      "simple_index": "タイジュウケイ"
+    },
+    {
+      "comment": "お近くの販売店へ",
+      "dictionaryID": "255",
+      "index": "タイヤ（クルマ）",
+      "name": "タイヤ（車）",
+      "name_reduced": "タイヤ（車）",
+      "typeID": "9",
+      "options": [
+        "車"
+      ],
+      "examples": [],
+      "simple": "タイヤ",
+      "simple_index": "タイヤ"
+    },
+    {
+      "comment": "地域の資源（古紙など）集団回収で集めている場合は、できるだけ資源集団回収へ",
+      "dictionaryID": "257",
+      "index": "タオルケット",
+      "name": "タオルケット",
+      "name_reduced": "タオルケット",
+      "typeID": "7",
+      "options": [],
+      "examples": [],
+      "simple": "タオルケット",
+      "simple_index": "タオルケット"
+    },
+    {
+      "comment": "",
+      "dictionaryID": "256",
+      "index": "タオル（バスタオル）",
+      "name": "タオル【バスタオル】",
+      "name_reduced": "タオル【バスタオル】",
+      "typeID": "7",
+      "options": [],
+      "examples": [
+        "バスタオル"
+      ],
+      "simple": "タオル",
+      "simple_index": "タオル"
+    },
+    {
+      "comment": "",
+      "dictionaryID": "258",
+      "index": "タクジョウコンロ（カセットコンロ、タコヤキキ、ホットプレート）",
+      "name": "卓上コンロ【カセットコンロ、たこ焼き器、ホットプレート】",
+      "name_reduced": "卓上コンロ【カセットコンロ、タコ焼キ器、ホットプレート】",
+      "typeID": "5",
+      "options": [],
+      "examples": [
+        "カセットコンロ",
+        "たこ焼き器",
+        "ホットプレート"
+      ],
+      "simple": "卓上コンロ",
+      "simple_index": "タクジョウコンロ"
+    },
+    {
+      "comment": "指定袋に入り、5kg以下のものは燃えるごみ",
+      "dictionaryID": "259",
+      "index": "タタミ",
+      "name": "畳",
+      "name_reduced": "畳",
+      "typeID": "4",
+      "options": [],
+      "examples": [],
+      "simple": "畳",
+      "simple_index": "タタミ"
+    },
+    {
+      "comment": "",
+      "dictionaryID": "262",
+      "index": "タバコノスイガラ",
+      "name": "タバコの吸殻",
+      "name_reduced": "タバコノ吸殻",
+      "typeID": "7",
+      "options": [],
+      "examples": [],
+      "simple": "タバコの吸殻",
+      "simple_index": "タバコノスイガラ"
+    },
+    {
+      "comment": "",
+      "dictionaryID": "263",
+      "index": "タマゴノカラ",
+      "name": "卵の殻",
+      "name_reduced": "卵ノ殻",
+      "typeID": "7",
+      "options": [],
+      "examples": [],
+      "simple": "卵の殻",
+      "simple_index": "タマゴノカラ"
+    },
+    {
+      "comment": "できるだけ地域の資源（古紙など）集団回収へ",
+      "dictionaryID": "265",
+      "index": "タマゴパック（カミセイ）",
+      "name": "卵パック（紙製）",
+      "name_reduced": "卵パック（紙製）",
+      "typeID": "7",
+      "options": [
+        "紙製"
+      ],
+      "examples": [],
+      "simple": "卵パック",
+      "simple_index": "タマゴパック"
+    },
+    {
+      "comment": "",
+      "dictionaryID": "264",
+      "index": "タマゴパック（プラセイ）",
+      "name": "卵パック（プラ製）",
+      "name_reduced": "卵パック（プラ製）",
+      "typeID": "3",
+      "options": [
+        "プラ製"
+      ],
+      "examples": [],
+      "simple": "卵パック",
+      "simple_index": "タマゴパック"
+    },
+    {
+      "comment": "",
+      "dictionaryID": "267",
+      "index": "タワシ（キンゾクセイイガイ）",
+      "name": "たわし（金属製以外）",
+      "name_reduced": "タワシ（金属製以外）",
+      "typeID": "7",
+      "options": [
+        "金属製以外"
+      ],
+      "examples": [],
+      "simple": "たわし",
+      "simple_index": "タワシ"
+    },
+    {
+      "comment": "",
+      "dictionaryID": "266",
+      "index": "タワシ（キンゾクセイ）（スチールタワシ）",
+      "name": "たわし（金属製）【スチールたわし】",
+      "name_reduced": "タワシ（金属製）【スチールタワシ】",
+      "typeID": "5",
+      "options": [
+        "金属製"
+      ],
+      "examples": [
+        "スチールたわし"
+      ],
+      "simple": "たわし",
+      "simple_index": "タワシ"
+    },
+    {
+      "comment": "販売店または二輪車リサイクルコールセンター（03-3598-8075）に相談",
+      "dictionaryID": "268",
+      "index": "タンシャ（バイク、ジドウニリン、ニリン、オートバイ）",
+      "name": "単車【バイク、自動二輪、二輪、オートバイ】",
+      "name_reduced": "単車【バイク、自動二輪、二輪、オートバイ】",
+      "typeID": "9",
+      "options": [],
+      "examples": [
+        "バイク",
+        "自動二輪",
+        "二輪",
+        "オートバイ"
+      ],
+      "simple": "単車",
+      "simple_index": "タンシャ"
+    },
+    {
+      "comment": "",
+      "dictionaryID": "269",
+      "index": "タンス（キャビネット、シュウノウコ、カラーボックス、クミタテカグ）",
+      "name": "たんす【キャビネット、収納庫、カラーボックス、組み立て家具】",
+      "name_reduced": "タンス【キャビネット、収納庫、カラーボックス、組ミ立テ家具】",
+      "typeID": "4",
+      "options": [],
+      "examples": [
+        "キャビネット",
+        "収納庫",
+        "カラーボックス",
+        "組み立て家具"
+      ],
+      "simple": "たんす",
+      "simple_index": "タンス"
+    },
+    {
+      "comment": "中身を使い切って、水洗いする　中身が簡単に取れない場合は燃えるごみ",
+      "dictionaryID": "261",
+      "index": "ダッシュウザイ（レイゾウコヨウナド）ノヨウキ（カッセイタン、ショウシュウザイ）",
+      "name": "脱臭剤（冷蔵庫用など）の容器【活性炭、消臭剤】",
+      "name_reduced": "脱臭剤（冷蔵庫用ナド）ノ容器【活性炭、消臭剤】",
+      "typeID": "3",
+      "options": [
+        "冷蔵庫用など"
+      ],
+      "examples": [
+        "活性炭",
+        "消臭剤"
+      ],
+      "simple": "脱臭剤",
+      "simple_index": "ダッシュウザイ"
+    },
+    {
+      "comment": "",
+      "dictionaryID": "260",
+      "index": "ダツサンソザイ（エージレス）",
+      "name": "脱酸素剤【エージレス】",
+      "name_reduced": "脱酸素剤【エージレス】",
+      "typeID": "7",
+      "options": [],
+      "examples": [
+        "エージレス"
+      ],
+      "simple": "脱酸素剤",
+      "simple_index": "ダツサンソザイ"
+    },
+    {
+      "comment": "できるだけ地域の資源（古紙など）集団回収へ",
+      "dictionaryID": "270",
+      "index": "ダンボール",
+      "name": "段ボール",
+      "name_reduced": "段ボール",
+      "typeID": "7",
+      "options": [],
+      "examples": [],
+      "simple": "段ボール",
+      "simple_index": "ダンボール"
+    },
+    {
+      "comment": "",
+      "dictionaryID": "271",
+      "index": "チャイルドシート（ホジョセキ）",
+      "name": "チャイルドシート【補助席】",
+      "name_reduced": "チャイルドシート【補助席】",
+      "typeID": "4",
+      "options": [],
+      "examples": [
+        "補助席"
+      ],
+      "simple": "チャイルドシート",
+      "simple_index": "チャイルドシート"
+    },
+    {
+      "comment": "",
+      "dictionaryID": "272",
+      "index": "チャガラ（デガラシ、デカラシ、ダシガラ）",
+      "name": "茶殻【出がらし、出からし、出し殻】",
+      "name_reduced": "茶殻【出ガラシ、出カラシ、出シ殻】",
+      "typeID": "7",
+      "options": [],
+      "examples": [
+        "出がらし",
+        "出からし",
+        "出し殻"
+      ],
+      "simple": "茶殻",
+      "simple_index": "チャガラ"
+    },
+    {
+      "comment": "中身を使い切って、水洗いする",
+      "dictionaryID": "273",
+      "index": "チャノカン（チャヅツ）",
+      "name": "茶の缶【茶筒】",
+      "name_reduced": "茶ノ缶【茶筒】",
+      "typeID": "2",
+      "options": [],
+      "examples": [
+        "茶筒"
+      ],
+      "simple": "茶の缶",
+      "simple_index": "チャノカン"
+    },
+    {
+      "comment": "紙にくるんで、外からわかるように指定袋に「キケン」と貼る",
+      "dictionaryID": "274",
+      "index": "チャワン（ユノミ、セトモノ、トウキ、サラ）",
+      "name": "茶碗【湯呑、瀬戸物、陶器、皿】",
+      "name_reduced": "茶碗【湯呑、瀬戸物、陶器、皿】",
+      "typeID": "5",
+      "options": [],
+      "examples": [
+        "湯呑",
+        "瀬戸物",
+        "陶器",
+        "皿"
+      ],
+      "simple": "茶碗",
+      "simple_index": "チャワン"
+    },
+    {
+      "comment": "交付を受けた医療機関や薬局など",
+      "dictionaryID": "275",
+      "index": "チュウシャバリ（チュウシャキ、テンテキ、ハリ）",
+      "name": "注射針【注射器、点滴、針】",
+      "name_reduced": "注射針【注射器、点滴、針】",
+      "typeID": "9",
+      "options": [],
+      "examples": [
+        "注射器",
+        "点滴",
+        "針"
+      ],
+      "simple": "注射針",
+      "simple_index": "チュウシャバリ"
+    },
+    {
+      "comment": "中身を使い切って、汚れを取る\n中身が簡単に取れない場合は燃えるごみ",
+      "dictionaryID": "276",
+      "index": "チューブルイ（マヨネーズ、ケッチャップ、カラシ、ワサビ、ハミガキコ、ハミガキナド）",
+      "name": "チューブ類（マヨネーズ、ケッチャップ、からし、わさび、歯磨き粉、歯磨き等）",
+      "name_reduced": "チューブ類（マヨネーズ、ケッチャップ、カラシ、ワサビ、歯磨キ粉、歯磨キ等）",
+      "typeID": "3",
+      "options": [
+        "マヨネーズ",
+        "ケッチャップ",
+        "からし",
+        "わさび",
+        "歯磨き粉",
+        "歯磨き等"
+      ],
+      "examples": [],
+      "simple": "チューブ類",
+      "simple_index": "チューブルイ"
+    },
+    {
+      "comment": "紙にくるんで、外からわかるように指定袋に「キケン」と貼る",
+      "dictionaryID": "277",
+      "index": "チョウコクトウ",
+      "name": "彫刻刀",
+      "name_reduced": "彫刻刀",
+      "typeID": "5",
+      "options": [],
+      "examples": [],
+      "simple": "彫刻刀",
+      "simple_index": "チョウコクトウ"
+    },
+    {
+      "comment": "中身を使い切って、水洗いする",
+      "dictionaryID": "278",
+      "index": "チョウミリョウ（ス、ミリン、リョウリシュ、コショウ、シチミトウガラシナド）ノビン",
+      "name": "調味料（酢、みりん、料理酒、こしょう、七味唐辛子等）のびん",
+      "name_reduced": "調味料（酢、ミリン、料理酒、コショウ、七味唐辛子等）ノビン",
+      "typeID": "2",
+      "options": [
+        "酢",
+        "みりん",
+        "料理酒",
+        "こしょう",
+        "七味唐辛子等"
+      ],
+      "examples": [],
+      "simple": "調味料",
+      "simple_index": "チョウミリョウ"
+    },
+    {
+      "comment": "できるだけ地域の資源（古紙など）集団回収へ",
+      "dictionaryID": "279",
+      "index": "チラシ（ビラ）",
+      "name": "チラシ【ビラ】",
+      "name_reduced": "チラシ【ビラ】",
+      "typeID": "7",
+      "options": [],
+      "examples": [
+        "ビラ"
+      ],
+      "simple": "チラシ",
+      "simple_index": "チラシ"
+    },
+    {
+      "comment": "",
+      "dictionaryID": "281",
+      "index": "チリトリ（キンゾクセイ）",
+      "name": "ちりとり（金属製）",
+      "name_reduced": "チリトリ（金属製）",
+      "typeID": "5",
+      "options": [
+        "金属製"
+      ],
+      "examples": [],
+      "simple": "ちりとり",
+      "simple_index": "チリトリ"
+    },
+    {
+      "comment": "",
+      "dictionaryID": "280",
+      "index": "チリトリ（プラセイ）",
+      "name": "ちりとり（プラ製）",
+      "name_reduced": "チリトリ（プラ製）",
+      "typeID": "7",
+      "options": [
+        "プラ製"
+      ],
+      "examples": [],
+      "simple": "ちりとり",
+      "simple_index": "チリトリ"
+    },
+    {
+      "comment": "中身を使い切って、水に浸す\n一度に大量に出さない\n1～2本まで",
+      "dictionaryID": "282",
+      "index": "ツカイステライター（プラセイ）",
+      "name": "使い捨てライター（プラ製）",
+      "name_reduced": "使イ捨テライター（プラ製）",
+      "typeID": "7",
+      "options": [
+        "プラ製"
+      ],
+      "examples": [],
+      "simple": "使い捨てライター",
+      "simple_index": "ツカイステライター"
+    },
+    {
+      "comment": "",
+      "dictionaryID": "283",
+      "index": "ツクエ（テーブル、ガクシュウツクエ、ジムツクエ、デスク）",
+      "name": "机【テーブル、学習机、事務机、デスク】",
+      "name_reduced": "机【テーブル、学習机、事務机、デスク】",
+      "typeID": "4",
+      "options": [],
+      "examples": [
+        "テーブル",
+        "学習机",
+        "事務机",
+        "デスク"
+      ],
+      "simple": "机",
+      "simple_index": "ツクエ"
+    },
+    {
+      "comment": "一度に大量に出さない",
+      "dictionaryID": "285",
+      "index": "ツチ（ハチウエナドカラデタショウリョウノモノ）",
+      "name": "土（鉢植えなどから出た少量のもの）",
+      "name_reduced": "土（鉢植エナドカラ出タ少量ノモノ）",
+      "typeID": "5",
+      "options": [
+        "鉢植えなどから出た少量のもの"
+      ],
+      "examples": [],
+      "simple": "土",
+      "simple_index": "ツチ"
+    },
+    {
+      "comment": "指定袋に入らないもの、または5kgを超えるものは大型ごみ",
+      "dictionaryID": "284",
+      "index": "ツッパリボウ（プラセイ）",
+      "name": "つっぱり棒（プラ製）",
+      "name_reduced": "ツッパリ棒（プラ製）",
+      "typeID": "7",
+      "options": [
+        "プラ製"
+      ],
+      "examples": [],
+      "simple": "つっぱり棒",
+      "simple_index": "ツッパリボウ"
+    },
+    {
+      "comment": "",
+      "dictionaryID": "286",
+      "index": "ツメキリ",
+      "name": "爪切り",
+      "name_reduced": "爪切リ",
+      "typeID": "5",
+      "options": [],
+      "examples": [],
+      "simple": "爪切り",
+      "simple_index": "ツメキリ"
+    },
+    {
+      "comment": "紙にくるんで、外からわかるように指定袋に「キケン」と貼る",
+      "dictionaryID": "128",
+      "index": "ツルギサン",
+      "name": "剣山",
+      "name_reduced": "剣山",
+      "typeID": "5",
+      "options": [],
+      "examples": [],
+      "simple": "剣山",
+      "simple_index": "ツルギサン"
+    },
+    {
+      "comment": "指定袋に入らないもの、または5kgを超えるものは大型ごみ",
+      "dictionaryID": "292",
+      "index": "テッパン（バーベキューナドデツカウモノ）（ホットプレート）",
+      "name": "鉄板（バーベキューなどで使うもの）【ホットプレート】",
+      "name_reduced": "鉄板（バーベキューナドデ使ウモノ）【ホットプレート】",
+      "typeID": "5",
+      "options": [
+        "バーベキューなどで使うもの"
+      ],
+      "examples": [
+        "ホットプレート"
+      ],
+      "simple": "鉄板",
+      "simple_index": "テッパン"
+    },
+    {
+      "comment": "",
+      "dictionaryID": "293",
+      "index": "テブクロ（グローブ、グラブ、グンテ）",
+      "name": "手袋【グローブ、グラブ、軍手】",
+      "name_reduced": "手袋【グローブ、グラブ、軍手】",
+      "typeID": "7",
+      "options": [],
+      "examples": [
+        "グローブ",
+        "グラブ",
+        "軍手"
+      ],
+      "simple": "手袋",
+      "simple_index": "テブクロ"
+    },
+    {
+      "comment": "",
+      "dictionaryID": "295",
+      "index": "テレビダイ（ラック）",
+      "name": "テレビ台【ラック】",
+      "name_reduced": "テレビ台【ラック】",
+      "typeID": "4",
+      "options": [],
+      "examples": [
+        "ラック"
+      ],
+      "simple": "テレビ台",
+      "simple_index": "テレビダイ"
+    },
+    {
+      "comment": "こちらを参照（家電リサイクル品）",
+      "dictionaryID": "294",
+      "index": "テレビ（ブラウンカンシキ・エキショウ・プラズマシキ）",
+      "name": "テレビ（ブラウン管式・液晶・プラズマ式）",
+      "name_reduced": "テレビ（ブラウン管式・液晶・プラズマ式）",
+      "typeID": "9",
+      "options": [
+        "ブラウン管式・液晶・プラズマ式"
+      ],
+      "examples": [],
+      "simple": "テレビ",
+      "simple_index": "テレビ"
+    },
+    {
+      "comment": "紙や布に染み込ませるか凝固剤で固めて",
+      "dictionaryID": "316",
+      "index": "テンプラアブラ",
+      "name": "天ぷら油",
+      "name_reduced": "天プラ油",
+      "typeID": "7",
+      "options": [],
+      "examples": [],
+      "simple": "天ぷら油",
+      "simple_index": "テンプラアブラ"
+    },
+    {
+      "comment": "",
+      "dictionaryID": "317",
+      "index": "テンプラガード（レンジガード、キッチンガード）",
+      "name": "天ぷらガード【レンジガード、キッチンガード】",
+      "name_reduced": "天プラガード【レンジガード、キッチンガード】",
+      "typeID": "5",
+      "options": [],
+      "examples": [
+        "レンジガード",
+        "キッチンガード"
+      ],
+      "simple": "天ぷらガード",
+      "simple_index": "テンプラガード"
+    },
+    {
+      "comment": "指定袋に入り、5kg以下のものは燃えないごみ",
+      "dictionaryID": "290",
+      "index": "テーブル（モクセイイガイ）（ツクエ、ガクシュウツクエ、ジムツクエ、パソコンテーブル、パソコンラック）",
+      "name": "テーブル（木製以外）【机、学習机、事務机、パソコンテーブル、パソコンラック】",
+      "name_reduced": "テーブル（木製以外）【机、学習机、事務机、パソコンテーブル、パソコンラック】",
+      "typeID": "4",
+      "options": [
+        "木製以外"
+      ],
+      "examples": [
+        "机",
+        "学習机",
+        "事務机",
+        "パソコンテーブル",
+        "パソコンラック"
+      ],
+      "simple": "テーブル",
+      "simple_index": "テーブル"
+    },
+    {
+      "comment": "指定袋に入り、5kg以下のものは燃えるごみ",
+      "dictionaryID": "289",
+      "index": "テーブル（モクセイ）（チャブダイ、ガクシュウツクエ、ツクエ）",
+      "name": "テーブル（木製）【ちゃぶ台、学習机、机】",
+      "name_reduced": "テーブル（木製）【チャブ台、学習机、机】",
+      "typeID": "4",
+      "options": [
+        "木製"
+      ],
+      "examples": [
+        "ちゃぶ台",
+        "学習机",
+        "机"
+      ],
+      "simple": "テーブル",
+      "simple_index": "テーブル"
+    },
+    {
+      "comment": "",
+      "dictionaryID": "291",
+      "index": "テープレコーダー（ラジカセ）",
+      "name": "テープレコーダー【ラジカセ】",
+      "name_reduced": "テープレコーダー【ラジカセ】",
+      "typeID": "5",
+      "options": [],
+      "examples": [
+        "ラジカセ"
+      ],
+      "simple": "テープレコーダー",
+      "simple_index": "テープレコーダー"
+    },
+    {
+      "comment": "",
+      "dictionaryID": "288",
+      "index": "ディーブィディー、ＤＶＤプレーヤー（ＤＶＤレコーダー、ＤＶＤプレイヤー、ＤＶＤデッキ）",
+      "name": "DVDプレーヤー【DVDレコーダー、DVDプレイヤー、DVDデッキ】",
+      "name_reduced": "ＤＶＤプレーヤー【ＤＶＤレコーダー、ＤＶＤプレイヤー、ＤＶＤデッキ】",
+      "typeID": "5",
+      "options": [],
+      "examples": [
+        "DVDレコーダー",
+        "DVDプレイヤー",
+        "DVDデッキ"
+      ],
+      "simple": "DVDプレーヤー",
+      "simple_index": "ディーブィディー、ＤＶＤプレーヤー"
+    },
+    {
+      "comment": "",
+      "dictionaryID": "287",
+      "index": "ディーブィディー、ＤＶＤ（ケースヲフクム）（ＤＶＤ－Ｒ）",
+      "name": "DVD（ケースを含む）【DVD-R】",
+      "name_reduced": "ＤＶＤ（ケースヲ含ム）【ＤＶＤ－Ｒ】",
+      "typeID": "7",
+      "options": [
+        "ケースを含む"
+      ],
+      "examples": [
+        "DVD-R"
+      ],
+      "simple": "DVD",
+      "simple_index": "ディーブィディー、ＤＶＤ"
+    },
+    {
+      "comment": "指定袋に入り、5kg以下のものは燃えないごみ",
+      "dictionaryID": "296",
+      "index": "デンキカーペット（ホットカーペット）",
+      "name": "電気カーペット【ホットカーペット】",
+      "name_reduced": "電気カーペット【ホットカーペット】",
+      "typeID": "4",
+      "options": [],
+      "examples": [
+        "ホットカーペット"
+      ],
+      "simple": "電気カーペット",
+      "simple_index": "デンキカーペット"
+    },
+    {
+      "comment": "",
+      "dictionaryID": "297",
+      "index": "デンキコンロ（クッキングヒーターヲフクム）（ＩＨ、ＩＨクッキングヒーター）",
+      "name": "電気コンロ（クッキングヒーターを含む）【IH、IHクッキングヒーター】",
+      "name_reduced": "電気コンロ（クッキングヒーターヲ含ム）【ＩＨ、ＩＨクッキングヒーター】",
+      "typeID": "5",
+      "options": [
+        "クッキングヒーターを含む"
+      ],
+      "examples": [
+        "IH",
+        "IHクッキングヒーター"
+      ],
+      "simple": "電気コンロ",
+      "simple_index": "デンキコンロ"
+    },
+    {
+      "comment": "電球・蛍光灯は外して燃えないごみ",
+      "dictionaryID": "298",
+      "index": "デンキスタンド（ライト）",
+      "name": "電気スタンド【ライト】",
+      "name_reduced": "電気スタンド【ライト】",
+      "typeID": "5",
+      "options": [],
+      "examples": [
+        "ライト"
+      ],
+      "simple": "電気スタンド",
+      "simple_index": "デンキスタンド"
+    },
+    {
+      "comment": "指定袋に入らないもの、または5kgを超えるものは大型ごみ",
+      "dictionaryID": "299",
+      "index": "デンキストーブ（デンキパネルヒーターヲフクム）（ソクオンキ、ヒーター）",
+      "name": "電気ストーブ（電気パネルヒーターを含む）【足温器、ヒーター】",
+      "name_reduced": "電気ストーブ（電気パネルヒーターヲ含ム）【足温器、ヒーター】",
+      "typeID": "5",
+      "options": [
+        "電気パネルヒーターを含む"
+      ],
+      "examples": [
+        "足温器",
+        "ヒーター"
+      ],
+      "simple": "電気ストーブ",
+      "simple_index": "デンキストーブ"
+    },
+    {
+      "comment": "",
+      "dictionaryID": "300",
+      "index": "デンキヒゲソリ（デンキカミソリ、シェーバー）",
+      "name": "電気ひげそり【電気かみそり、シェーバー】",
+      "name_reduced": "電気ヒゲソリ【電気カミソリ、シェーバー】",
+      "typeID": "5",
+      "options": [],
+      "examples": [
+        "電気かみそり",
+        "シェーバー"
+      ],
+      "simple": "電気ひげそり",
+      "simple_index": "デンキヒゲソリ"
+    },
+    {
+      "comment": "",
+      "dictionaryID": "301",
+      "index": "デンキポット（デンキユワカシ、ホオンポット、マホウビン）",
+      "name": "電気ポット【電気湯沸し、保温ポット、魔法瓶】",
+      "name_reduced": "電気ポット【電気湯沸シ、保温ポット、魔法瓶】",
+      "typeID": "5",
+      "options": [],
+      "examples": [
+        "電気湯沸し",
+        "保温ポット",
+        "魔法瓶"
+      ],
+      "simple": "電気ポット",
+      "simple_index": "デンキポット"
+    },
+    {
+      "comment": "",
+      "dictionaryID": "302",
+      "index": "デンキモウフ",
+      "name": "電気毛布",
+      "name_reduced": "電気毛布",
+      "typeID": "5",
+      "options": [],
+      "examples": [],
+      "simple": "電気毛布",
+      "simple_index": "デンキモウフ"
+    },
+    {
+      "comment": "紙にくるんで、外からわかるように指定袋に「キケン」と貼る",
+      "dictionaryID": "303",
+      "index": "デンキュウ（ケイコウトウ、デントウ、ＬＥＤ）",
+      "name": "電球【蛍光灯、電灯、LED】",
+      "name_reduced": "電球【蛍光灯、電灯、ＬＥＤ】",
+      "typeID": "5",
+      "options": [],
+      "examples": [
+        "蛍光灯",
+        "電灯",
+        "LED"
+      ],
+      "simple": "電球",
+      "simple_index": "デンキュウ"
+    },
+    {
+      "comment": "大型のものは販売店等に相談",
+      "dictionaryID": "304",
+      "index": "デンシオルガン（エレクトーンナド）",
+      "name": "電子オルガン（エレクトーンなど）",
+      "name_reduced": "電子オルガン（エレクトーンナド）",
+      "typeID": "4",
+      "options": [
+        "エレクトーンなど"
+      ],
+      "examples": [],
+      "simple": "電子オルガン",
+      "simple_index": "デンシオルガン"
+    },
+    {
+      "comment": "",
+      "dictionaryID": "305",
+      "index": "デンシジショ（デンシテチョウ）",
+      "name": "電子辞書（電子手帳）",
+      "name_reduced": "電子辞書（電子手帳）",
+      "typeID": "5",
+      "options": [
+        "電子手帳"
+      ],
+      "examples": [],
+      "simple": "電子辞書",
+      "simple_index": "デンシジショ"
+    },
+    {
+      "comment": "大型のものは販売店等に相談",
+      "dictionaryID": "307",
+      "index": "デンシピアノ",
+      "name": "電子ピアノ",
+      "name_reduced": "電子ピアノ",
+      "typeID": "4",
+      "options": [],
+      "examples": [],
+      "simple": "電子ピアノ",
+      "simple_index": "デンシピアノ"
+    },
+    {
+      "comment": "",
+      "dictionaryID": "308",
+      "index": "デンシレンジ（オーブン）",
+      "name": "電子レンジ【オーブン】",
+      "name_reduced": "電子レンジ【オーブン】",
+      "typeID": "4",
+      "options": [],
+      "examples": [
+        "オーブン"
+      ],
+      "simple": "電子レンジ",
+      "simple_index": "デンシレンジ"
+    },
+    {
+      "comment": "",
+      "dictionaryID": "306",
+      "index": "デンジチョウリキ（タクジョウ）（ＩＨチョウリキ）",
+      "name": "電磁調理器（卓上）【IH調理器】",
+      "name_reduced": "電磁調理器（卓上）【ＩＨ調理器】",
+      "typeID": "5",
+      "options": [
+        "卓上"
+      ],
+      "examples": [
+        "IH調理器"
+      ],
+      "simple": "電磁調理器",
+      "simple_index": "デンジチョウリキ"
+    },
+    {
+      "comment": "",
+      "dictionaryID": "309",
+      "index": "デンタク（ケイサンキ）",
+      "name": "電卓【計算機】",
+      "name_reduced": "電卓【計算機】",
+      "typeID": "5",
+      "options": [],
+      "examples": [
+        "計算機"
+      ],
+      "simple": "電卓",
+      "simple_index": "デンタク"
+    },
+    {
+      "comment": "販売店の回収箱へ",
+      "dictionaryID": "311",
+      "index": "デンチ（ボタンデンチ・ニジデンチ（コガタジュウデンシキデンチ））（ジュウデン、バッテリー、リチウム、ニッケルスイソ、ニッカド）",
+      "name": "電池（ボタン電池・二次電池（小形充電式電池））【充電、バッテリー、リチウム、ニッケル水素、ニッカド】",
+      "name_reduced": "電池（ボタン電池・二次電池（小形充電式電池））【充電、バッテリー、リチウム、ニッケル水素、ニッカド】",
+      "typeID": "9",
+      "options": [
+        "ボタン電池・二次電池（小形充電式電池"
+      ],
+      "examples": [
+        "充電",
+        "バッテリー",
+        "リチウム",
+        "ニッケル水素",
+        "ニッカド"
+      ],
+      "simple": "電池",
+      "simple_index": "デンチ"
+    },
+    {
+      "comment": "",
+      "dictionaryID": "310",
+      "index": "デンチ（マンガンカンデンチ、アルカリカンデンチ）",
+      "name": "電池（マンガン乾電池、アルカリ乾電池）",
+      "name_reduced": "電池（マンガン乾電池、アルカリ乾電池）",
+      "typeID": "5",
+      "options": [
+        "マンガン乾電池",
+        "アルカリ乾電池"
+      ],
+      "examples": [],
+      "simple": "電池",
+      "simple_index": "デンチ"
+    },
+    {
+      "comment": "バッテリーは外して販売店などに相談",
+      "dictionaryID": "312",
+      "index": "デンドウアシストジテンシャ（デンドウジテンシャ、デンキジテンシャ、デンドウアシストツキジテンシャ）",
+      "name": "電動アシスト自転車【電動自転車、電気自転車、電動アシスト付自転車】",
+      "name_reduced": "電動アシスト自転車【電動自転車、電気自転車、電動アシスト付自転車】",
+      "typeID": "4",
+      "options": [],
+      "examples": [
+        "電動自転車",
+        "電気自転車",
+        "電動アシスト付自転車"
+      ],
+      "simple": "電動アシスト自転車",
+      "simple_index": "デンドウアシストジテンシャ"
+    },
+    {
+      "comment": "バッテリーは外して販売店などに相談",
+      "dictionaryID": "314",
+      "index": "デンドウクルマイス（クルマイス）",
+      "name": "電動車いす【車椅子】",
+      "name_reduced": "電動車イス【車椅子】",
+      "typeID": "4",
+      "options": [],
+      "examples": [
+        "車椅子"
+      ],
+      "simple": "電動車いす",
+      "simple_index": "デンドウクルマイス"
+    },
+    {
+      "comment": "大型のものは販売店などに相談",
+      "dictionaryID": "313",
+      "index": "デンドウシキベッド（カイゴベッド）",
+      "name": "電動式ベッド【介護ベッド】",
+      "name_reduced": "電動式ベッド【介護ベッド】",
+      "typeID": "4",
+      "options": [],
+      "examples": [
+        "介護ベッド"
+      ],
+      "simple": "電動式ベッド",
+      "simple_index": "デンドウシキベッド"
+    },
+    {
+      "comment": "",
+      "dictionaryID": "315",
+      "index": "デンドウハブラシ",
+      "name": "電動歯ブラシ",
+      "name_reduced": "電動歯ブラシ",
+      "typeID": "5",
+      "options": [],
+      "examples": [],
+      "simple": "電動歯ブラシ",
+      "simple_index": "デンドウハブラシ"
+    },
+    {
+      "comment": "",
+      "dictionaryID": "318",
+      "index": "デンワキ（プッシュホン）",
+      "name": "電話機【プッシュホン】",
+      "name_reduced": "電話機【プッシュホン】",
+      "typeID": "5",
+      "options": [],
+      "examples": [
+        "プッシュホン"
+      ],
+      "simple": "電話機",
+      "simple_index": "デンワキ"
+    },
+    {
+      "comment": "できるだけタウンページセンターに引き取ってもらうか地域の資源（古紙など）集団回収へ",
+      "dictionaryID": "319",
+      "index": "デンワチョウ（タウンページ）",
+      "name": "電話帳【タウンページ】",
+      "name_reduced": "電話帳【タウンページ】",
+      "typeID": "7",
+      "options": [],
+      "examples": [
+        "タウンページ"
+      ],
+      "simple": "電話帳",
+      "simple_index": "デンワチョウ"
+    },
+    {
+      "comment": "指定袋に入り、5kgを超えないものは燃えるごみ",
+      "dictionaryID": "320",
+      "index": "トウセイカグ",
+      "name": "籐製家具",
+      "name_reduced": "籐製家具",
+      "typeID": "4",
+      "options": [],
+      "examples": [],
+      "simple": "籐製家具",
+      "simple_index": "トウセイカグ"
+    },
+    {
+      "comment": "汚れを取る",
+      "dictionaryID": "321",
+      "index": "トウフノパック（プラセイ）",
+      "name": "豆腐のパック（プラ製）",
+      "name_reduced": "豆腐ノパック（プラ製）",
+      "typeID": "3",
+      "options": [
+        "プラ製"
+      ],
+      "examples": [],
+      "simple": "豆腐のパック",
+      "simple_index": "トウフノパック"
+    },
+    {
+      "comment": "販売店などに相談",
+      "dictionaryID": "322",
+      "index": "トウユ",
+      "name": "灯油",
+      "name_reduced": "灯油",
+      "typeID": "9",
+      "options": [],
+      "examples": [],
+      "simple": "灯油",
+      "simple_index": "トウユ"
+    },
+    {
+      "comment": "指定袋に入らないもの、または5kgを超えるものは大型ごみ",
+      "dictionaryID": "324",
+      "index": "トケイ（ハシラドケイ、メザマシドケイ、オキドケイ）",
+      "name": "時計【柱時計、目覚まし時計、置時計】",
+      "name_reduced": "時計【柱時計、目覚マシ時計、置時計】",
+      "typeID": "5",
+      "options": [],
+      "examples": [
+        "柱時計",
+        "目覚まし時計",
+        "置時計"
+      ],
+      "simple": "時計",
+      "simple_index": "トケイ"
+    },
+    {
+      "comment": "",
+      "dictionaryID": "325",
+      "index": "トダナ（ラック）",
+      "name": "戸棚【ラック】",
+      "name_reduced": "戸棚【ラック】",
+      "typeID": "4",
+      "options": [],
+      "examples": [
+        "ラック"
+      ],
+      "simple": "戸棚",
+      "simple_index": "トダナ"
+    },
+    {
+      "comment": "指定袋に入らないもの、または5kgを超えるものは大型ごみ",
+      "dictionaryID": "327",
+      "index": "トリカゴ（バードケージ）",
+      "name": "鳥かご【バードケージ】",
+      "name_reduced": "鳥カゴ【バードケージ】",
+      "typeID": "5",
+      "options": [],
+      "examples": [
+        "バードケージ"
+      ],
+      "simple": "鳥かご",
+      "simple_index": "トリカゴ"
+    },
+    {
+      "comment": "中身を使い切る",
+      "dictionaryID": "329",
+      "index": "トリョウノカン・ビン",
+      "name": "塗料の缶・びん",
+      "name_reduced": "塗料ノ缶・ビン",
+      "typeID": "5",
+      "options": [],
+      "examples": [],
+      "simple": "塗料の缶・びん",
+      "simple_index": "トリョウノカン・ビン"
+    },
+    {
+      "comment": "中身は全部使い切る。穴あけ不要。燃えないゴミと分けて中身の見える袋で出す。クリーンステーションに燃えないゴミと場所をわけて出す",
+      "dictionaryID": "330",
+      "index": "トリョウノスプレーカン",
+      "name": "塗料のスプレー缶",
+      "name_reduced": "塗料ノスプレー缶",
+      "typeID": "6",
+      "options": [],
+      "examples": [],
+      "simple": "塗料のスプレー缶",
+      "simple_index": "トリョウノスプレーカン"
+    },
+    {
+      "comment": "紙に広げて乾燥させるか、塗料固化剤を使用して固める",
+      "dictionaryID": "328",
+      "index": "トリョウ（ペンキ、ウスメエキ、シンナー、ヨウザイ）",
+      "name": "塗料【ペンキ、薄め液、シンナー、溶剤】",
+      "name_reduced": "塗料【ペンキ、薄メ液、シンナー、溶剤】",
+      "typeID": "7",
+      "options": [],
+      "examples": [
+        "ペンキ",
+        "薄め液",
+        "シンナー",
+        "溶剤"
+      ],
+      "simple": "塗料",
+      "simple_index": "トリョウ"
+    },
+    {
+      "comment": "できるだけ店頭回収へ　水洗いする　汚れが簡単に取れない場合は燃えるごみ",
+      "dictionaryID": "331",
+      "index": "トレイ（プラセイ）（ショクヒントレイ）",
+      "name": "トレイ（プラ製）【食品トレイ】",
+      "name_reduced": "トレイ（プラ製）【食品トレイ】",
+      "typeID": "3",
+      "options": [
+        "プラ製"
+      ],
+      "examples": [
+        "食品トレイ"
+      ],
+      "simple": "トレイ",
+      "simple_index": "トレイ"
+    },
+    {
+      "comment": "",
+      "dictionaryID": "323",
+      "index": "トースター（オーブントースター）",
+      "name": "トースター【オーブントースター】",
+      "name_reduced": "トースター【オーブントースター】",
+      "typeID": "5",
+      "options": [],
+      "examples": [
+        "オーブントースター"
+      ],
+      "simple": "トースター",
+      "simple_index": "トースター"
+    },
+    {
+      "comment": "",
+      "dictionaryID": "326",
+      "index": "ドライヤー",
+      "name": "ドライヤー",
+      "name_reduced": "ドライヤー",
+      "typeID": "5",
+      "options": [],
+      "examples": [],
+      "simple": "ドライヤー",
+      "simple_index": "ドライヤー"
+    },
+    {
+      "comment": "中身を使い切って、水洗いする",
+      "dictionaryID": "332",
+      "index": "ドレッシングノビン",
+      "name": "ドレッシングのびん",
+      "name_reduced": "ドレッシングノビン",
+      "typeID": "2",
+      "options": [],
+      "examples": [],
+      "simple": "ドレッシングのびん",
+      "simple_index": "ドレッシングノビン"
+    },
+    {
+      "comment": "中身を使い切って、汚れを取る\n中身が簡単に取れない場合は燃えるごみ",
+      "dictionaryID": "333",
+      "index": "ドレッシングノヨウキ（プラセイ）",
+      "name": "ドレッシングの容器（プラ製）",
+      "name_reduced": "ドレッシングノ容器（プラ製）",
+      "typeID": "3",
+      "options": [
+        "プラ製"
+      ],
+      "examples": [],
+      "simple": "ドレッシングの容器",
+      "simple_index": "ドレッシングノヨウキ"
+    },
+    {
+      "comment": "紙にくるんで、外からわかるように指定袋に「キケン」と貼る",
+      "dictionaryID": "334",
+      "index": "ナイフ",
+      "name": "ナイフ",
+      "name_reduced": "ナイフ",
+      "typeID": "5",
+      "options": [],
+      "examples": [],
+      "simple": "ナイフ",
+      "simple_index": "ナイフ"
+    },
+    {
+      "comment": "汚れを取る\n汚れが簡単に取れない場合は燃えるごみ",
+      "dictionaryID": "335",
+      "index": "ナットウノヨウキ（プラセイ）",
+      "name": "納豆の容器（プラ製）",
+      "name_reduced": "納豆ノ容器（プラ製）",
+      "typeID": "3",
+      "options": [
+        "プラ製"
+      ],
+      "examples": [],
+      "simple": "納豆の容器",
+      "simple_index": "ナットウノヨウキ"
+    },
+    {
+      "comment": "",
+      "dictionaryID": "336",
+      "index": "ナベ（ドナベ、アルミナベ、ホーローナベ）",
+      "name": "鍋【土鍋、アルミ鍋、ホーロー鍋】",
+      "name_reduced": "鍋【土鍋、アルミ鍋、ホーロー鍋】",
+      "typeID": "5",
+      "options": [],
+      "examples": [
+        "土鍋",
+        "アルミ鍋",
+        "ホーロー鍋"
+      ],
+      "simple": "鍋",
+      "simple_index": "ナベ"
+    },
+    {
+      "comment": "指定袋に入らないもの、または5kgを超えるものは大型ごみ",
+      "dictionaryID": "337",
+      "index": "ヌイグルミ（ニンギョウ）",
+      "name": "ぬいぐるみ【人形】",
+      "name_reduced": "ヌイグルミ【人形】",
+      "typeID": "7",
+      "options": [],
+      "examples": [
+        "人形"
+      ],
+      "simple": "ぬいぐるみ",
+      "simple_index": "ヌイグルミ"
+    },
+    {
+      "comment": "地域の資源（古紙など）集団回収で集めている場合はできるだけ資源集団回収へ",
+      "dictionaryID": "338",
+      "index": "ネクタイ",
+      "name": "ネクタイ",
+      "name_reduced": "ネクタイ",
+      "typeID": "7",
+      "options": [],
+      "examples": [],
+      "simple": "ネクタイ",
+      "simple_index": "ネクタイ"
+    },
+    {
+      "comment": "紙にくるんで、外からわかるように指定袋に「キケン」と貼る",
+      "dictionaryID": "339",
+      "index": "ネジ",
+      "name": "ねじ",
+      "name_reduced": "ネジ",
+      "typeID": "5",
+      "options": [],
+      "examples": [],
+      "simple": "ねじ",
+      "simple_index": "ネジ"
+    },
+    {
+      "comment": "",
+      "dictionaryID": "340",
+      "index": "ネット（タマネギ・ミカンナドガハイッテイタモノ）",
+      "name": "ネット（たまねぎ・みかんなどが入っていたもの）",
+      "name_reduced": "ネット（タマネギ・ミカンナドガ入ッテイタモノ）",
+      "typeID": "3",
+      "options": [
+        "たまねぎ・みかんなどが入っていたもの"
+      ],
+      "examples": [],
+      "simple": "ネット",
+      "simple_index": "ネット"
+    },
+    {
+      "comment": "",
+      "dictionaryID": "342",
+      "index": "ネンド（カミセイ）",
+      "name": "粘土（紙製）",
+      "name_reduced": "粘土（紙製）",
+      "typeID": "7",
+      "options": [
+        "紙製"
+      ],
+      "examples": [],
+      "simple": "粘土",
+      "simple_index": "ネンド"
+    },
+    {
+      "comment": "",
+      "dictionaryID": "341",
+      "index": "ネンド（ツチ・イシコセイ）",
+      "name": "粘土（土・石粉製）",
+      "name_reduced": "粘土（土・石粉製）",
+      "typeID": "5",
+      "options": [
+        "土・石粉製"
+      ],
+      "examples": [],
+      "simple": "粘土",
+      "simple_index": "ネンド"
+    },
+    {
+      "comment": "製造元または販売店などに相談",
+      "dictionaryID": "343",
+      "index": "ノウヤク",
+      "name": "農薬",
+      "name_reduced": "農薬",
+      "typeID": "9",
+      "options": [],
+      "examples": [],
+      "simple": "農薬",
+      "simple_index": "ノウヤク"
+    },
+    {
+      "comment": "刃は紙にくるんで外からわかるように指定袋に「キケン」と貼る",
+      "dictionaryID": "346",
+      "index": "ノコギリ",
+      "name": "のこぎり",
+      "name_reduced": "ノコギリ",
+      "typeID": "5",
+      "options": [],
+      "examples": [],
+      "simple": "のこぎり",
+      "simple_index": "ノコギリ"
+    },
+    {
+      "comment": "刃は紙にくるんで外からわかるように指定袋に「キケン」と貼る",
+      "dictionaryID": "347",
+      "index": "ノミ",
+      "name": "ノミ",
+      "name_reduced": "ノミ",
+      "typeID": "5",
+      "options": [],
+      "examples": [],
+      "simple": "ノミ",
+      "simple_index": "ノミ"
+    },
+    {
+      "comment": "中身を使い切って、水洗いする",
+      "dictionaryID": "349",
+      "index": "ノリノツクダニノビン",
+      "name": "のりの佃煮のびん",
+      "name_reduced": "ノリノ佃煮ノビン",
+      "typeID": "2",
+      "options": [],
+      "examples": [],
+      "simple": "のりの佃煮のびん",
+      "simple_index": "ノリノツクダニノビン"
+    },
+    {
+      "comment": "中身を使い切って、水洗いする",
+      "dictionaryID": "348",
+      "index": "ノリ（ノリ）ノカン",
+      "name": "のり（海苔）の缶",
+      "name_reduced": "ノリ（海苔）ノ缶",
+      "typeID": "2",
+      "options": [
+        "海苔"
+      ],
+      "examples": [],
+      "simple": "のり",
+      "simple_index": "ノリ"
+    },
+    {
+      "comment": "できるだけ地域の資源（古紙など）集団回収へ",
+      "dictionaryID": "344",
+      "index": "ノート",
+      "name": "ノート",
+      "name_reduced": "ノート",
+      "typeID": "7",
+      "options": [],
+      "examples": [],
+      "simple": "ノート",
+      "simple_index": "ノート"
+    },
+    {
+      "comment": "メーカー等に引渡し（PCリサイクル）",
+      "dictionaryID": "345",
+      "index": "ノートガタパソコン",
+      "name": "ノート型パソコン",
+      "name_reduced": "ノート型パソコン",
+      "typeID": "9",
+      "options": [],
+      "examples": [],
+      "simple": "ノート型パソコン",
+      "simple_index": "ノートガタパソコン"
+    },
+    {
+      "comment": "",
+      "dictionaryID": "352",
+      "index": "ハイザラ",
+      "name": "灰皿",
+      "name_reduced": "灰皿",
+      "typeID": "5",
+      "options": [],
+      "examples": [],
+      "simple": "灰皿",
+      "simple_index": "ハイザラ"
+    },
+    {
+      "comment": "",
+      "dictionaryID": "354",
+      "index": "ハカリ（ダイドコロハカリ）（ケイリョウキ、キッチンスケール）",
+      "name": "はかり（台所計り）【計量器、キッチンスケール】",
+      "name_reduced": "ハカリ（台所計リ）【計量器、キッチンスケール】",
+      "typeID": "5",
+      "options": [
+        "台所計り"
+      ],
+      "examples": [
+        "計量器",
+        "キッチンスケール"
+      ],
+      "simple": "はかり",
+      "simple_index": "ハカリ"
+    },
+    {
+      "comment": "紙にくるんで、外からわかるように指定袋に「キケン」と貼る",
+      "dictionaryID": "357",
+      "index": "ハサミ",
+      "name": "はさみ",
+      "name_reduced": "ハサミ",
+      "typeID": "5",
+      "options": [],
+      "examples": [],
+      "simple": "はさみ",
+      "simple_index": "ハサミ"
+    },
+    {
+      "comment": "",
+      "dictionaryID": "366",
+      "index": "ハッポウスチロール（カンショウザイナド）",
+      "name": "発泡スチロール（緩衝材など）",
+      "name_reduced": "発泡スチロール（緩衝材ナド）",
+      "typeID": "3",
+      "options": [
+        "緩衝材など"
+      ],
+      "examples": [],
+      "simple": "発泡スチロール",
+      "simple_index": "ハッポウスチロール"
+    },
+    {
+      "comment": "水に浸し、発火しないようにする",
+      "dictionaryID": "367",
+      "index": "ハナビ",
+      "name": "花火",
+      "name_reduced": "花火",
+      "typeID": "7",
+      "options": [],
+      "examples": [],
+      "simple": "花火",
+      "simple_index": "ハナビ"
+    },
+    {
+      "comment": "紙にくるんで、外からわかるように指定袋に「キケン」と貼る",
+      "dictionaryID": "78",
+      "index": "ハナビン（カキ）",
+      "name": "花びん【花器】",
+      "name_reduced": "花ビン【花器】",
+      "typeID": "5",
+      "options": [],
+      "examples": [
+        "花器"
+      ],
+      "simple": "花びん",
+      "simple_index": "ハナビン"
+    },
+    {
+      "comment": "",
+      "dictionaryID": "368",
+      "index": "ハブラシ",
+      "name": "歯ブラシ",
+      "name_reduced": "歯ブラシ",
+      "typeID": "7",
+      "options": [],
+      "examples": [],
+      "simple": "歯ブラシ",
+      "simple_index": "ハブラシ"
+    },
+    {
+      "comment": "",
+      "dictionaryID": "371",
+      "index": "ハリガネ",
+      "name": "針金",
+      "name_reduced": "針金",
+      "typeID": "5",
+      "options": [],
+      "examples": [],
+      "simple": "針金",
+      "simple_index": "ハリガネ"
+    },
+    {
+      "comment": "紙にくるんで、外からわかるように指定袋に「キケン」と貼る",
+      "dictionaryID": "370",
+      "index": "ハリ（サイホウヨウナド）",
+      "name": "針（裁縫用など）",
+      "name_reduced": "針（裁縫用ナド）",
+      "typeID": "5",
+      "options": [
+        "裁縫用など"
+      ],
+      "examples": [],
+      "simple": "針",
+      "simple_index": "ハリ"
+    },
+    {
+      "comment": "",
+      "dictionaryID": "373",
+      "index": "ハンガー（キンゾクセイ）（ハリガネハンガー）",
+      "name": "ハンガー（金属製）【針金ハンガー】",
+      "name_reduced": "ハンガー（金属製）【針金ハンガー】",
+      "typeID": "5",
+      "options": [
+        "金属製"
+      ],
+      "examples": [
+        "針金ハンガー"
+      ],
+      "simple": "ハンガー",
+      "simple_index": "ハンガー"
+    },
+    {
+      "comment": "金属部分があるものは燃えないごみ\nプラマークがあるものは容器包装プラスチック",
+      "dictionaryID": "372",
+      "index": "ハンガー（プラセイ・モクセイ）",
+      "name": "ハンガー（プラ製・木製）",
+      "name_reduced": "ハンガー（プラ製・木製）",
+      "typeID": "7",
+      "options": [
+        "プラ製・木製"
+      ],
+      "examples": [],
+      "simple": "ハンガー",
+      "simple_index": "ハンガー"
+    },
+    {
+      "comment": "販売店または二輪車リサイクルコールセンター（03-3598-8075）に相談",
+      "dictionaryID": "351",
+      "index": "バイク（オートバイ、タンシャ、ジドウニリン、ニリンシャ）",
+      "name": "バイク【オートバイ、単車、自動二輪、二輪車】",
+      "name_reduced": "バイク【オートバイ、単車、自動二輪、二輪車】",
+      "typeID": "9",
+      "options": [],
+      "examples": [
+        "オートバイ",
+        "単車",
+        "自動二輪",
+        "二輪車"
+      ],
+      "simple": "バイク",
+      "simple_index": "バイク"
+    },
+    {
+      "comment": "",
+      "dictionaryID": "356",
+      "index": "バケツ（キンゾクセイ）",
+      "name": "バケツ（金属製）",
+      "name_reduced": "バケツ（金属製）",
+      "typeID": "5",
+      "options": [
+        "金属製"
+      ],
+      "examples": [],
+      "simple": "バケツ",
+      "simple_index": "バケツ"
+    },
+    {
+      "comment": "",
+      "dictionaryID": "355",
+      "index": "バケツ（プラセイ）（ポリバケツ）",
+      "name": "バケツ（プラ製）【ポリバケツ】",
+      "name_reduced": "バケツ（プラ製）【ポリバケツ】",
+      "typeID": "7",
+      "options": [
+        "プラ製"
+      ],
+      "examples": [
+        "ポリバケツ"
+      ],
+      "simple": "バケツ",
+      "simple_index": "バケツ"
+    },
+    {
+      "comment": "販売店などに相談",
+      "dictionaryID": "363",
+      "index": "バッテリー（ジュウデンチ）",
+      "name": "バッテリー【充電池】",
+      "name_reduced": "バッテリー【充電池】",
+      "typeID": "9",
+      "options": [],
+      "examples": [
+        "充電池"
+      ],
+      "simple": "バッテリー",
+      "simple_index": "バッテリー"
+    },
+    {
+      "comment": "",
+      "dictionaryID": "365",
+      "index": "バット（キンゾクセイイガイ）（プラスチックセイバット、モクセイバット）",
+      "name": "バット（金属製以外）【プラスチック製バット、木製バット】",
+      "name_reduced": "バット（金属製以外）【プラスチック製バット、木製バット】",
+      "typeID": "7",
+      "options": [
+        "金属製以外"
+      ],
+      "examples": [
+        "プラスチック製バット",
+        "木製バット"
+      ],
+      "simple": "バット",
+      "simple_index": "バット"
+    },
+    {
+      "comment": "",
+      "dictionaryID": "364",
+      "index": "バット（キンゾクセイ）",
+      "name": "バット（金属製）",
+      "name_reduced": "バット（金属製）",
+      "typeID": "5",
+      "options": [
+        "金属製"
+      ],
+      "examples": [],
+      "simple": "バット",
+      "simple_index": "バット"
+    },
+    {
+      "comment": "指定袋に入るもの、または5kg以下のものは燃えないごみ",
+      "dictionaryID": "350",
+      "index": "バーベキューコンロ",
+      "name": "バーベキューコンロ",
+      "name_reduced": "バーベキューコンロ",
+      "typeID": "4",
+      "options": [],
+      "examples": [],
+      "simple": "バーベキューコンロ",
+      "simple_index": "バーベキューコンロ"
+    },
+    {
+      "comment": "",
+      "dictionaryID": "353",
+      "index": "パイプハンガー（パイプラック）",
+      "name": "パイプハンガー【パイプラック】",
+      "name_reduced": "パイプハンガー【パイプラック】",
+      "typeID": "4",
+      "options": [],
+      "examples": [
+        "パイプラック"
+      ],
+      "simple": "パイプハンガー",
+      "simple_index": "パイプハンガー"
+    },
+    {
+      "comment": "メーカー等に引渡し（PCリサイクル）",
+      "dictionaryID": "358",
+      "index": "パソコン",
+      "name": "パソコン",
+      "name_reduced": "パソコン",
+      "typeID": "9",
+      "options": [],
+      "examples": [],
+      "simple": "パソコン",
+      "simple_index": "パソコン"
+    },
+    {
+      "comment": "パソコンと同時にメーカーに回収を申込むこともできます",
+      "dictionaryID": "362",
+      "index": "パソコンキーボード",
+      "name": "パソコンキーボード",
+      "name_reduced": "パソコンキーボード",
+      "typeID": "5",
+      "options": [],
+      "examples": [],
+      "simple": "パソコンキーボード",
+      "simple_index": "パソコンキーボード"
+    },
+    {
+      "comment": "指定袋に入らないもの、または5kgを超えるものは大型ごみ",
+      "dictionaryID": "359",
+      "index": "パソコンプリンター",
+      "name": "パソコンプリンター",
+      "name_reduced": "パソコンプリンター",
+      "typeID": "5",
+      "options": [],
+      "examples": [],
+      "simple": "パソコンプリンター",
+      "simple_index": "パソコンプリンター"
+    },
+    {
+      "comment": "メーカー等に引渡し（PCリサイクル）",
+      "dictionaryID": "360",
+      "index": "パソコンヨウディスプレイ",
+      "name": "パソコン用ディスプレイ",
+      "name_reduced": "パソコン用ディスプレイ",
+      "typeID": "9",
+      "options": [],
+      "examples": [],
+      "simple": "パソコン用ディスプレイ",
+      "simple_index": "パソコンヨウディスプレイ"
+    },
+    {
+      "comment": "",
+      "dictionaryID": "361",
+      "index": "パソコンラック（パソコンツクエ）",
+      "name": "パソコンラック【パソコン机】",
+      "name_reduced": "パソコンラック【パソコン机】",
+      "typeID": "4",
+      "options": [],
+      "examples": [
+        "パソコン机"
+      ],
+      "simple": "パソコンラック",
+      "simple_index": "パソコンラック"
+    },
+    {
+      "comment": "指定袋に入り、5kg以下のものは燃えないごみ",
+      "dictionaryID": "369",
+      "index": "パラソル（ビーチパラソル・レジャーパラソル）（ゴルフカサ）",
+      "name": "パラソル（ビーチパラソル・レジャーパラソル）【ゴルフ傘】",
+      "name_reduced": "パラソル（ビーチパラソル・レジャーパラソル）【ゴルフ傘】",
+      "typeID": "4",
+      "options": [
+        "ビーチパラソル・レジャーパラソル"
+      ],
+      "examples": [
+        "ゴルフ傘"
+      ],
+      "simple": "パラソル",
+      "simple_index": "パラソル"
+    },
+    {
+      "comment": "できるだけ地域の資源（古紙など）集団回収へ",
+      "dictionaryID": "374",
+      "index": "パンフレット（カタログ）",
+      "name": "パンフレット【カタログ】",
+      "name_reduced": "パンフレット【カタログ】",
+      "typeID": "7",
+      "options": [],
+      "examples": [
+        "カタログ"
+      ],
+      "simple": "パンフレット",
+      "simple_index": "パンフレット"
+    },
+    {
+      "comment": "",
+      "dictionaryID": "379",
+      "index": "ビデオカメラ",
+      "name": "ビデオカメラ",
+      "name_reduced": "ビデオカメラ",
+      "typeID": "5",
+      "options": [],
+      "examples": [],
+      "simple": "ビデオカメラ",
+      "simple_index": "ビデオカメラ"
+    },
+    {
+      "comment": "",
+      "dictionaryID": "380",
+      "index": "ビデオテープ（ケースヲフクム）（ＶＨＳ、ビデオカセット）",
+      "name": "ビデオテープ（ケースを含む）【VHS、ビデオカセット】",
+      "name_reduced": "ビデオテープ（ケースヲ含ム）【ＶＨＳ、ビデオカセット】",
+      "typeID": "7",
+      "options": [
+        "ケースを含む"
+      ],
+      "examples": [
+        "VHS",
+        "ビデオカセット"
+      ],
+      "simple": "ビデオテープ",
+      "simple_index": "ビデオテープ"
+    },
+    {
+      "comment": "指定袋に入らないもの、または5kgを超えるものは大型ごみ",
+      "dictionaryID": "381",
+      "index": "ビデオデッキ",
+      "name": "ビデオデッキ",
+      "name_reduced": "ビデオデッキ",
+      "typeID": "5",
+      "options": [],
+      "examples": [],
+      "simple": "ビデオデッキ",
+      "simple_index": "ビデオデッキ"
+    },
+    {
+      "comment": "",
+      "dictionaryID": "385",
+      "index": "ビンノキャップ（キンゾクセイ）",
+      "name": "びんのキャップ（金属製）",
+      "name_reduced": "ビンノキャップ（金属製）",
+      "typeID": "5",
+      "options": [
+        "金属製"
+      ],
+      "examples": [],
+      "simple": "びんのキャップ",
+      "simple_index": "ビンノキャップ"
+    },
+    {
+      "comment": "",
+      "dictionaryID": "384",
+      "index": "ビンノキャップ（プラセイ）",
+      "name": "びんのキャップ（プラ製）",
+      "name_reduced": "ビンノキャップ（プラ製）",
+      "typeID": "3",
+      "options": [
+        "プラ製"
+      ],
+      "examples": [],
+      "simple": "びんのキャップ",
+      "simple_index": "ビンノキャップ"
+    },
+    {
+      "comment": "中身を使い切って、水洗いする",
+      "dictionaryID": "382",
+      "index": "ビン（インショクヨウ、チョウミリョウ）（ワインノビン、サケノビン、チョウミリョウノビン）",
+      "name": "びん（飲食用、調味料）【ワインのびん、酒のびん、調味料のびん】",
+      "name_reduced": "ビン（飲食用、調味料）【ワインノビン、酒ノビン、調味料ノビン】",
+      "typeID": "2",
+      "options": [
+        "飲食用",
+        "調味料"
+      ],
+      "examples": [
+        "ワインのびん",
+        "酒のびん",
+        "調味料のびん"
+      ],
+      "simple": "びん",
+      "simple_index": "ビン"
+    },
+    {
+      "comment": "中身を使い切る　紙にくるんで、外からわかるように指定袋に「キケン」と貼る",
+      "dictionaryID": "383",
+      "index": "ビン（ワレタビン、タイネツガラス、ガラスコップ、ケショウヒンノビン）",
+      "name": "びん（割れたびん、耐熱ガラス、ガラスコップ、化粧品のびん）",
+      "name_reduced": "ビン（割レタビン、耐熱ガラス、ガラスコップ、化粧品ノビン）",
+      "typeID": "5",
+      "options": [
+        "割れたびん",
+        "耐熱ガラス",
+        "ガラスコップ",
+        "化粧品のびん"
+      ],
+      "examples": [],
+      "simple": "びん",
+      "simple_index": "ビン"
+    },
+    {
+      "comment": "できるだけ販売店へ\n中身を使い切って、水洗いする",
+      "dictionaryID": "377",
+      "index": "ビールビン",
+      "name": "ビールびん",
+      "name_reduced": "ビールビン",
+      "typeID": "2",
+      "options": [],
+      "examples": [],
+      "simple": "ビールびん",
+      "simple_index": "ビールビン"
+    },
+    {
+      "comment": "",
+      "dictionaryID": "378",
+      "index": "ビールビンノキャップ（オウカン、フタ）",
+      "name": "ビールびんのキャップ【王冠、ふた】",
+      "name_reduced": "ビールビンノキャップ【王冠、フタ】",
+      "typeID": "5",
+      "options": [],
+      "examples": [
+        "王冠",
+        "ふた"
+      ],
+      "simple": "ビールびんのキャップ",
+      "simple_index": "ビールビンノキャップ"
+    },
+    {
+      "comment": "販売店などに相談",
+      "dictionaryID": "375",
+      "index": "ピアノ",
+      "name": "ピアノ",
+      "name_reduced": "ピアノ",
+      "typeID": "9",
+      "options": [],
+      "examples": [],
+      "simple": "ピアノ",
+      "simple_index": "ピアノ"
+    },
+    {
+      "comment": "販売店へ（資源化ルートがあり）",
+      "dictionaryID": "376",
+      "index": "ピーエイチエス、ＰＨＳ（ケイタイデンワ）",
+      "name": "PHS【携帯電話】",
+      "name_reduced": "ＰＨＳ【携帯電話】",
+      "typeID": "5",
+      "options": [],
+      "examples": [
+        "携帯電話"
+      ],
+      "simple": "PHS",
+      "simple_index": "ピーエイチエス、ＰＨＳ"
+    },
+    {
+      "comment": "指定袋に入らないもの、または5kgを超えるものは大型ごみ",
+      "dictionaryID": "386",
+      "index": "ファクシミリ（デンワキトイッタイニナッタモノヲフクム）（ＦＡＸ、ファックス、ファクシミリデンワキ）、ファックス",
+      "name": "ファクシミリ（電話機と一体になったものを含む）【FAX、ファックス、ファクシミリ電話機】",
+      "name_reduced": "ファクシミリ（電話機ト一体ニナッタモノヲ含ム）【ＦＡＸ、ファックス、ファクシミリ電話機】",
+      "typeID": "5",
+      "options": [
+        "電話機と一体になったものを含む"
+      ],
+      "examples": [
+        "FAX",
+        "ファックス",
+        "ファクシミリ電話機"
+      ],
+      "simple": "ファクシミリ",
+      "simple_index": "ファクシミリ"
+    },
+    {
+      "comment": "電池は抜いて燃えないごみ\n灯油は抜いて販売店などに相談",
+      "dictionaryID": "387",
+      "index": "ファンヒーター（ストーブ、ダンボウ、セキユファンヒーター、ガスファンヒーター）",
+      "name": "ファンヒーター【ストーブ、暖房、石油ファンヒーター、ガスファンヒーター】",
+      "name_reduced": "ファンヒーター【ストーブ、暖房、石油ファンヒーター、ガスファンヒーター】",
+      "typeID": "4",
+      "options": [],
+      "examples": [
+        "ストーブ",
+        "暖房",
+        "石油ファンヒーター",
+        "ガスファンヒーター"
+      ],
+      "simple": "ファンヒーター",
+      "simple_index": "ファンヒーター"
+    },
+    {
+      "comment": "",
+      "dictionaryID": "388",
+      "index": "フィルム（シャシン、ネガ、スライド）",
+      "name": "フィルム【写真、ネガ、スライド】",
+      "name_reduced": "フィルム【写真、ネガ、スライド】",
+      "typeID": "7",
+      "options": [],
+      "examples": [
+        "写真",
+        "ネガ",
+        "スライド"
+      ],
+      "simple": "フィルム",
+      "simple_index": "フィルム"
+    },
+    {
+      "comment": "できるだけ地域の資源（古紙など）集団回収へ",
+      "dictionaryID": "389",
+      "index": "フウトウ",
+      "name": "封筒",
+      "name_reduced": "封筒",
+      "typeID": "7",
+      "options": [],
+      "examples": [],
+      "simple": "封筒",
+      "simple_index": "フウトウ"
+    },
+    {
+      "comment": "紙にくるんで、外からわかるように指定袋に「キケン」と貼る",
+      "dictionaryID": "391",
+      "index": "フォーク（キンゾクセイ）",
+      "name": "フォーク（金属製）",
+      "name_reduced": "フォーク（金属製）",
+      "typeID": "5",
+      "options": [
+        "金属製"
+      ],
+      "examples": [],
+      "simple": "フォーク",
+      "simple_index": "フォーク"
+    },
+    {
+      "comment": "",
+      "dictionaryID": "390",
+      "index": "フォーク（プラセイ・モクセイ）",
+      "name": "フォーク（プラ製・木製）",
+      "name_reduced": "フォーク（プラ製・木製）",
+      "typeID": "7",
+      "options": [
+        "プラ製・木製"
+      ],
+      "examples": [],
+      "simple": "フォーク",
+      "simple_index": "フォーク"
+    },
+    {
+      "comment": "",
+      "dictionaryID": "393",
+      "index": "フトンカンソウキ",
+      "name": "ふとん乾燥機",
+      "name_reduced": "フトン乾燥機",
+      "typeID": "5",
+      "options": [],
+      "examples": [],
+      "simple": "ふとん乾燥機",
+      "simple_index": "フトンカンソウキ"
+    },
+    {
+      "comment": "丸めてひもでしばる\n指定袋に入り、5kg以下のものは燃えるごみ（ひもでしばらない）",
+      "dictionaryID": "392",
+      "index": "フトン（ウモウブトン、シキブトン、カケブトン、シング、ベビーブトン）",
+      "name": "ふとん【羽毛布団、敷布団、掛け布団、寝具、ベビー布団】",
+      "name_reduced": "フトン【羽毛布団、敷布団、掛ケ布団、寝具、ベビー布団】",
+      "typeID": "4",
+      "options": [],
+      "examples": [
+        "羽毛布団",
+        "敷布団",
+        "掛け布団",
+        "寝具",
+        "ベビー布団"
+      ],
+      "simple": "ふとん",
+      "simple_index": "フトン"
+    },
+    {
+      "comment": "",
+      "dictionaryID": "394",
+      "index": "フライパン",
+      "name": "フライパン",
+      "name_reduced": "フライパン",
+      "typeID": "5",
+      "options": [],
+      "examples": [],
+      "simple": "フライパン",
+      "simple_index": "フライパン"
+    },
+    {
+      "comment": "地域の資源（古紙など）集団回収で集めている場合はできるだけ資源集団回収へ",
+      "dictionaryID": "404",
+      "index": "フルギ・コフ",
+      "name": "古着・古布",
+      "name_reduced": "古着・古布",
+      "typeID": "7",
+      "options": [],
+      "examples": [],
+      "simple": "古着・古布",
+      "simple_index": "フルギ・コフ"
+    },
+    {
+      "comment": "",
+      "dictionaryID": "406",
+      "index": "フロッピーディスクノケース、ＭＯノケース",
+      "name": "フロッピーディスクのケース、MOのケース",
+      "name_reduced": "フロッピーディスクノケース、ＭＯノケース",
+      "typeID": "7",
+      "options": [],
+      "examples": [],
+      "simple": "フロッピーディスクのケース、MOのケース",
+      "simple_index": "フロッピーディスクノケース、ＭＯノケース"
+    },
+    {
+      "comment": "",
+      "dictionaryID": "405",
+      "index": "フロッピーディスク（ＦＤ、フロッピィ、ＭＯ）、エフディ、エムオー",
+      "name": "フロッピーディスク【FD、フロッピィ、MO】",
+      "name_reduced": "フロッピーディスク【ＦＤ、フロッピィ、ＭＯ】",
+      "typeID": "5",
+      "options": [],
+      "examples": [
+        "FD",
+        "フロッピィ",
+        "MO"
+      ],
+      "simple": "フロッピーディスク",
+      "simple_index": "フロッピーディスク"
+    },
+    {
+      "comment": "指定袋に入り、5kg以下のものは燃えるごみ",
+      "dictionaryID": "407",
+      "index": "フロノフタ",
+      "name": "風呂のふた",
+      "name_reduced": "風呂ノフタ",
+      "typeID": "4",
+      "options": [],
+      "examples": [],
+      "simple": "風呂のふた",
+      "simple_index": "フロノフタ"
+    },
+    {
+      "comment": "指定袋に入り、5kg以下のものは燃えないごみ",
+      "dictionaryID": "395",
+      "index": "ブラインド",
+      "name": "ブラインド",
+      "name_reduced": "ブラインド",
+      "typeID": "4",
+      "options": [],
+      "examples": [],
+      "simple": "ブラインド",
+      "simple_index": "ブラインド"
+    },
+    {
+      "comment": "",
+      "dictionaryID": "396",
+      "index": "ブラサガリケンコウキ",
+      "name": "ぶら下がり健康器",
+      "name_reduced": "ブラ下ガリ健康器",
+      "typeID": "4",
+      "options": [],
+      "examples": [],
+      "simple": "ぶら下がり健康器",
+      "simple_index": "ブラサガリケンコウキ"
+    },
+    {
+      "comment": "",
+      "dictionaryID": "398",
+      "index": "ブラシ・クシ（キンゾクセイイガイ）",
+      "name": "ブラシ・櫛（金属製以外）",
+      "name_reduced": "ブラシ・櫛（金属製以外）",
+      "typeID": "7",
+      "options": [
+        "金属製以外"
+      ],
+      "examples": [],
+      "simple": "ブラシ・櫛",
+      "simple_index": "ブラシ・クシ"
+    },
+    {
+      "comment": "",
+      "dictionaryID": "397",
+      "index": "ブラシ・クシ（キンゾクセイ）",
+      "name": "ブラシ・櫛（金属製）",
+      "name_reduced": "ブラシ・櫛（金属製）",
+      "typeID": "5",
+      "options": [
+        "金属製"
+      ],
+      "examples": [],
+      "simple": "ブラシ・櫛",
+      "simple_index": "ブラシ・クシ"
+    },
+    {
+      "comment": "",
+      "dictionaryID": "400",
+      "index": "ブランコ（コドモヨウユウグ）",
+      "name": "ブランコ（子供用遊具）",
+      "name_reduced": "ブランコ（子供用遊具）",
+      "typeID": "4",
+      "options": [
+        "子供用遊具"
+      ],
+      "examples": [],
+      "simple": "ブランコ",
+      "simple_index": "ブランコ"
+    },
+    {
+      "comment": "",
+      "dictionaryID": "409",
+      "index": "ブンチン",
+      "name": "文鎮",
+      "name_reduced": "文鎮",
+      "typeID": "5",
+      "options": [],
+      "examples": [],
+      "simple": "文鎮",
+      "simple_index": "ブンチン"
+    },
+    {
+      "comment": "",
+      "dictionaryID": "399",
+      "index": "プラモデル",
+      "name": "プラモデル",
+      "name_reduced": "プラモデル",
+      "typeID": "7",
+      "options": [],
+      "examples": [],
+      "simple": "プラモデル",
+      "simple_index": "プラモデル"
+    },
+    {
+      "comment": "指定袋に入らないもの、または5kgを超えるものは大型ごみ",
+      "dictionaryID": "401",
+      "index": "プランター",
+      "name": "プランター",
+      "name_reduced": "プランター",
+      "typeID": "7",
+      "options": [],
+      "examples": [],
+      "simple": "プランター",
+      "simple_index": "プランター"
+    },
+    {
+      "comment": "指定袋に入らないもの、または5kgを超えるものは大型ごみ",
+      "dictionaryID": "402",
+      "index": "プリンター（レーザープリンター）",
+      "name": "プリンター【レーザープリンター】",
+      "name_reduced": "プリンター【レーザープリンター】",
+      "typeID": "5",
+      "options": [],
+      "examples": [
+        "レーザープリンター"
+      ],
+      "simple": "プリンター",
+      "simple_index": "プリンター"
+    },
+    {
+      "comment": "汚れを取る",
+      "dictionaryID": "403",
+      "index": "プリンノヨウキ（プラセイ）",
+      "name": "プリンの容器（プラ製）",
+      "name_reduced": "プリンノ容器（プラ製）",
+      "typeID": "3",
+      "options": [
+        "プラ製"
+      ],
+      "examples": [],
+      "simple": "プリンの容器",
+      "simple_index": "プリンノヨウキ"
+    },
+    {
+      "comment": "兵庫県エルピーガス協会（361-8068）に相談",
+      "dictionaryID": "408",
+      "index": "プロパンガスボンベ",
+      "name": "プロパンガスボンベ",
+      "name_reduced": "プロパンガスボンベ",
+      "typeID": "9",
+      "options": [],
+      "examples": [],
+      "simple": "プロパンガスボンベ",
+      "simple_index": "プロパンガスボンベ"
+    },
+    {
+      "comment": "",
+      "dictionaryID": "412",
+      "index": "ヘアピン（ピンドメ）",
+      "name": "ヘアピン【ピン止め】",
+      "name_reduced": "ヘアピン【ピン止メ】",
+      "typeID": "5",
+      "options": [],
+      "examples": [
+        "ピン止め"
+      ],
+      "simple": "ヘアピン",
+      "simple_index": "ヘアピン"
+    },
+    {
+      "comment": "",
+      "dictionaryID": "411",
+      "index": "ヘアースプレーノキャップ",
+      "name": "ヘアースプレーのキャップ",
+      "name_reduced": "ヘアースプレーノキャップ",
+      "typeID": "3",
+      "options": [],
+      "examples": [],
+      "simple": "ヘアースプレーのキャップ",
+      "simple_index": "ヘアースプレーノキャップ"
+    },
+    {
+      "comment": "中身は全部使い切る。穴あけ不要。燃えないゴミと分けて中身の見える袋で出す。クリーンステーションに燃えないゴミと場所をわけて出す",
+      "dictionaryID": "410",
+      "index": "ヘアースプレー（スプレーカン）",
+      "name": "ヘアースプレー（スプレー缶）",
+      "name_reduced": "ヘアースプレー（スプレー缶）",
+      "typeID": "6",
+      "options": [
+        "スプレー缶"
+      ],
+      "examples": [],
+      "simple": "ヘアースプレー",
+      "simple_index": "ヘアースプレー"
+    },
+    {
+      "comment": "",
+      "dictionaryID": "420",
+      "index": "ヘッドホン",
+      "name": "ヘッドホン",
+      "name_reduced": "ヘッドホン",
+      "typeID": "5",
+      "options": [],
+      "examples": [],
+      "simple": "ヘッドホン",
+      "simple_index": "ヘッドホン"
+    },
+    {
+      "comment": "",
+      "dictionaryID": "424",
+      "index": "ヘルスメーター（タイジュウケイ）",
+      "name": "ヘルスメーター【体重計】",
+      "name_reduced": "ヘルスメーター【体重計】",
+      "typeID": "5",
+      "options": [],
+      "examples": [
+        "体重計"
+      ],
+      "simple": "ヘルスメーター",
+      "simple_index": "ヘルスメーター"
+    },
+    {
+      "comment": "",
+      "dictionaryID": "426",
+      "index": "ヘルメット",
+      "name": "ヘルメット",
+      "name_reduced": "ヘルメット",
+      "typeID": "7",
+      "options": [],
+      "examples": [],
+      "simple": "ヘルメット",
+      "simple_index": "ヘルメット"
+    },
+    {
+      "comment": "",
+      "dictionaryID": "413",
+      "index": "ベッド",
+      "name": "ベッド",
+      "name_reduced": "ベッド",
+      "typeID": "4",
+      "options": [],
+      "examples": [],
+      "simple": "ベッド",
+      "simple_index": "ベッド"
+    },
+    {
+      "comment": "",
+      "dictionaryID": "421",
+      "index": "ベッドマットレス",
+      "name": "ベッドマットレス",
+      "name_reduced": "ベッドマットレス",
+      "typeID": "4",
+      "options": [],
+      "examples": [],
+      "simple": "ベッドマットレス",
+      "simple_index": "ベッドマットレス"
+    },
+    {
+      "comment": "",
+      "dictionaryID": "422",
+      "index": "ベビーカー（ウバグルマ）",
+      "name": "ベビーカー【乳母車】",
+      "name_reduced": "ベビーカー【乳母車】",
+      "typeID": "4",
+      "options": [],
+      "examples": [
+        "乳母車"
+      ],
+      "simple": "ベビーカー",
+      "simple_index": "ベビーカー"
+    },
+    {
+      "comment": "",
+      "dictionaryID": "423",
+      "index": "ベビーベッド",
+      "name": "ベビーベッド",
+      "name_reduced": "ベビーベッド",
+      "typeID": "4",
+      "options": [],
+      "examples": [],
+      "simple": "ベビーベッド",
+      "simple_index": "ベビーベッド"
+    },
+    {
+      "comment": "",
+      "dictionaryID": "425",
+      "index": "ベルト（バンド）",
+      "name": "ベルト【バンド】",
+      "name_reduced": "ベルト【バンド】",
+      "typeID": "7",
+      "options": [],
+      "examples": [
+        "バンド"
+      ],
+      "simple": "ベルト",
+      "simple_index": "ベルト"
+    },
+    {
+      "comment": "汚れを取る\n汚れが簡単に取れない場合は燃えるごみ",
+      "dictionaryID": "429",
+      "index": "ベントウノヨウキ（ツカイステノモノ・プラセイ）（コンビニベントウ）",
+      "name": "弁当の容器（使い捨てのもの・プラ製）【コンビニ弁当】",
+      "name_reduced": "弁当ノ容器（使イ捨テノモノ・プラ製）【コンビニ弁当】",
+      "typeID": "3",
+      "options": [
+        "使い捨てのもの・プラ製"
+      ],
+      "examples": [
+        "コンビニ弁当"
+      ],
+      "simple": "弁当の容器",
+      "simple_index": "ベントウノヨウキ"
+    },
+    {
+      "comment": "各環境局事業所に連絡",
+      "dictionaryID": "414",
+      "index": "ペットノシタイ（シガイ）",
+      "name": "ペットの死体【死骸】",
+      "name_reduced": "ペットノ死体【死骸】",
+      "typeID": "8",
+      "options": [],
+      "examples": [
+        "死骸"
+      ],
+      "simple": "ペットの死体",
+      "simple_index": "ペットノシタイ"
+    },
+    {
+      "comment": "ペットのふんはトイレに流す",
+      "dictionaryID": "415",
+      "index": "ペットノトイレセンヨウスナ（カミセイトウ）",
+      "name": "ペットのトイレ専用砂（紙製等）",
+      "name_reduced": "ペットノトイレ専用砂（紙製等）",
+      "typeID": "7",
+      "options": [
+        "紙製等"
+      ],
+      "examples": [],
+      "simple": "ペットのトイレ専用砂",
+      "simple_index": "ペットノトイレセンヨウスナ"
+    },
+    {
+      "comment": "砂などを除去してトイレに流す",
+      "dictionaryID": "416",
+      "index": "ペットノフン",
+      "name": "ペットのふん",
+      "name_reduced": "ペットノフン",
+      "typeID": "9",
+      "options": [],
+      "examples": [],
+      "simple": "ペットのふん",
+      "simple_index": "ペットノフン"
+    },
+    {
+      "comment": "中身を使い切って、水洗いする",
+      "dictionaryID": "417",
+      "index": "ペットフードノカン",
+      "name": "ペットフードの缶",
+      "name_reduced": "ペットフードノ缶",
+      "typeID": "2",
+      "options": [],
+      "examples": [],
+      "simple": "ペットフードの缶",
+      "simple_index": "ペットフードノカン"
+    },
+    {
+      "comment": "",
+      "dictionaryID": "419",
+      "index": "ペットボトルノキャップ・ラベル",
+      "name": "ペットボトルのキャップ・ラベル",
+      "name_reduced": "ペットボトルノキャップ・ラベル",
+      "typeID": "3",
+      "options": [],
+      "examples": [],
+      "simple": "ペットボトルのキャップ・ラベル",
+      "simple_index": "ペットボトルノキャップ・ラベル"
+    },
+    {
+      "comment": "中身を使い切って、中を軽くすすいでつぶして出す　キャップ・ラベルは外す",
+      "dictionaryID": "418",
+      "index": "ペットボトル（ノミモノ、ショウユ、チョウミリョウ）",
+      "name": "ペットボトル（飲み物、しょうゆ、調味料）",
+      "name_reduced": "ペットボトル（飲ミ物、ショウユ、調味料）",
+      "typeID": "2",
+      "options": [
+        "飲み物",
+        "しょうゆ",
+        "調味料"
+      ],
+      "examples": [],
+      "simple": "ペットボトル",
+      "simple_index": "ペットボトル"
+    },
+    {
+      "comment": "中身を使い切る",
+      "dictionaryID": "427",
+      "index": "ペンキノカン",
+      "name": "ペンキの缶",
+      "name_reduced": "ペンキノ缶",
+      "typeID": "5",
+      "options": [],
+      "examples": [],
+      "simple": "ペンキの缶",
+      "simple_index": "ペンキノカン"
+    },
+    {
+      "comment": "中身は全部使い切る。穴あけ不要。燃えないゴミと分けて中身の見える袋で出す。クリーンステーションに燃えないゴミと場所をわけて出す",
+      "dictionaryID": "428",
+      "index": "ペンキノスプレーカン",
+      "name": "ペンキのスプレー缶",
+      "name_reduced": "ペンキノスプレー缶",
+      "typeID": "6",
+      "options": [],
+      "examples": [],
+      "simple": "ペンキのスプレー缶",
+      "simple_index": "ペンキノスプレーカン"
+    },
+    {
+      "comment": "",
+      "dictionaryID": "430",
+      "index": "ホウキ（キンゾクセイイガイ）",
+      "name": "ほうき（金属製以外）",
+      "name_reduced": "ホウキ（金属製以外）",
+      "typeID": "7",
+      "options": [
+        "金属製以外"
+      ],
+      "examples": [],
+      "simple": "ほうき",
+      "simple_index": "ホウキ"
+    },
+    {
+      "comment": "",
+      "dictionaryID": "431",
+      "index": "ホウキ（キンゾクセイ）",
+      "name": "ほうき（金属製）",
+      "name_reduced": "ホウキ（金属製）",
+      "typeID": "5",
+      "options": [
+        "金属製"
+      ],
+      "examples": [],
+      "simple": "ほうき",
+      "simple_index": "ホウキ"
+    },
+    {
+      "comment": "",
+      "dictionaryID": "433",
+      "index": "ホウソウフィルム（ガイソウフィルム）",
+      "name": "包装フィルム【外装フィルム】",
+      "name_reduced": "包装フィルム【外装フィルム】",
+      "typeID": "3",
+      "options": [],
+      "examples": [
+        "外装フィルム"
+      ],
+      "simple": "包装フィルム",
+      "simple_index": "ホウソウフィルム"
+    },
+    {
+      "comment": "紙にくるんで、外からわかるように指定袋に「キケン」と貼る",
+      "dictionaryID": "436",
+      "index": "ホウチョウ（ナイフ）",
+      "name": "包丁【ナイフ】",
+      "name_reduced": "包丁【ナイフ】",
+      "typeID": "5",
+      "options": [],
+      "examples": [
+        "ナイフ"
+      ],
+      "simple": "包丁",
+      "simple_index": "ホウチョウ"
+    },
+    {
+      "comment": "指定袋に入り、5kg以下のものは燃えないごみ",
+      "dictionaryID": "445",
+      "index": "ホットカーペット",
+      "name": "ホットカーペット",
+      "name_reduced": "ホットカーペット",
+      "typeID": "4",
+      "options": [],
+      "examples": [],
+      "simple": "ホットカーペット",
+      "simple_index": "ホットカーペット"
+    },
+    {
+      "comment": "指定袋に入らないもの、または5kgを超えるものは大型ごみ",
+      "dictionaryID": "446",
+      "index": "ホットプレート",
+      "name": "ホットプレート",
+      "name_reduced": "ホットプレート",
+      "typeID": "5",
+      "options": [],
+      "examples": [],
+      "simple": "ホットプレート",
+      "simple_index": "ホットプレート"
+    },
+    {
+      "comment": "",
+      "dictionaryID": "447",
+      "index": "ホニュウビン（ガラスセイ）",
+      "name": "ほ乳瓶（ガラス製）",
+      "name_reduced": "ホ乳瓶（ガラス製）",
+      "typeID": "5",
+      "options": [
+        "ガラス製"
+      ],
+      "examples": [],
+      "simple": "ほ乳瓶",
+      "simple_index": "ホニュウビン"
+    },
+    {
+      "comment": "",
+      "dictionaryID": "448",
+      "index": "ホニュウビン（プラセイ）",
+      "name": "ほ乳瓶（プラ製）",
+      "name_reduced": "ホ乳瓶（プラ製）",
+      "typeID": "7",
+      "options": [
+        "プラ製"
+      ],
+      "examples": [],
+      "simple": "ほ乳瓶",
+      "simple_index": "ホニュウビン"
+    },
+    {
+      "comment": "",
+      "dictionaryID": "452",
+      "index": "ホレイザイ",
+      "name": "保冷剤",
+      "name_reduced": "保冷剤",
+      "typeID": "7",
+      "options": [],
+      "examples": [],
+      "simple": "保冷剤",
+      "simple_index": "ホレイザイ"
+    },
+    {
+      "comment": "",
+      "dictionaryID": "454",
+      "index": "ホンダナ（ホンバコ、ショダナ）",
+      "name": "本棚【本箱、書棚】",
+      "name_reduced": "本棚【本箱、書棚】",
+      "typeID": "4",
+      "options": [],
+      "examples": [
+        "本箱",
+        "書棚"
+      ],
+      "simple": "本棚",
+      "simple_index": "ホンダナ"
+    },
+    {
+      "comment": "できるだけ地域の資源（古紙など）集団回収へ",
+      "dictionaryID": "453",
+      "index": "ホン（ショセキ、フルホン、ザッシ、マンガ）",
+      "name": "本【書籍、古本、雑誌、マンガ】",
+      "name_reduced": "本【書籍、古本、雑誌、マンガ】",
+      "typeID": "7",
+      "options": [],
+      "examples": [
+        "書籍",
+        "古本",
+        "雑誌",
+        "マンガ"
+      ],
+      "simple": "本",
+      "simple_index": "ホン"
+    },
+    {
+      "comment": "",
+      "dictionaryID": "439",
+      "index": "ホース（ゴムホース、ガスホース、スイドウホース、センタクホース）",
+      "name": "ホース【ゴムホース、ガスホース、水道ホース、洗濯ホース】",
+      "name_reduced": "ホース【ゴムホース、ガスホース、水道ホース、洗濯ホース】",
+      "typeID": "7",
+      "options": [],
+      "examples": [
+        "ゴムホース",
+        "ガスホース",
+        "水道ホース",
+        "洗濯ホース"
+      ],
+      "simple": "ホース",
+      "simple_index": "ホース"
+    },
+    {
+      "comment": "指定袋に入り、5kg以下のものは燃えないごみ",
+      "dictionaryID": "440",
+      "index": "ホームベーカリー（カテイヨウデンキジドウパンヤキキ）",
+      "name": "ホームベーカリー【家庭用電器自動パン焼き器】",
+      "name_reduced": "ホームベーカリー【家庭用電器自動パン焼キ器】",
+      "typeID": "4",
+      "options": [],
+      "examples": [
+        "家庭用電器自動パン焼き器"
+      ],
+      "simple": "ホームベーカリー",
+      "simple_index": "ホームベーカリー"
+    },
+    {
+      "comment": "",
+      "dictionaryID": "432",
+      "index": "ボウシ（ハット）",
+      "name": "帽子【ハット】",
+      "name_reduced": "帽子【ハット】",
+      "typeID": "7",
+      "options": [],
+      "examples": [
+        "ハット"
+      ],
+      "simple": "帽子",
+      "simple_index": "ボウシ"
+    },
+    {
+      "comment": "",
+      "dictionaryID": "435",
+      "index": "ボウチュウザイノヨウキ（プラセイ）",
+      "name": "防虫剤の容器（プラ製）",
+      "name_reduced": "防虫剤ノ容器（プラ製）",
+      "typeID": "3",
+      "options": [
+        "プラ製"
+      ],
+      "examples": [],
+      "simple": "防虫剤の容器",
+      "simple_index": "ボウチュウザイノヨウキ"
+    },
+    {
+      "comment": "",
+      "dictionaryID": "434",
+      "index": "ボウチュウザイ（ムシヨケ）",
+      "name": "防虫剤【虫除け】",
+      "name_reduced": "防虫剤【虫除ケ】",
+      "typeID": "7",
+      "options": [],
+      "examples": [
+        "虫除け"
+      ],
+      "simple": "防虫剤",
+      "simple_index": "ボウチュウザイ"
+    },
+    {
+      "comment": "",
+      "dictionaryID": "438",
+      "index": "ボウル（キンゾクセイ・ガラスセイ）（ザル）",
+      "name": "ボウル（金属製・ガラス製）【ざる】",
+      "name_reduced": "ボウル（金属製・ガラス製）【ザル】",
+      "typeID": "5",
+      "options": [
+        "金属製・ガラス製"
+      ],
+      "examples": [
+        "ざる"
+      ],
+      "simple": "ボウル",
+      "simple_index": "ボウル"
+    },
+    {
+      "comment": "",
+      "dictionaryID": "437",
+      "index": "ボウル（プラセイ）（ザル）",
+      "name": "ボウル（プラ製）【ざる】",
+      "name_reduced": "ボウル（プラ製）【ザル】",
+      "typeID": "7",
+      "options": [
+        "プラ製"
+      ],
+      "examples": [
+        "ざる"
+      ],
+      "simple": "ボウル",
+      "simple_index": "ボウル"
+    },
+    {
+      "comment": "",
+      "dictionaryID": "442",
+      "index": "ボールペン",
+      "name": "ボールペン",
+      "name_reduced": "ボールペン",
+      "typeID": "7",
+      "options": [],
+      "examples": [],
+      "simple": "ボールペン",
+      "simple_index": "ボールペン"
+    },
+    {
+      "comment": "",
+      "dictionaryID": "441",
+      "index": "ボール（テニスボール、ビーチボール、サッカーボール、ゴルフボール、ゴムボール、ヤキュウボール）",
+      "name": "ボール【テニスボール、ビーチボール、サッカーボール、ゴルフボール、ゴムボール、野球ボール】",
+      "name_reduced": "ボール【テニスボール、ビーチボール、サッカーボール、ゴルフボール、ゴムボール、野球ボール】",
+      "typeID": "7",
+      "options": [],
+      "examples": [
+        "テニスボール",
+        "ビーチボール",
+        "サッカーボール",
+        "ゴルフボール",
+        "ゴムボール",
+        "野球ボール"
+      ],
+      "simple": "ボール",
+      "simple_index": "ボール"
+    },
+    {
+      "comment": "",
+      "dictionaryID": "443",
+      "index": "ポスター",
+      "name": "ポスター",
+      "name_reduced": "ポスター",
+      "typeID": "7",
+      "options": [],
+      "examples": [],
+      "simple": "ポスター",
+      "simple_index": "ポスター"
+    },
+    {
+      "comment": "",
+      "dictionaryID": "444",
+      "index": "ポット（ユワカシキ）",
+      "name": "ポット【湯沸かし器】",
+      "name_reduced": "ポット【湯沸カシ器】",
+      "typeID": "5",
+      "options": [],
+      "examples": [
+        "湯沸かし器"
+      ],
+      "simple": "ポット",
+      "simple_index": "ポット"
+    },
+    {
+      "comment": "中身を抜く",
+      "dictionaryID": "449",
+      "index": "ポリタンク（ポリケース、ポリヨウキ、トウユポリタンク、プラスチックタンク、プラタンク）",
+      "name": "ポリタンク【ポリケース、ポリ容器、灯油ポリタンク、プラスチックタンク、プラタンク】",
+      "name_reduced": "ポリタンク【ポリケース、ポリ容器、灯油ポリタンク、プラスチックタンク、プラタンク】",
+      "typeID": "7",
+      "options": [],
+      "examples": [
+        "ポリケース",
+        "ポリ容器",
+        "灯油ポリタンク",
+        "プラスチックタンク",
+        "プラタンク"
+      ],
+      "simple": "ポリタンク",
+      "simple_index": "ポリタンク"
+    },
+    {
+      "comment": "指定袋に入らないもの、または5kgを超えるものは大型ごみ",
+      "dictionaryID": "450",
+      "index": "ポリバケツ",
+      "name": "ポリバケツ",
+      "name_reduced": "ポリバケツ",
+      "typeID": "7",
+      "options": [],
+      "examples": [],
+      "simple": "ポリバケツ",
+      "simple_index": "ポリバケツ"
+    },
+    {
+      "comment": "",
+      "dictionaryID": "451",
+      "index": "ポリブクロ（スーパーナドデハイフサレルモノ）（ビニールブクロ）",
+      "name": "ポリ袋（スーパー等で配布されるもの）【ビニール袋】",
+      "name_reduced": "ポリ袋（スーパー等デ配布サレルモノ）【ビニール袋】",
+      "typeID": "3",
+      "options": [
+        "スーパー等で配布されるもの"
+      ],
+      "examples": [
+        "ビニール袋"
+      ],
+      "simple": "ポリ袋",
+      "simple_index": "ポリブクロ"
+    },
+    {
+      "comment": "パソコンとメーカーに回収を申込むこともできます",
+      "dictionaryID": "455",
+      "index": "マウス（パソコンヨウ）",
+      "name": "マウス（パソコン用）",
+      "name_reduced": "マウス（パソコン用）",
+      "typeID": "5",
+      "options": [
+        "パソコン用"
+      ],
+      "examples": [],
+      "simple": "マウス",
+      "simple_index": "マウス"
+    },
+    {
+      "comment": "",
+      "dictionaryID": "456",
+      "index": "マクラ",
+      "name": "まくら",
+      "name_reduced": "マクラ",
+      "typeID": "7",
+      "options": [],
+      "examples": [],
+      "simple": "まくら",
+      "simple_index": "マクラ"
+    },
+    {
+      "comment": "",
+      "dictionaryID": "458",
+      "index": "マジックペン（プラセイイガイ）（フェルトペン、カラーペン、ケイコウペン）",
+      "name": "マジックペン（プラ製以外）【フェルトペン、カラーペン、蛍光ペン】",
+      "name_reduced": "マジックペン（プラ製以外）【フェルトペン、カラーペン、蛍光ペン】",
+      "typeID": "5",
+      "options": [
+        "プラ製以外"
+      ],
+      "examples": [
+        "フェルトペン",
+        "カラーペン",
+        "蛍光ペン"
+      ],
+      "simple": "マジックペン",
+      "simple_index": "マジックペン"
+    },
+    {
+      "comment": "",
+      "dictionaryID": "457",
+      "index": "マジックペン（プラセイ）（フェルトペン、カラーペン、ケイコウペン）",
+      "name": "マジックペン（プラ製）【フェルトペン、カラーペン、蛍光ペン】",
+      "name_reduced": "マジックペン（プラ製）【フェルトペン、カラーペン、蛍光ペン】",
+      "typeID": "7",
+      "options": [
+        "プラ製"
+      ],
+      "examples": [
+        "フェルトペン",
+        "カラーペン",
+        "蛍光ペン"
+      ],
+      "simple": "マジックペン",
+      "simple_index": "マジックペン"
+    },
+    {
+      "comment": "大型のものは販売店等に相談",
+      "dictionaryID": "459",
+      "index": "マッサージキ",
+      "name": "マッサージ機",
+      "name_reduced": "マッサージ機",
+      "typeID": "4",
+      "options": [],
+      "examples": [],
+      "simple": "マッサージ機",
+      "simple_index": "マッサージキ"
+    },
+    {
+      "comment": "水に浸し、発火しないようにする",
+      "dictionaryID": "460",
+      "index": "マッチ",
+      "name": "マッチ",
+      "name_reduced": "マッチ",
+      "typeID": "7",
+      "options": [],
+      "examples": [],
+      "simple": "マッチ",
+      "simple_index": "マッチ"
+    },
+    {
+      "comment": "指定袋に入り、5kg以下のものは燃えるごみ",
+      "dictionaryID": "462",
+      "index": "マットレス（フトン）",
+      "name": "マットレス【ふとん】",
+      "name_reduced": "マットレス【フトン】",
+      "typeID": "4",
+      "options": [],
+      "examples": [
+        "ふとん"
+      ],
+      "simple": "マットレス",
+      "simple_index": "マットレス"
+    },
+    {
+      "comment": "",
+      "dictionaryID": "461",
+      "index": "マット（キッチン・バストウ）（キッチンマット、バスマット、ゲンカンマット、トイレマット、フロマット）",
+      "name": "マット（キッチン・バス等）【キッチンマット、バスマット、玄関マット、トイレマット、風呂マット】",
+      "name_reduced": "マット（キッチン・バス等）【キッチンマット、バスマット、玄関マット、トイレマット、風呂マット】",
+      "typeID": "7",
+      "options": [
+        "キッチン・バス等"
+      ],
+      "examples": [
+        "キッチンマット",
+        "バスマット",
+        "玄関マット",
+        "トイレマット",
+        "風呂マット"
+      ],
+      "simple": "マット",
+      "simple_index": "マット"
+    },
+    {
+      "comment": "",
+      "dictionaryID": "464",
+      "index": "マナイタ",
+      "name": "まな板",
+      "name_reduced": "マナ板",
+      "typeID": "7",
+      "options": [],
+      "examples": [],
+      "simple": "まな板",
+      "simple_index": "マナイタ"
+    },
+    {
+      "comment": "",
+      "dictionaryID": "463",
+      "index": "マホウビン（ポット）",
+      "name": "魔法瓶【ポット】",
+      "name_reduced": "魔法瓶【ポット】",
+      "typeID": "5",
+      "options": [],
+      "examples": [
+        "ポット"
+      ],
+      "simple": "魔法瓶",
+      "simple_index": "マホウビン"
+    },
+    {
+      "comment": "中身を使い切って、汚れを取る\n中身が簡単に取れない場合は燃えるごみ",
+      "dictionaryID": "465",
+      "index": "マヨネーズノヨウキ（プラセイ）",
+      "name": "マヨネーズの容器（プラ製）",
+      "name_reduced": "マヨネーズノ容器（プラ製）",
+      "typeID": "3",
+      "options": [
+        "プラ製"
+      ],
+      "examples": [],
+      "simple": "マヨネーズの容器",
+      "simple_index": "マヨネーズノヨウキ"
+    },
+    {
+      "comment": "",
+      "dictionaryID": "466",
+      "index": "ミキサー（ジューサー）",
+      "name": "ミキサー【ジューサー】",
+      "name_reduced": "ミキサー【ジューサー】",
+      "typeID": "5",
+      "options": [],
+      "examples": [
+        "ジューサー"
+      ],
+      "simple": "ミキサー",
+      "simple_index": "ミキサー"
+    },
+    {
+      "comment": "",
+      "dictionaryID": "467",
+      "index": "ミシン",
+      "name": "ミシン",
+      "name_reduced": "ミシン",
+      "typeID": "4",
+      "options": [],
+      "examples": [],
+      "simple": "ミシン",
+      "simple_index": "ミシン"
+    },
+    {
+      "comment": "指定袋に入らないもの、または5kgを超えるものは大型ごみ",
+      "dictionaryID": "468",
+      "index": "ミニコンポ（アンプ、チューナー、ＣＤコンポ）",
+      "name": "ミニコンポ【アンプ、チューナー、CDコンポ】",
+      "name_reduced": "ミニコンポ【アンプ、チューナー、ＣＤコンポ】",
+      "typeID": "5",
+      "options": [],
+      "examples": [
+        "アンプ",
+        "チューナー",
+        "CDコンポ"
+      ],
+      "simple": "ミニコンポ",
+      "simple_index": "ミニコンポ"
+    },
+    {
+      "comment": "",
+      "dictionaryID": "469",
+      "index": "ムシメガネ",
+      "name": "虫めがね",
+      "name_reduced": "虫メガネ",
+      "typeID": "5",
+      "options": [],
+      "examples": [],
+      "simple": "虫めがね",
+      "simple_index": "ムシメガネ"
+    },
+    {
+      "comment": "",
+      "dictionaryID": "471",
+      "index": "メガネ（プラセイイガイ）",
+      "name": "眼鏡（プラ製以外）",
+      "name_reduced": "眼鏡（プラ製以外）",
+      "typeID": "5",
+      "options": [
+        "プラ製以外"
+      ],
+      "examples": [],
+      "simple": "眼鏡",
+      "simple_index": "メガネ"
+    },
+    {
+      "comment": "",
+      "dictionaryID": "470",
+      "index": "メガネ（プラセイ）",
+      "name": "眼鏡（プラ製）",
+      "name_reduced": "眼鏡（プラ製）",
+      "typeID": "7",
+      "options": [
+        "プラ製"
+      ],
+      "examples": [],
+      "simple": "眼鏡",
+      "simple_index": "メガネ"
+    },
+    {
+      "comment": "",
+      "dictionaryID": "472",
+      "index": "モウフ",
+      "name": "毛布",
+      "name_reduced": "毛布",
+      "typeID": "7",
+      "options": [],
+      "examples": [],
+      "simple": "毛布",
+      "simple_index": "モウフ"
+    },
+    {
+      "comment": "",
+      "dictionaryID": "473",
+      "index": "モチツキキ",
+      "name": "餅つき機",
+      "name_reduced": "餅ツキ機",
+      "typeID": "4",
+      "options": [],
+      "examples": [],
+      "simple": "餅つき機",
+      "simple_index": "モチツキキ"
+    },
+    {
+      "comment": "",
+      "dictionaryID": "474",
+      "index": "モノホシザオ・モノホシダイ",
+      "name": "物干しざお・物干し台",
+      "name_reduced": "物干シザオ・物干シ台",
+      "typeID": "4",
+      "options": [],
+      "examples": [],
+      "simple": "物干しざお・物干し台",
+      "simple_index": "モノホシザオ・モノホシダイ"
+    },
+    {
+      "comment": "",
+      "dictionaryID": "475",
+      "index": "ヤカン",
+      "name": "やかん",
+      "name_reduced": "ヤカン",
+      "typeID": "5",
+      "options": [],
+      "examples": [],
+      "simple": "やかん",
+      "simple_index": "ヤカン"
+    },
+    {
+      "comment": "",
+      "dictionaryID": "477",
+      "index": "ヨシズ",
+      "name": "よしず",
+      "name_reduced": "ヨシズ",
+      "typeID": "4",
+      "options": [],
+      "examples": [],
+      "simple": "よしず",
+      "simple_index": "ヨシズ"
+    },
+    {
+      "comment": "汚れを取る",
+      "dictionaryID": "476",
+      "index": "ヨーグルトノヨウキ（プラセイ）",
+      "name": "ヨーグルトの容器（プラ製）",
+      "name_reduced": "ヨーグルトノ容器（プラ製）",
+      "typeID": "3",
+      "options": [
+        "プラ製"
+      ],
+      "examples": [],
+      "simple": "ヨーグルトの容器",
+      "simple_index": "ヨーグルトノヨウキ"
+    },
+    {
+      "comment": "中身を使い切って水に浸す\n一度に大量に出さない\n1～2本まで",
+      "dictionaryID": "478",
+      "index": "ライター（キンゾクセイ）（ヒャクエンライター、ツカイステライター）",
+      "name": "ライター（金属製）【百円ライター、使い捨てライター】",
+      "name_reduced": "ライター（金属製）【百円ライター、使イ捨テライター】",
+      "typeID": "5",
+      "options": [
+        "金属製"
+      ],
+      "examples": [
+        "百円ライター",
+        "使い捨てライター"
+      ],
+      "simple": "ライター",
+      "simple_index": "ライター"
+    },
+    {
+      "comment": "中身を使い切って、水に浸す\n一度に大量に出さない\n1～2本まで",
+      "dictionaryID": "479",
+      "index": "ライター（プラセイ　ツカイステフクム）（ヒャクエンライター、ツカイステライター、チャッカマン）",
+      "name": "ライター（プラ製　使い捨て含む）【百円ライター、使い捨てライター、チャッカマン】",
+      "name_reduced": "ライター（プラ製　使イ捨テ含ム）【百円ライター、使イ捨テライター、チャッカマン】",
+      "typeID": "7",
+      "options": [
+        "プラ製　使い捨て含む"
+      ],
+      "examples": [
+        "百円ライター",
+        "使い捨てライター",
+        "チャッカマン"
+      ],
+      "simple": "ライター",
+      "simple_index": "ライター"
+    },
+    {
+      "comment": "",
+      "dictionaryID": "480",
+      "index": "ラジオ（ケイタイラジオ）",
+      "name": "ラジオ【携帯ラジオ】",
+      "name_reduced": "ラジオ【携帯ラジオ】",
+      "typeID": "5",
+      "options": [],
+      "examples": [
+        "携帯ラジオ"
+      ],
+      "simple": "ラジオ",
+      "simple_index": "ラジオ"
+    },
+    {
+      "comment": "",
+      "dictionaryID": "481",
+      "index": "ラジカセ",
+      "name": "ラジカセ",
+      "name_reduced": "ラジカセ",
+      "typeID": "5",
+      "options": [],
+      "examples": [],
+      "simple": "ラジカセ",
+      "simple_index": "ラジカセ"
+    },
+    {
+      "comment": "汚れを取る\n汚れが簡単に取れない場合は燃えるごみ",
+      "dictionaryID": "482",
+      "index": "ラップ（ショウヒンヲツツンデイタモノ）",
+      "name": "ラップ（商品を包んでいたもの）",
+      "name_reduced": "ラップ（商品ヲ包ンデイタモノ）",
+      "typeID": "3",
+      "options": [
+        "商品を包んでいたもの"
+      ],
+      "examples": [],
+      "simple": "ラップ",
+      "simple_index": "ラップ"
+    },
+    {
+      "comment": "金具部分は簡単にはずせる場合は燃えないごみへ",
+      "dictionaryID": "483",
+      "index": "ランドセル",
+      "name": "ランドセル",
+      "name_reduced": "ランドセル",
+      "typeID": "7",
+      "options": [],
+      "examples": [],
+      "simple": "ランドセル",
+      "simple_index": "ランドセル"
+    },
+    {
+      "comment": "",
+      "dictionaryID": "484",
+      "index": "リモコン",
+      "name": "リモコン",
+      "name_reduced": "リモコン",
+      "typeID": "5",
+      "options": [],
+      "examples": [],
+      "simple": "リモコン",
+      "simple_index": "リモコン"
+    },
+    {
+      "comment": "販売店などへ",
+      "dictionaryID": "485",
+      "index": "レイゾウコ（レイオンコ）",
+      "name": "冷蔵庫【冷温庫】",
+      "name_reduced": "冷蔵庫【冷温庫】",
+      "typeID": "9",
+      "options": [],
+      "examples": [
+        "冷温庫"
+      ],
+      "simple": "冷蔵庫",
+      "simple_index": "レイゾウコ"
+    },
+    {
+      "comment": "販売店などへ",
+      "dictionaryID": "486",
+      "index": "レイトウコ（フリーザー）",
+      "name": "冷凍庫【フリーザー】",
+      "name_reduced": "冷凍庫【フリーザー】",
+      "typeID": "9",
+      "options": [],
+      "examples": [
+        "フリーザー"
+      ],
+      "simple": "冷凍庫",
+      "simple_index": "レイトウコ"
+    },
+    {
+      "comment": "",
+      "dictionaryID": "487",
+      "index": "レコード",
+      "name": "レコード",
+      "name_reduced": "レコード",
+      "typeID": "7",
+      "options": [],
+      "examples": [],
+      "simple": "レコード",
+      "simple_index": "レコード"
+    },
+    {
+      "comment": "指定袋に入らないもの、または5kgを超えるものは大型ごみ",
+      "dictionaryID": "488",
+      "index": "レコードプレーヤー",
+      "name": "レコードプレーヤー",
+      "name_reduced": "レコードプレーヤー",
+      "typeID": "5",
+      "options": [],
+      "examples": [],
+      "simple": "レコードプレーヤー",
+      "simple_index": "レコードプレーヤー"
+    },
+    {
+      "comment": "",
+      "dictionaryID": "489",
+      "index": "レジブクロ",
+      "name": "レジ袋",
+      "name_reduced": "レジ袋",
+      "typeID": "3",
+      "options": [],
+      "examples": [],
+      "simple": "レジ袋",
+      "simple_index": "レジブクロ"
+    },
+    {
+      "comment": "",
+      "dictionaryID": "490",
+      "index": "レジャーシート（ブルーシート、ビニールシート）",
+      "name": "レジャーシート【ブルーシート、ビニールシート】",
+      "name_reduced": "レジャーシート【ブルーシート、ビニールシート】",
+      "typeID": "7",
+      "options": [],
+      "examples": [
+        "ブルーシート",
+        "ビニールシート"
+      ],
+      "simple": "レジャーシート",
+      "simple_index": "レジャーシート"
+    },
+    {
+      "comment": "汚れを取る　中身が簡単に取れない場合は燃えるごみ",
+      "dictionaryID": "491",
+      "index": "レトルトショクヒンパック（カレーナド）",
+      "name": "レトルト食品パック（カレーなど）",
+      "name_reduced": "レトルト食品パック（カレーナド）",
+      "typeID": "3",
+      "options": [
+        "カレーなど"
+      ],
+      "examples": [],
+      "simple": "レトルト食品パック",
+      "simple_index": "レトルトショクヒンパック"
+    },
+    {
+      "comment": "",
+      "dictionaryID": "492",
+      "index": "レンジダイ",
+      "name": "レンジ台",
+      "name_reduced": "レンジ台",
+      "typeID": "4",
+      "options": [],
+      "examples": [],
+      "simple": "レンジ台",
+      "simple_index": "レンジダイ"
+    },
+    {
+      "comment": "",
+      "dictionaryID": "493",
+      "index": "ロウソク（キャンドル）",
+      "name": "ろうそく【キャンドル】",
+      "name_reduced": "ロウソク【キャンドル】",
+      "typeID": "7",
+      "options": [],
+      "examples": [
+        "キャンドル"
+      ],
+      "simple": "ろうそく",
+      "simple_index": "ロウソク"
+    },
+    {
+      "comment": "",
+      "dictionaryID": "495",
+      "index": "ロッカー",
+      "name": "ロッカー",
+      "name_reduced": "ロッカー",
+      "typeID": "4",
+      "options": [],
+      "examples": [],
+      "simple": "ロッカー",
+      "simple_index": "ロッカー"
+    },
+    {
+      "comment": "",
+      "dictionaryID": "494",
+      "index": "ローラースケート（インラインスケート、ローラーブレード）",
+      "name": "ローラースケート【インラインスケート、ローラーブレード】",
+      "name_reduced": "ローラースケート【インラインスケート、ローラーブレード】",
+      "typeID": "5",
+      "options": [],
+      "examples": [
+        "インラインスケート",
+        "ローラーブレード"
+      ],
+      "simple": "ローラースケート",
+      "simple_index": "ローラースケート"
+    },
+    {
+      "comment": "地域の資源（古紙など）集団回収で集めている場合はできるだけ資源集団回収へ",
+      "dictionaryID": "497",
+      "index": "ワイシャツ",
+      "name": "ワイシャツ",
+      "name_reduced": "ワイシャツ",
+      "typeID": "7",
+      "options": [],
+      "examples": [],
+      "simple": "ワイシャツ",
+      "simple_index": "ワイシャツ"
+    },
+    {
+      "comment": "販売店などへ",
+      "dictionaryID": "498",
+      "index": "ワインコ（ワインセラー）",
+      "name": "ワイン庫（ワインセラー）",
+      "name_reduced": "ワイン庫（ワインセラー）",
+      "typeID": "9",
+      "options": [
+        "ワインセラー"
+      ],
+      "examples": [],
+      "simple": "ワイン庫",
+      "simple_index": "ワインコ"
+    },
+    {
+      "comment": "",
+      "dictionaryID": "499",
+      "index": "ワリバシ",
+      "name": "割り箸",
+      "name_reduced": "割リ箸",
+      "typeID": "7",
+      "options": [],
+      "examples": [],
+      "simple": "割り箸",
+      "simple_index": "ワリバシ"
+    },
+    {
+      "comment": "指定袋に入らないもの、または5kgを超えるものは大型ごみ",
+      "dictionaryID": "496",
+      "index": "ワープロ（ワードプロセッサ）",
+      "name": "ワープロ【ワードプロセッサ】",
+      "name_reduced": "ワープロ【ワードプロセッサ】",
+      "typeID": "5",
+      "options": [],
+      "examples": [
+        "ワードプロセッサ"
+      ],
+      "simple": "ワープロ",
+      "simple_index": "ワープロ"
+    }
+  ]
+}
